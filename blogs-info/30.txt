@@ -1,0 +1,178 @@
+https://www.sotosllp.com/2022/09/21/the-legal-validity-of-e-signatures-updates-on-ditching-the-pen/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+The Legal Validity of e-signatures: Updates on Ditching the Pen
+Sotos LLP
+Sotos LLP logo
+Canada September 21 2022
+Overview
+
+Mainly due to the increase in work-from-home and remote communications, electronic signatures (“e-signatures”) have been adopted by both provincial and federal legislation to be legally binding in Canada. Save for a few exceptions outlined below, you can feel free to sign a document electronically without compromising its legal validity.
+
+This article outlines the regulation of e-signatures provincially, federally, and in reaction to the COVID-19 pandemic.
+
+Provincial Legislation
+
+Almost all provinces have enacted legislation that follows the Uniform Electronic Commerce Act, which acts as a legal framework to create a uniform system across the country in relation to the digitization of commerce.
+
+Ontario’s legislation, the Electronic Commerce Act (“ECA”) directs that by default, e-signatures are legally binding. The ECA explicitly and clearly sets out the validity of e-signatures. Specifically, it states: “a legal requirement that a document be signed is satisfied by an electronic signature.”[1]. In further detail, it also directs that if a contract does not mention anything about requiring an original or “wet” signature (pen-on-paper signature), using an e-signature is perfectly acceptable. However, if you do not want to accept the other party’s e-signature, you have the right to include language in the contract that only wet signatures will be binding.
+
+What qualifies as an e-signature under the ECA?
+
+The guidelines around what qualifies as an e-signature under the ECA are broad and encompassing. The ECA is encouraging of the use of e-signatures and accepts them in many forms. As long as they fit within the Act’s definition: “electronic information that a person creates in order to sign a document…that is in, attached to or associated with the document”, they will be considered an e-signature for the purposes of the ECA.
+
+What are the exceptions?
+
+The ECA sets out several exceptions to the default rule that e-signatures are legally binding. Firstly, as stated above, a party may choose not to accept an e-signature by stating so in the contract. The ECA states that there is nothing in the Act that requires a person to consent to or abide by the use of electronic information and documents[2]. It also includes the provision that electronic information is acceptable unless the parties agree otherwise[3].
+
+Further, the ECA also lists explicit documents to which the Act does not apply. These documents may still accept e-signatures as binding, but they are governed by their relevant statutes:
+
+Wills and codicils.
+Trusts created by wills or codicils.
+Powers of attorney, to the extent that they are in respect of an individual’s financial affairs or personal care.
+Negotiable instruments.
+Documents that are prescribed or belong to a prescribed class.
+Documents of title, except for contracts for carriage of goods.
+Federal Legislation
+
+The Personal Information Protection and Electronic Documents Act (“PIPEDA”) sets the standards for electronic documents and signatures at the federal level. In section 26(2)(b), the Governor in Council is given the right to remove PIPEDA’s legal authority wherever provincial legislation exists that covers substantially the same issues. For this reason, the ECA and other provincial legislation govern the majority of the law around using e-signatures.
+
+When does PIPEDA apply?
+
+In relation to e-signatures, PIPEDA is brief and specific. As listed below, several sections of the Act explicitly state the types of documents it applies to. At part 2 of the Act, it sets out a narrow range of documents that PIPEDA as a whole applies to. These documents and are limited to the federal law and provisions under the Federal Real Property and Federal Immovables Act, the Canada Labour Code, and the Federal Real Property Regulations[4].
+
+Additionally, it is explained that an e-signature satisfies the federal requirement for a signature under all federal statutes, so long as those statutes allow for the application of PIPEDA[5]. For example, the language and regulations on secure electronic signatures as set out in PIPEDA are also adopted in the Canadian Business Corporations Act to regulate the use of electronic signatures in federally incorporated businesses.
+
+What constitutes an e-signature under PIPEDA?
+
+PIPEDA has a stricter acceptance of e-signatures than the ECA. In order to avoid fraudulent or forged e-signatures, PIPEDA sometimes requires a “secure electronic signature”. This is defined at section 31(1) as “an electronic signature that results from the application of a technology or process prescribed by regulations”. Through the use of algorithms and blockchain technology, these e-signatures authenticate the validity and origin of a signature.
+
+Some of the factors that make up a secure electronic signature include:
+
+a “unique to the person” electronic signature;
+the technology used being under sole control of the person signing;
+the technology or process being identifiable to the person signing; and,
+it is evident whether or not the electronic document has been changed since the electronic signature was incorporated.
+This type of signature is required in:
+
+Documents as evidence (Section 36);
+Seals if required under a provision in Schedules 2 or 3(Section 39);
+Statements made under oath (Section 44);
+Statements declaring truth (Section 45); and,
+Witnessed signatures (Section 46).
+COVID-19 Impact
+
+When the pandemic began, the Canadian legislature enacted the Alternative Filing Methods for Business Act (“AFMBA”) to mitigate the projected issues that remote working would cause. The concerns that were targeted in this Act stem from the Emergency Management and Civil Protection Act. The AFMBA’s purpose included permitting electronic signatures in respect of certain documents under the discretion of the Minister, Director, or Registrar of the relevant business statute[6].
+
+The AFMBA widened the scope for the legal validity of e-signatures, resulting in a more efficient and accessible way of carrying on business during, and eventually after the pandemic.
+
+In addition to this development, the onset of COVID-19 pushed the Canada Revenue Agency to announce that e-signatures met the signature requirements under the Income Tax Act on March 28, 2020.
+
+Signing on the Dotted Line
+
+The ability to draft, sign and send a legally binding document without touching pen to paper has become a routine that not long ago would have been considered a luxury. As a result of the digitization of today’s commerce, e-signatures are providing a more efficient and accessible way of conducting business. Save for the exceptions listed in this article, you should feel just as confident to forget the pen and sign a legal document with your e-signature as you would by hand.
+
+ 
+
+Fabrice is one of the articling students with Sotos LLP for the 2022-2023 term.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Sotos LLP - John Yiokaris and Fabrice Pilla
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Canada Company & Commercial IT & Data Protection Sotos LLP
+Topics
+Blockchain Electronic signature Coronavirus
+Laws
+Personal Information Protection and Electronic Documents Act 2000 (Canada)
+Popular articles from this firm
+The trouble with stair step incentives*
+Federal Ban on Single-Use Plastics*
+Litigation Costs in Ontario: Where the loser pays and the winner… also pays?*
+How do Franchisors Make Money?*
+What happens when your commercial lease comes to an end?*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: De-identification of data used by AI systems (USA)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+How-to guide
+How-to guide: Understanding AI-driven risks (USA)
+Recently updated
+View all
+Related research hubs
+Blockchain
+Coronavirus
+Canada
+Company & Commercial
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 35 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

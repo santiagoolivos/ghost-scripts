@@ -1,0 +1,160 @@
+https://www.dlapiper.com/en-us/insights/publications/2021/12/new-law-on-electronic-document-workflow-in-russia
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+New law on electronic document workflow in Russia
+DLA Piper
+DLA Piper logo
+Russia December 1 2021
+On 22 November 2021, the President of the Russian Federation signed a new law on electronic document workflow in employment relations, which amended the Russian Labour Code (Electronic Workflow Law).
+
+Until recently, electronic document workflow in employment relations has been quite limited. Previously, an electronic document workflow could only be used in respect of remote employees and by employers who were participants of an electronic document workflow experiment. (In accordance with Federal Law No. 122-FZ "On Conducting the Experiment on Electronic HR Document Workflow" dated 24 April 2020, certain employers were granted the right to keep all HR documents in an electronic form without hard copies (Experiment)).
+
+The adoption of the Electronic Workflow Law is just one step among several towards bringing Russian labour legislation into line with modern economic development and it is the result of a long experiment on the use of electronic documents by certain employers.
+
+It is anticipated that once the Electronic Workflow Law enters into effect, the vast majority of employers will switch to electronic document workflow systems in employment relations.
+
+The main provisions of the Electronic Workflow Law are as follows:
+
+Definition of electronic document workflow and the scope of its use
+
+Electronic document workflow in employment relations refers to the process of drafting, signing, using and maintaining HR documents by employers, employees and job candidates in an electronic form without processing hard copies.
+
+With the adoption of the Electronic Workflow Law, an electronic document workflow can now be used for HR documents, which previously had to be signed and acknowledged by the employee and/or job candidate in hard copies using a wet-ink signature.
+
+Furthermore, a job candidate can now provide documents required for future employment (article 65 of the Russian Labour Code) as electronic documents, if so is agreed with the potential employer.
+
+However, the electronic document workflow is restricted in relation to dismissal orders, labour books and certain documents in the sphere of labour safety (e.g. documenting labour safety briefings, reports on workplace injuries).
+
+Managing the electronic document workflow
+
+The Electronic Workflow Law allows management of the electronic document workflow by following information systems:
+
+the government-owned "Work in Russia" unified digital platform; and / or
+the employer's own information system.
+The "Work in Russia" platform is free of charge and carried out via a special government services portal (Gosuslugi). However, the employer must pay for the expenses to operate its own information system.
+
+The Electronic Workflow Law also introduces unified requirements for the content and format of electronic documents which are to be further determined by the authorised bodies.
+
+The procedure of introducing an electronic document workflow
+
+To introduce an electronic document workflow, the employer has to adopt an internal policy (or a so-called internal order), determining:
+
+the information system's main characteristics;
+a list of electronic documents and employees in relation to whom electronic document workflow is to be applied;
+a notice period for the transition to the electronic document workflow and the proposed date of its introduction.
+Such internal document must be adopted upon consultation with the elected body of a relevant trade union organisation (if any) according to article 372 of the Russian Labour Code.
+
+Transition to an electronic document workflow is only possible upon an employee's consent and only in relation to employees who have given such consent. Exceptions can only be made in regard to employees hired for the first time after 31 December 2021.
+
+Electronic signatures
+
+The Electronic Workflow Law provides for the use of an electronic signature within the framework of electronic document workflow and establishes the types of electronic signatures allowed for different categories of HR documents.
+
+In particular, some HR documents may only be signed using a qualified electronic signature (employment agreements, full material liability agreements, disciplinary orders, etc).
+
+All other documents may be signed using either a qualified or a non-qualified electronic signature. In some cases, employees are also allowed to use other types of electronic signatures.
+
+Employee's expenses on receiving and using electronic signatures are covered by the employer.
+
+Electronic document workflow in emergency situations
+
+The Electronic Workflow Law allows employers who have not introduced electronic document workflow in their organisations to exchange electronic documents or scans with their employees in emergency situations (natural or man-made disasters, industrial accidents, workplace injuries, fire, epidemics, etc.) pursuant to an internal policy (or a so-called internal order).
+
+Such internal document must be adopted upon consultation with the elected body of a relevant trade union organisation (if any) according to article 372 of the Russian Labour Code.
+
+The consent of employees to the introduction of an electronic document workflow in emergency situations is not required.
+
+Entry into effect
+
+The Electronic Workflow Law entered into effect on 22 November 2021, the date of its official publication, except for certain provisions.
+
+The regulations on the procedure for interaction between the "Work in Russia" platform and the employer's information system with the special government services portal ("Gosuslugi") will enter into force on 1 September 2022, and the requirements for the content and format of electronic documents will begin to apply from 1 March 2023.
+
+In addition, special rules have been established for the employers who participated in the experiment on electronic document workflow. The participants of the experiment will be able to apply the new rules to the rights and obligations that arose after the end of the experiment. However, they need to complete the transition to an electronic document workflow in compliance with the new Electronic Workflow Law by 1 July 2022.
+
+DLA Piper - Vladislav Mazur
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Russia IT & Data Protection DLA Piper
+Topics
+Electronic signature
+Popular articles from this firm
+Tax Treaty developments GCC Member States*
+Real Estate Transactions in Russia: Overview of Special Regime Established for Transactions Involving Parties Connected with "Unfriendly" States*
+Guide to going global employment - 2015*
+Explaining SWIFT and recent actions*
+Survival Guidelines for Transaction Practitioners: Issue 3: Application of Suretyship Rules to Relations Involving a Third-Party Pledgor*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the UK GDPR (UK)
+Recently updated
+View all
+Related research hubs
+Russia
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 39 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

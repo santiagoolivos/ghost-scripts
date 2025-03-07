@@ -1,0 +1,125 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzY4NTMsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiNzE0YmJjMzEtYzg2MC00YjZjLWFmNjEtNTAxYjIzNGNlYmMzIiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.uoMO34xh726Nu1Td-GM-QbdxF10m2Z0f0UTakxLxa7IMNBwybisvB9IkiK474dH64u-hO7fLQN-ObF7Ox47iQQ
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Aligning with Digital Transformation, Taiwan’s MODA Proposed the Draft Amendments to the Electronic Signatures Act
+Lee Tsai & PartnersMEMBER FIRM OF TerraLex
+Lee Tsai & Partners logo
+Taiwan September 28 2023
+The current Electronic Signatures Act has been in effect for over 20 years since its implementation in 2002, and there have been no amendments during this period. With the global digital transformation, the opportunities for digital applications have increased, and society’s acceptance of digitalization has significantly improved. In response to these changes and to promote the widespread use of electronic documents and electronic signatures, the Ministry of Digital Affairs (the “MODA”) pre-announced the draft Amendments to the Electronic Signatures Act (the “Draft”) on June 27, 2023.[1] These Amendments are highlighted below:
+
+1. Clarifying the relationship between electronic signatures and digital signatures
+
+Article 2, Subparagraph 3 of the Draft explicitly provides that a digital signature is classified as a type of electronic signature. A digital signature is required not only to meet the definition of an electronic signature but also to employ private key encryption and public key verification technology and should be used with a legal certificate. Under Article 6, Subparagraph 2 of the Draft, such a legal certificate refers to a valid certificate issued by a certificate authority as stipulated by the Electronic Signatures Act and has not expired.
+
+2. Specifically stipulating that the function of electronic documents and electronic signatures is equivalent to that of physical documents and signatures
+
+(1) Article 4 of the Draft stipulates that electronic documents and electronic signatures are functionally equivalent to physical documents and signatures. However, in cases of disputes concerning the “authenticity of a signature” or ” whether it was signed by the person in question,” the burden of proof remains with the party claiming the signature is genuine and signed by the person in question.
+
+(2) Pursuant to Article 6 of the Draft, a digital signature carries the “presumption” of being signed by the person in question.
+
+3. Expanding the application of electronic documents and electronic signatures
+
+(1) In principle, both documents and signatures can be prepared and given in electronic form.
+
+The use of electronic documents and electronic signatures is not limited to “transactions.” In principle, documents and signatures can be prepared and given in electronic form (the explanation of Article 1 and Article 5, Paragraph 1 of the Draft).
+
+It should be noted, however, that for documents required by law “to be prepared in writing” or to be “preserved in writing,” the content must be capable of complete presentation and retrievable for future inspection as a precondition in order to be prepared in electronic form (Article 5, Paragraph 3 and Article 8, Paragraph 1 of the Draft).
+
+(2) The use of electronic documents or electronic signatures no longer requires the counterparty’s consent.
+
+Recognizing that practical situations may not always involve a counterparty, the Draft removes receiving the “counterparty’s consent” as the precondition for using electronic signatures. Pursuant to Article 5, Paragraph 4 of the Draft, the use of electronic documents or electronic signatures no longer requires the “consent of the counterparty.” However, before an electronic form is adopted, an opportunity for refusal or alternative options should be provided to the counterparty.
+
+(3) Administrative agencies shall not restrict the use of electronic documents and electronic signatures through directives or notifications.
+
+The current Electronic Signature Act authorizes administrative agencies to exclude the application of electronic documents and electronic signatures by way of directives but does not require administrative agencies to state the reasons for the exclusion or periodically review the necessity of continued exclusion (Article 4, Paragraph 3, Article 6, Paragraph 3, and Article 9, Paragraph 3 of the current Electronic Signatures Act). As a result, this has resulted in over two thousand examples of exclusion, which is inconsistent with the regulatory objectives of the Electronic Signatures Act to promote e-government and e-commerce. Therefore, Article 11 of the Draft stipulates that administrative agencies shall not exclude the application of the Electronic Signatures Act through directives or notifications. Within three years after the Amendments to this law take effect, administrative agencies should gradually repeal notifications excluding the application of the Electronic Signatures Act (Article 17 of the Draft).[2]
+
+This Draft covers a wide range of aspects, including the definitions and effectiveness of electronic documents and electronic signatures, and the Draft expands the scenarios where electronic forms can be used. The pre-announcement period for the current Draft ended on August 25, 2023, and we will pay continued attention to the progress of subsequent legislative deliberations.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Lee Tsai & Partners - Jane Tsai and Lilian Hsu
+
+Lee, Tsai & Partners is a full-service boutique firm with expertises in energy and infrastructure projects, trade secrets and IP protections, merger and acquisition, competition law and dispute resolutions.  Based on our expertise at law and technology, we also focus on areas in fintech, biotechnology and AI.  Led by leaders in their fields, our team works closely as a single practice group so that our clients can leverage the expertise of any of our lawyers across practice areas and offices. If you require legal, trademark, or patent assistance, please contact us at lawtec@leetsai.com or visit our website: https://www.leetsai.com. 
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Taiwan Company & Commercial Internet & Social Media Lee Tsai & Partners
+Topics
+Digital transformation Electronic signature
+Popular articles from this firm
+淺談工期展延之申請要件及應注意事項（台灣）*
+醫療費用預收爭議 臺灣憲法法庭認定合憲*
+Amendment to the Enforcement Rules of the National Health Insurance Act: Abolishment of Suspension and Resumption Mechanism in National Health Insurance (Taiwan)*
+民法第511條所謂「應賠償承攬人因契約終止而生之損害」之涵義（台灣）*
+Taiwan’s Ministry of Labor Amends The “Enforcement Rules of The Labor Insurance Act” to Safeguard the Rights and Interests of Relevant Parties*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+Taiwan
+Internet & Social Media
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 27 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

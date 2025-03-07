@@ -1,0 +1,172 @@
+https://www.cooley.com/news/insight/2024/2024-10-24-fda-finalizes-guidance-on-use-of-part-11-electronic-systems-records-and-signatures-in-clinical-investigations
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+FDA Finalizes Guidance on Use of Part 11 Electronic Systems, Records and Signatures in Clinical Investigations
+Cooley LLP
+Cooley LLP logo
+USA October 24 2024
+On October 1, 2024, the US Food and Drug Administration (FDA) finalized its guidance on the use of electronic records in clinical investigations of drugs, devices, biologics, foods, tobacco products and new animal drugs. The guidance is intended to assist a wide range of stakeholders – including sponsors, clinical investigators, institutional review boards (IRBs) and contract research organizations (CROs) – on good clinical practice compliance. FDA’s new guidance discusses how relevant stakeholders can approach Part 11 compliance in the digital world to maintain accountability and traceability of electronic records, digital health technology data and electronic signatures (e-signatures).
+
+History of Part 11 and clinical investigations
+
+In 1997, the FDA finalized 21 CFR Part 11, which established FDA regulations on electronic records and e-signatures. In 2003, the FDA released guidance on Part 11 discussing its scope and application. Recognizing the advancements in technology made over the last few decades, FDA released draft guidance in 2017 to provide further recommendations on the risk-based approach to validation of electronic systems initially presented in 2003. Following the COVID-19 pandemic, when many sponsors and investigators heavily relied on remote technologies to continue to conduct clinical trials, FDA released revised draft guidance in 2023.
+
+The October 2024 final guidance includes 29 questions covering electronic records, electronic systems deployed by regulated entities, information technology service providers and services, digital health technologies (DHTs) and e-signatures.
+
+Key provisions of the final guidance
+
+Electronic records
+
+Source of real-world data. FDA clarified that Part 11 compliance will not be required for electronic health records or other electronic systems that are sources of real-world data. FDA will only assess compliance with Part 11 once an electronic record is entered into a sponsor’s electronic data capture (EDC) system.
+Conducting trials outside the US. Part 11 applies to any records required to be kept in electronic format. This includes any foreign clinical investigations for which use of such data is intended to support an investigational new drug application (IND) or a marketing application, even if that study is not conducted under an IND.1
+Record retention. FDA does not draw a distinction between electronic and other forms of data when it comes to record retention. During an inspection, a regulated entity will be expected to provide all records and data needed to reconstruct a clinical investigation, including metadata (e.g., the data and time stamp for when the original data were acquired, as well as changes made to the data) and audit trails. Back-up and recovery procedures should be in place where records exist only in electronic form.
+Electronic systems deployed by regulated entities2
+
+Validation of electronic systems. Electronic systems should be validated before use in a clinical investigation.
+FDA inspections of electronic systems. For each clinical investigation, the sponsor and clinical investigator should document:
+The electronic systems used to create, modify, maintain, archive, retrieve or transmit pertinent electronic records.
+The system requirements.
+Sponsors and clinical investigators should be prepared to provide FDA with information such as:
+
+System validation.
+Staff training on use of the system.
+Procedures and controls for system access, data creation, data modification and data maintenance.
+Documentation regarding the use of electronic systems in clinical investigations, including access rights and backup, along with recovery and contingency plans for source records.
+Safeguards. Sponsors and clinical investigators must limit system access to authorized users and maintain a record of all clinical trial personnel authorized to access the electronic system, along with changes to any rights or permissions. Sponsors and clinical investigators should maintain audit trails to capture access and protect such information from modification. The record should note the date and time of any changes made to the record, including the individual making the change and the reason for the change.
+Information technology service providers and services
+
+Contractors. Regulated entities may contract with IT service providers, but such regulated entity remains responsible for ensuring Part 11 compliance.
+Digital health technologies (DHTs)
+
+With advancements in technology and the expansion of decentralized clinical trials, sponsors have been integrating the use of DHTs into trial designs to help obtain additional real-world data at more frequent and continuous time points. Use of DHTs are an important priority for FDA, having established the Digital Health Center of Excellence and having published a framework for the use of DHTs in drug and biological product development, among other recent initiatives.3 In this guidance, it has specifically touched on DHTs with regard to appropriately transferring DHT data to a sponsor’s electronic repository and safeguarding such data from unauthorized manipulation.
+
+Identifying the data originator. As part of an audit trail, each electronic data element should be associated with a data originator that is authorized to enter, change or transmit data elements via a secure data transfer protocol.4 The sponsor should develop and maintain a list of authorized data originators and make this list available for FDA inspection.
+Data attribution. Sponsors should ensure data obtained using a DHT is appropriately attributed to the data originator. Importantly, DHTs should be designed to prevent unauthorized changes to the data stored on the DHT (such as by the participant wearing the DHT). Clinical investigators should properly train participants on the use of DHTs utilized in the trial and document the training.
+Transferring data from a DHT to an electronic data repository. DHT data and its associated metadata should be transmitted by a validated process to a durable electronic data repository (such as a sponsor’s EDC) that includes an audit trail containing date and time of the transfer.
+Electronic signatures (e-signatures)
+
+Elements of an e-signature. The e-signature must contain the signer’s printed name, the date and time of execution, and the meaning associated with the signature. An e-signature should be linked to the respective electronic record.
+Method of e-signature. Part 11 does not specify a particular method that must be used. Methods such as computer-readable ID cards, biometrics, digital signatures, and username and password combinations may be acceptable methods.
+Letters of nonrepudiation. Each e-signature user must send to FDA a letter of nonrepudiation certifying that the e-signature is intended to be the legally binding equivalent of a traditional handwritten signature.
+Use of AI in clinical investigations
+
+One topic that was absent from the final guidance was the use of artificial intelligence (AI) in clinical investigations to support compliance with Part 11. Clinical trial sponsors and other regulated entities have begun using AI and machine learning tools to assist in maintaining compliance with Part 11. For example, AI features – such as face or voice recognition – have been implemented to authenticate e-signature users. Machine learning can then be used to detect suspicious activity. In addition, many DHTs may be AI-enabled with embedded algorithms, or AI may be used on the data once collected, such as for cleaning and curation. AI also is used to extract large volumes of real-world data from electronic health records and medical claims.5 To date, FDA has yet to specifically reference how to account for AI, though it remains a regulated entity’s responsibility to ensure compliance with the FDCA and its implementing regulations when incorporating AI into operations, including Part 11.
+
+Notes
+
+In addition, the sponsor must ensure that any foreign study used to support an IND complies with 21 CFR 312.120.
+“Regulated entities,” as used in the final guidance, refers to sponsors, CROs, clinical investigators and IRBs, to the extent they are responsible for regulatory obligations under a predicate rule to which the recommendations in the guidance pertain. “Predicate rule” refers to any requirements set forth in the Federal Food, Drug, and Cosmetic Act (FDCA), the Public Health Service Act (PHSA) and FDA regulations other than Part 11.
+FDA released a final guidance document in December 2023 on the use of DHTs for remote data acquisitions in clinical investigations.
+For purposes of the guidance, “data originator” means “each data element is associated with an origination type that identifies the source of its capture in the eCRF [electronic case report form]. This could be a person, a computer system, a device, or an instrument that is authorized to enter, change, or transmit data elements into the eCRF (also sometimes known as an author).” FDA, Guidance for Industry, Electronic Source Data in Clinical Investigations, September 2013.
+In July 2024, FDA released a final guidance document on use of real-world data gathered from electronic health records and medical claims data to support regulatory decision-making for drug and biological products.
+This content is provided for general informational purposes only, and your access or use of the content does not create an attorney-client relationship between you or your organization and Cooley LLP, Cooley (UK) LLP, or any other affiliated practice or entity (collectively referred to as “Cooley”). By accessing this content, you agree that the information provided does not constitute legal or other professional advice. This content is not a substitute for obtaining legal advice from a qualified attorney licensed in your jurisdiction and you should not act or refrain from acting based on this content. This content may be changed without notice. It is not guaranteed to be complete, correct or up to date, and it may not reflect the most current legal developments. Prior results do not guarantee a similar outcome. Do not send any confidential information to Cooley, as we do not have any duty to keep any information you provide to us confidential. This content may be considered Attorney Advertising and is subject to our legal notices.
+
+Cooley LLP - Sonia Nath, Natasha Leskovsek and Elizabeth Caruso
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA Healthcare & Life Sciences IT & Data Protection Product Regulation & Liability Cooley LLP
+Topics
+Artificial intelligence Machine learning Digital health Confidential information
+Organisations
+US Food and Drug Administration
+Popular articles from this firm
+February 2025 One-Minute Reads*
+Gone but Not Forgotten: Federal Laws Still Apply Despite Guidance Disappearance Act*
+New Delaware bill would offer safe harbor for conflicted transactions—will it convince companies to stay put in Delaware?*
+Glass Lewis Changes Course on Board Diversity (Too)*
+How to Form a Corporation in Delaware*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+ChatGPT & Generative AI - The Legal & Ethical Issues - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+4 March 2025
+Using AI to Enhance Your Digital Marketing Strategy - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+6 March 2025
+The EU AI Act - An Introduction to Risks, Compliance & More - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+31 March 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: De-identification of data used by AI systems (USA)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+How-to guide
+How-to guide: Understanding AI-driven risks (USA)
+Recently updated
+View all
+Related research hubs
+Artificial intelligence
+Digital health
+USA
+Healthcare & Life Sciences
+Product Regulation & Liability
+×
+My Lexology
+Access my saved content
+ Full article, 48 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

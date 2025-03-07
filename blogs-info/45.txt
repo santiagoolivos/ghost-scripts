@@ -1,0 +1,137 @@
+https://hauzen.hk/the-show-must-go-on-signing-with-electronic-signatures-in-hong-kong?utm_source=rss&utm_medium=rss&utm_campaign=the-show-must-go-on-signing-with-electronic-signatures-in-hong-kong
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+The Show Must Go On - Signing with Electronic Signatures in Hong Kong
+Hauzen
+Hauzen logo
+Hong Kong May 31 2021
+Electronic signatures have been recognised in under Hong Kong laws as early as January 2000 with the enactment of the Electronic Transactions Ordinance (Cap. 553) (“ETO”).
+
+Given the current social and travel restrictions put in place to combat the COVID-19 pandemic, and where “work from home” is becoming the new normal for many businesses including law firms, the usage of electronic signatures is becoming more and more common.
+
+This article provides a summary of the current legal framework governing electronic signatures in commercial settings and in litigation settings.
+
+Requirements of E-Signatures
+
+ETO draws a distinction between Electronic Signatures and Digital Signatures (collectively, “E-Signatures”). Electronic Signatures are defined to mean “any letters, characters, numbers or other symbols in digital form attached to or logically associated with an electronic record and executed or adopted for the purpose of authenticating or approving the electronic record”. Digital Signatures, on the other hand, are a more complicated form of E-signature.
+
+Provided that an Electronic Signature complies with the requirements set out under ETO, Electronic Signatures are considered to be valid and enforceable, and share the same legal status as traditional “wet-ink” signatures, for transactions not involving any government entity. The requirements for Electronic Signatures are provided under Section 6(1) of the ETO as follows:-
+
+the Electronic Signature must be attached to, or be logically associated with, the electronic message for the purpose of identification and indicating his/her approval of the information in the electronic message;
+the method used to apply the Electronic Signature must be reliable and appropriate for the purpose for which the signature is required; and
+the recipient of the electronic message must consent to the use of Electronic Signatures.
+Currently, there are no express requirements for the format of Electronic Signatures.
+
+Where the transaction involves a government entity, Digital Signatures must be used. They are required to be:-
+
+supported by a recognised certificate;
+generated within the validity of that certificate; and
+used in accordance with the terms of that certificate.
+Limitation of E-Signatures
+
+Schedule 1 of the ETO sets out a list of documents that are not suitable to be electronically signed i.e. must be executed with traditional wet-ink signatures. They include a will, codicil or any other testamentary documents, documents in relation to the creation, execution, variation or revocation of a trust, documents in relation to the creation, execution, variation or revocation of a power of attorney, documents required to be stamped or endorsed under the Stamp Duty Ordinance (Cap. 117), Government conditions of grants and leases, documents referred to under the Land Registration Ordinance (Cap. 128) including documents effecting a floating charge , any assignment, mortgage or legal charge within the meaning of the Conveyancing and Property Ordinance (Cap. 219) or relating to interest in immovable property, oaths and affidavits, statutory declarations and negotiable instruments.
+
+Further, the ETO explicitly excludes the application of E-Signatures to court proceedings in relation to any information given, presented or retained, documents served, or signatures required unless any rule provides otherwise. We anticipate that there will be future developments in this regard, especially with the passing of the Court Proceedings (Electronic Technology) Bill to facilitate electronic filing on 17 July 2020. Currently, there is no information as to when this Bill will come into force.
+
+As a closing note, we set out below some practical considerations when using E-Signatures in Hong Kong:-
+
+Check whether the document is one permitted under the ETO to be signed electronically.
+Check whether there are other requirements e.g. registration requirements, filing requirements and the counterparty’s requirements in relation to E-Signature.
+Consider whether E-Signatures are equally valid and enforceable in other jurisdictions or whether there are additional requirements to execution of documents by electronic means in cases where the document is a multi-jurisdictional document.
+Parties should verify and satisfy themselves that the E-Signature identifies with the signatory.
+Consider whether to include express terms in relevant contracts binding E-Signatures.
+Consider whether the document will have to be notarised in the future and/or whether the execution must be witnessed.
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Hong Kong Company & Commercial IT & Data Protection Hauzen
+Topics
+Electronic signature Coronavirus
+Popular articles from this firm
+Remote Hearings Set to Increase in Hong Kong*
+What to do if you are caught in a “Rug”?*
+The Crypto Winter and the Rise in Crypto Fraud*
+Record keeping in the cloud: As an old law falls to a modern reality, do SFC licensees risk repercussions?*
+SFC’s Revised Guidelines on Competence to become effective on 1 January 2022*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+How-to guide
+How-to Guide: Risks and liabilities of AI algorithmic bias (USA)
+Recently updated
+Checklist
+Checklist: De-identification of data used by AI systems (USA)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+View all
+Related research hubs
+Coronavirus
+Hong Kong
+Company & Commercial
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 41 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

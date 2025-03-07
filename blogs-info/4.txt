@@ -1,0 +1,138 @@
+https://www.paulhastings.com/en-GB/insights/client-alerts/reform-attempt-to-soften-the-written-form-requirement-for-commercial-lease
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Reform Attempt to Soften the Written Form Requirement for Commercial Lease Agreements
+Paul Hastings LLP
+Paul Hastings LLP logo
+Germany August 19 2024
+Lease agreements with a term of more than one year are currently subject to a written form requirement under the German Civil Code. For years, there have been ongoing discussions about a potential abolition of the written form requirement for commercial lease agreements. Recently, the German government has introduced a draft of the Fourth Bureaucracy Relief Act (Viertes Bürokratieentlastungsgesetz) which provides for the requirement of the written form for commercial leases to be replaced by the text form (e.g., by exchange of emails).
+
+The Written Form Requirement for Long-Term Lease Agreements
+
+Under German law, lease agreements which were concluded for a period of more than one year are currently subject to the written form requirement. This means that all essential parts of the agreement between the parties (in particular the parties, the leased property, the lease term, and the rent) must result from a written uniform document signed by both parties.[1] All subsequent amendments to the lease agreement must be in writing also. A lease agreement concluded verbally, by email, or by DocuSign does not meet this written form requirement.
+
+If the requirements have not been observed, the lease agreement is valid but can be terminated by either party at any time with statutory notice period (i.e., in the case of commercial leases, by notice no later than the third working day of a calendar quarter to the end of the next calendar quarter), because—despite its fixed term—it is deemed to have been concluded for an indefinite period due to the breach of form. As even minor, formal errors are sufficient to justify a breach of the written form, this written form requirement represents a considerable economic risk and uncertainty in planning for both contracting parties, particularly in commercial lease agreements (as in Germany, most of the residential lease agreements are concluded for an indefinite term anyhow). This not only affects landlords, who often incur considerable costs for construction or renovation measures that are only amortized over the entire fixed lease term, but also tenants who calculate with a long-term use of the leased property.
+
+The primary purpose of the written form requirement is to protect the purchaser of a leased property. Under German law, the purchaser of a leased property enters automatically into the rights and obligations of the lease agreement. The provision that long-term lease agreements must be concluded in writing is therefore supposed to enable the purchaser of a property to review exactly which contractual obligations it is entering into. If the content of the lease agreement or any additional agreements has not been concluded in writing and a purchaser is therefore unable to obtain comprehensive knowledge of the rights and obligations into which it is about to enter, it is given the opportunity to terminate the lease agreement. However, this option is not only available exclusively to the purchaser of a leased property, but also to the original parties to the lease agreement.
+
+Proposed Abolition of the Written Form Requirement for Commercial Lease Agreements
+
+The draft act introduced by the German government provides for the requirement of the written form for commercial leases to be replaced by the text form. This means that long-term commercial lease agreements (i.e., agreements with a term of more than one year) and any subsequent agreements would no longer have to be signed by both parties in the original but that, for example, the exchange of signed, scanned versions or even an agreement by email or text message would be sufficient. Text form only requires a legible declaration including the name of the declaring person and which is submitted on a durable medium. Verbal agreements do not fulfill the text form requirement and would—as before—result in the possibility of termination of the lease agreement by either party.
+
+Practical Implications of the Abolition of the Written Form Requirement for Commercial Lease Agreements
+
+The suggested text form requirement in commercial lease agreements is a relief for the parties and represents a significant step toward reducing bureaucracy and toward digitalization. The requirement reduces administrative work to a certain extent and simplifies the process of concluding agreements. Lease agreements would no longer have to be printed out several times and sent by post.
+
+The main purpose of the written form requirement—the documentation of the lease agreement and its essential details for a purchaser—can also be met by text form. Sufficient protection for the purchaser of a property can also be provided by carefully reviewing the text-form lease documents during the process of purchasing a property (due diligence). It cannot be excluded that this may lead to increased verification work since tenant files and tenant correspondence would have to be reviewed and checked for any agreements relating to the lease agreement in order to record the parties’ agreements. However, in regard to the current written form requirement, there already is uncertainty as to whether all agreements relating to the lease agreement have actually been recorded in writing. This risk can be mitigated in practice by including corresponding guarantees and warranties regarding the lease situation in the purchase agreement and by requiring the tenant under the lease agreement to submit a confirmation of completeness listing all existing agreements related to the lease.
+
+It remains to be seen whether further criteria developed by various court decisions for compliance with the written form, which go beyond the mere handwritten signature of the parties, will be adjusted. In particular, it is currently required that the lease documents are physically or by content connected so that they appear as a uniform document. Therefore, annexes to the lease agreement or amendments need to make sufficient reference to the original lease agreement (and previous amendments). It seems likely that the requirements for the connection by content will remain the same or even increase. An amendment to a lease agreement by an informal email will therefore still harbor the risk of a breach of form and, thus, the risk of premature termination of the lease agreement. In addition, the line between negotiation and agreement could become blurred in, for example, email correspondence.
+
+Thoughtful parties to a commercial lease agreement will therefore continue to execute lease agreements and amendments according to the current standard but without the final step of handwritten signatures, instead either signing with a simple electronic signature (e.g., via DocuSign) or exchanging electronic copies of the signed agreements. Amendments via text message or simple email should be avoided, as it cannot be excluded that these amendments may also in the future not fulfill the criteria set by the courts.
+
+The draft act has been referred to several expert committees of the parliament. The legislative process will continue after the end of the parliamentary summer break in September 2024, and it is expected that the draft act will be passed later this year.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Paul Hastings LLP - Dr. Jan Gernoth and Johanna Mayer
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Germany Real Estate Paul Hastings LLP
+Topics
+Due diligence Electronic signature
+Popular articles from this firm
+PH COVID-19 Client Alert Series: Force Majeure Provisions // German Legislator Aims to Mitigate Consequences of the Corona-Pandemic by Changing Civil, Corporate, and Insolvency Law*
+The German Foreign Trade Law and Its effects on international M&A transactions*
+Germany - Employer Update 2017*
+Hard Balance Sheet Guarantees and Their Construction Under German Law*
+Global Employer Update 2025: Germany*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+Private Company Acquisitions - An Essential Guide - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+4 March 2025
+ChatGPT & Generative AI - An Advanced Guide to The Legal & Regulatory Aspects - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+31 March 2025
+Technological M&A - A Competitive Tool in the Era of Disruptive Innovations - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+24 April 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Privacy and data security due diligence in M&A (USA)
+Recently updated
+Checklist
+Checklist: Processor due diligence (data protection and cybersecurity) (EU)
+Recently updated
+How-to guide
+How-to guide: How to comply with due diligence requirements for financial institutions determined to be of primary money laundering concern (USA)
+View all
+Related research hubs
+Due diligence
+Germany
+Real Estate
+×
+My Lexology
+Access my saved content
+ Full article, 23 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

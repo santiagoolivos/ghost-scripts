@@ -1,0 +1,239 @@
+https://taypartners.com.my/digital-transition-is-malaysia-ready-for-it/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Digital Transition - Is Malaysia Ready for It?
+Tay & Partners
+Tay & Partners logo
+Malaysia June 21 2021
+Introduction
+
+Tiktok, Dogecoin, Zoom, OneDrive and Taobao, what do they all have in common? They are among the hottest things in the world right now. And they are all on the internet.
+
+The Covid-19 pandemic has accelerated the embrace of technology and internet at an unprecedented pace. TikTok, the new social media giant in town, surpassed 2 billion downloads in May 2020 after just a few years of existence[1]. Dogecoin, a digital currency created in 2013 as a parody of Bitcoin, had a market capitalization of over USD92 billion on 7 May 2021[2], in no small part thanks to the Musk Effect[3]. Zoom[4], One Drive[5] and Taobao[6] all recorded staggering sales and profits in 2020 while closer to home, the cloud computing market in Malaysia is expected to be worth US$3.7bil in 2024, growing at a compounded annual rate of 13% from 2020. The question is, thus, are the major laws in Malaysia prepared to transition the country seamlessly into this new, increasingly connected and technology-oriented world?
+
+Communications and Multimedia Act 1998
+
+Being the primary statutory legislation that governs how we use the internet, the Communications and Multimedia Act 1998 (CMA 1998) continues to affirm the principle that nothing in it shall be construed as permitting the censorship of the internet. The chief regulator, the Communications and Multimedia Commission (MCMC), oversees the four primary licensable activities under CMA 1998, being network facilities, network services, applications services, and content applications services.
+
+Most apps, software and internet solutions fall under applications services and content applications services. In this regard, MCMC’s position that internet solutions are not licensable activities – thus do not require a licence under CMA 1998 to operate – remains unchanged. Specifically, the Communications and Multimedia (Licensing) (Exemption) Order 2000 exempts all content applications services provided via the internet from holding a licence to operate. It is worth mentioning that MCMC assesses licensing requirements of business activities on a case-to-case basis, and business owners are encouraged to consult with their lawyers to be certain as to whether their services would be subject to licensing requirements.
+
+While internet solutions providers may not be subject to licensing requirements, they should be alert to the Malaysian Communications and Multimedia Content Code (Content Code). Launched in September 2004, the Content Code has provisions on the good standards and practices in the communications and multimedia industry in relation to content, advertisements, guidelines for broadcasters and online content providers as well as complaints procedure. The Content Code received an update in February 2020 and now features a provision on respecting the privacy of individuals. Compliance with the Content Code is voluntary, but MCMC is empowered by CMA 1998, which has no territorial restrictions, to direct any person to comply with the same and failure to do so may constitute an offence.
+
+Personal Data Protection Act 2010
+
+Arguably one of the most important statutory legislations that pertains to the digital world as we know, the Personal Data Protection Act 2010 (PDPA 2010) came into force in November 2013 and regulates the use of personal data in commercial transactions. PDPA 2010 applies to persons who are established in Malaysia or persons who are not in Malaysia but use equipment in Malaysia for processing personal data. PDPA 2010 currently does not apply to the Federal Government and State Governments and any personal data that is processed outside Malaysia unless it is intended to be further processed in Malaysia.
+
+PDPA 2010 sets out the seven anchoring principles of personal data protection, being:
+
+the general principle[7];
+the notice and choice principle[8];
+the disclosure principle[9];
+the security principle[10];
+the retention principle[11];
+the data integrity principle[12]; and
+the access principle[13].
+PDPA 2010 is further complemented by a suite of subsidiary legislations and standards including the Personal Data Protection Regulations 2013 and Personal Data Protection Standard 2015, both of which set out further data processing obligations on data users and additional requirements pertaining to the seven principles of personal data protection. In addition, the Personal Data Protection Commissioner has since the coming into force of PDPA 2010, registered five codes of practice pursuant to Section 23(3) PDPA 2010 for the following sectors which are to be complied by the relevant class of data users:
+
+communications
+banking and financial
+insurance and takaful
+aviation
+utilities (electricity)
+In February 2020, the Commissioner in its Public Consultation Paper No. 01/2020[14] released a list of 22 proposed amendments to PDPA 2010 aimed at strengthening the enforcement and efficiency of PDPA 2010 as well as keeping it relevant to rapidly changing times and technology:
+
+redefining data processors and subjecting them to direct obligations under PDPA 2010;
+adding a right to data portability e. the right of data subjects to access their personal data in a structured, machine-readable format which can be transferred from one data user to another to get services;
+requiring data users to appoint a data protection officer who will be responsible to oversee the data protection strategy and implementation in an organisation;
+requiring data users to report incidents of data breach to the Commissioner;
+restructuring section 6 of PDPA 2010 to add clarity on the subject matter of consent;
+replacing the present provisions on transfer of personal data to places outside Malaysia, which are seen as curbing transfers of personal data, with clear provisions to promote and facilitate more efficient e-commerce transactions and free trade agreements;
+instructing data users to integrate privacy by design in their systems;
+inserting a clear provision on Do Not Call Registry (DNCR) with a view to balance the needs of data users to engage in direct marketing and the needs of data subjects for privacy;
+granting data subjects the right to know the third parties to whom their personal data has been disclosed;
+allowing data subjects to pursue civil remedies against data users under PDPA 2010;
+issuing clear policy on endpoint security in an effort to reduce data breach incidents;
+extending the application of PDPA 2010 to include the Federal Government and State Governments;
+issuing guidelines on the mechanism and implementation of cross border data transfers;
+exempting business contact information g. business cards, name cards, etc. from compliance with PDPA 2010;
+issuing guidelines to assist data users with disclosures of personal data required by law to promote understanding and cooperation;
+classifying data users based on business activities instead of sectors and law under which their activities are governed;
+allowing voluntary registration by data users who do not come within the classes of data users that are mandatory to register themselves as data users under PDPA 2010;
+extending the application of PDPA 2010 to include non-commercial activities;
+extending the application of PDPA 2010 to include data users outside Malaysia who engage in the monitoring and profiling of data subjects in Malaysia;
+requiring data users to provide a clear mechanism for data subjects to unsubscribe from online services;
+allowing data subjects to make the first direct marketing call; and
+issuing a guideline on the usage of cloud computing for data users to minimise the risks of data breach incidents.
+While the public consultation ended on 28 February 2020, there has been no update as to when the proposed amendments will be finalised and tabled in the Parliament for debates and implementation.
+
+It is not difficult to see how beneficial these amendments can be in terms of meaningfully extending the reach of PDPA 2010, clarifying the obligations of data users and data processors and strengthening the protections afforded to data subjects.
+
+Consumer Protection Act 1999
+
+The Consumer Protection Act 1999 (CPA 1999) is the primary statutory legislation that regulates the supply of goods and services to consumers in Malaysia. CPA 1999 received arguably its most important update in 2007[15] when it clarified its application to “trade” to include any trade transaction conducted through electronic means. This means that consumers who purchase goods and services from online marketplaces and e-commerce platforms can take comfort in the knowledge that they receive the same protection (e.g. unfair contract terms, implied guarantees, remedies against suppliers, etc.) as that afforded by CPA 1999 to purchases from a brick-and-mortar business.
+
+On the back of the amendment, CPA 1999 released the Consumer Protection (Electronic Trade Transactions) Regulations 2012 which regulates the activities of online marketplace operators. Among others, it requires any person who operates a business for providing goods or services through a website or an online marketplace to disclose the following information as prescribed in the Schedule of the 2012 Regulations:
+
+the name of the person, business or company operating the business;
+the registration number of the business or company, if applicable;
+the e-mail address and telephone number, or address of the person operating the business;
+a description of the main characteristics of the goods or services;
+the full price of the goods or services including transportation costs, taxes and any other costs;
+the method of payment;
+the terms and conditions; and
+the estimated time of delivery of the goods or services to the buyer.
+The 2012 Regulations also requires sellers to provide appropriate means to enable buyers to rectify any errors prior to confirming their order and once an order is placed, sellers must acknowledge receipt of the order without undue delay[16]. It further specifically directs online marketplace operators to maintain a record of the names, telephone numbers and addresses of persons who sell goods and services on their platform. Such records must be kept for a period of two years[17].
+
+Electronic Commerce Act 2006 x Digital Signature Act 1997
+
+Electronic and certificate-based digital signatures are well accepted in Malaysia. While they may be mentioned interchangeably sometimes, there is a distinction between the two.
+
+Electronic signature has a statutory meaning under the Electronic Commerce Act 2006 (ECA 2006) which includes any letter, character, number, sound or any other symbol or any combination thereof created in an electronic form adopted by a person as a signature. Under ECA 2006, if any law requires a signature on a document that is in the form of an electronic message (meaning any information generated, sent, received or stored by electronic means), the person may sign electronically provided:
+
+the electronic signature is attached to or is logically associated with the electronic message;
+the electronic signature adequately identifies the person and adequately indicates the person’s approval of the information to which the signature relates; and
+the electronic signature is as reliable as is appropriate given the purpose for which, and the circumstances in which, the signature is required[18].
+As for the third requirement, ECA 2006 clarifies that an electronic signature is as reliable as is appropriate if the means of creating the signature is linked to and under the person’s control and any alteration made to the signature as well as the document (embodying the signature) after signing is detectable[19].
+
+By way of an example, our highest court of the land held in Yam Kong Seng & Anor v Yee Weng Kai [2014] 6 CLJ 285 that an SMS (short message service) constituted electronic signature:
+
+“Section 9 of the ECA is more comprehensive in that where any law requires a signature of a person on a document, the requirement of the law is fulfilled if the document is in the form of an electronic message (the SMS in this case), by an electronic signature subject to the collective demands of sub-paras. (a) to (c). For purposes of this appeal the legal requirement for a signature is fulfilled as, inter alia, the sender is adequately identified let alone admitted by him.”
+
+It should be noted that ECA 2006 does not apply to powers of attorney, the creation of wills and codicils, the creation of trusts, and negotiable instruments. These documents should not be electronically signed as they risk being not binding on the parties.
+
+As regards dealings with the Malaysian government, the Electronic Government Activities Act 2007 (EGAA 2007) similarly recognises the use of electronic messages in fulfilling legal requirements. As such, identical provisions on electronic signature in ECA 2006 can be found in EGAA 2007[20].
+
+Digital signatures are governed by the Digital Signature Act 1997 (DCA 1997) and are defined to mean a transformation of a message using an asymmetric cryptosystem such that a person having the initial message and the signer’s public key can accurately determine (a) whether the transformation was created using the private key that corresponds to the signer’s public key, and (b) whether the message has been altered since the transformation was made.
+
+Under DCA 1997, where a rule of law requires a signature or provides for certain consequences in the absence of a signature, that rule shall be satisfied by a digital signature where:
+
+that digital signature is verified by reference to the public key listed in a valid certificate issued by a licensed certification authority under DCA 1997;
+that digital signature was affixed by the signer with the intention of signing the message; and
+the recipient has no knowledge or notice that the signer:
+(i) has breached a duty as a subscriber; or
+
+(ii) does not rightfully hold the private key used to affix the digital signature[21].
+
+Based on MCMC’s official website[22], the list of licensed certification authorities under DCA 1997 presently has Pos Digicert Sdn Bhd, MSC Trustgate.Com Sdn Bhd, Telekom Applied Business Sdn Bhd and Raffcomm Technologies Sdn Bhd.
+
+DCA 1997 further affirms that a document signed with a digital signature in accordance with the Act shall be as legally binding as a document signed with a handwritten signature, an affixed thumb-print or any other mark. Further, a digital signature created in accordance with this Act shall be deemed to be a legally binding signature.
+
+Capital Markets and Services Act 2007
+
+The Capital Markets and Services Act 2007 (CMSA 2007) regulates and provides for matters relating to the activities, markets and intermediaries in the capital markets. It regulates, among others, the use of cryptocurrencies in Malaysia.
+
+Back in December 2018, the Securities Commission (SC), the governing body of CMSA 2007, issued a joint press statement[23] with Bank Negara Malaysia in an effort to clarify the regulatory approach for the offering and trading of digital assets (which includes digital currencies and digital tokens) in Malaysia. Among others, SC would regulate issuances of digital assets via initial coin offerings (ICO) and the trading of digital assets at digital asset exchanges in Malaysia and was in the midst of drafting the relevant laws to bring digital assets within the remit of securities laws to promote fair and orderly trading and ensure investor protection.
+
+In January 2019, the SC followed up with the Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019 and released a revised Guidelines on Recognized Markets[24] on 31 January 2019. Among others, the 2019 Order sets out the definitions of “digital currency” and “digital token” and prescribe the cases in which they would be regarded as securities under the meaning of CMSA 2007 and be subject to all relevant provisions. It further clarifies that a digital currency and digital token that are prescribed as securities under the 2019 Order that is offered or traded on or through a recognized market is not a share in or debenture of, a body corporate or an unincorporated body, or a unit in a unit trust scheme or prescribed investments scheme. On the other hand, the Guidelines on Recognized Markets states that DAX (Digital Asset Exchange) operators shall obtain the Securities Commission’s approval to facilitate the trading of any digital asset. As at 5 May 2021[25], the recognised market operators for DAX are Luno Malaysia Sdn Bhd, SINEGY Technologies (M) Sdn Bhd and Tokenize Technology (M) Sdn Bhd.
+
+The recognition of legality of digital assets is also seen in the courts. In Robert Ong Thien Cheng v Luno Pte Ltd & Anor [2019] 1 LNS 2194, the High Court affirmed the decision of the Sessions Court which held that Section 73 of the Contracts Act 1950 (which requires a person to whom money has been paid, or anything delivered, by mistake or under coercion, must repay or return it) is wide enough to cover Bitcoin, the world’s most popular digital currency.
+
+It should however be emphasised that the position of the Central Bank of Malaysia that digital currencies are not legal tender in the country[26] continues to be the case. This is echoed in the SC’s Guidelines on Digital Assets issued on 28 October 2020[27].
+
+Conclusion
+
+Granted, major updates and improvements are still underway as can be seen in the proposed amendments to the personal data protection laws, it is fair to say that Malaysia has laid the crucial foundational law to enable the implementation of these updates to bring in the new age in technology, media and telecommunications.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Tay & Partners - Lee Lin Li
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Malaysia Banking Capital Markets Company & Commercial IT & Data Protection Litigation Tay & Partners
+Topics
+Consumer protection Bitcoin Cloud computing Cryptocurrency Electronic signature Initial coin offering Coronavirus E-commerce
+Popular articles from this firm
+Directors’ Remuneration and Directors’ Service Contracts: Legal Requirements in Malaysia*
+How the Malaysian National Guidelines on AI Governance and Ethics Will Impact You*
+Data Sharing Bill 2024*
+Franchising in Malaysia: What you need to know*
+Exclusion clauses in Malaysia: Are they still enforceable?*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+An Introduction to Cloud Computing Contracts - Without the Jargon - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+15 April 2025
+An Introduction to Cloud Computing Contracts - Without the Jargon - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+15 October 2025
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Key steps to mitigate risks associated with using cryptocurrency (USA)
+How-to guide
+How-to guide: How to address tax and accounting considerations when using cryptocurrency (USA) 
+How-to guide
+How-to guide: Understanding the legal and regulatory framework of Central Bank Digital Currency (CBDC) (USA)
+View all
+Related research hubs
+Coronavirus
+Initial coin offering
+Malaysia
+IT & Data Protection
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 40 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

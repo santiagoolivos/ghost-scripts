@@ -1,0 +1,171 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzcwNzIsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiNjBhYTlhZmYtMzMyMS00YjQ5LThiOGMtYWJlNmM5MjZjNzgwIiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.q6Ij6og8Jhlljvu2VZpGnwwFL2CID6AYSdx1rFU0MIis_cZebW_-A4zFBMc-ioiV8a3CgiQtodO7lHaPHdiooA
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Differentiating Digital Signatures & eSignatures in Legal Operations
+CobbleStone Software
+CobbleStone Software logo
+Global, United Kingdom, USA November 21 2022
+What is a digital signature? Is it not the same thing as an electronic signature?
+
+We inhabit an ever-evolving technological legal operations landscape in which new and updated terminology and functionality are constantly presented. It can be confusing to know the differences between terms such as the two mentioned above. However, those differences are quite simple!
+
+Familiarize yourself with these two terms. Discover how to utilize both eSignatures and digital signatures to establish a process that is:
+
+secure.
+user-friendly.
+compliant.
+and rapid.
+Electronic Signature 
+
+An electronic signature (or eSignature) is an electronic signing process that accepts an agreement or contract. Electronic signing is a generic function that can be accomplished in various forms. These forms include:
+
+a click-wrap acknowledgment of terms and conditions.
+applying your written signature on a phone or tablet.
+pasting a facsimile of your signature into an electronic document.
+or even applying a signature by using a generic digital certificate.
+The most important aspect of electronic signing is it does not require any type of validation of the signer’s identity. It is only a means of collecting an acknowledgment. There is no real assurance that the signer is who they say they are.
+
+Digital Signature
+
+ Digital signature solutions leverage certificate-based digital identification for validation of document integrity. These certificates are often issued by a certificate authority (or CA) and provide proof of signing with trusted time stamps. The use of encryption binds a digital certificate associated with a signature to the corresponding document.
+
+The cryptographic operation allows Digital Signatures to verify and assure the following:
+
+The document is authentic and comes from a verified source.
+The document has not been tampered with since being digitally signed.
+Your identity has been verified by a trusted organization (the CA or trust service providers (TSPs)).
+Digital signature solutions providers follow specific and widely accepted, standard formats called private key infrastructure and public key infrastructure (PKI). The process relies on the provider using a mathematical algorithm to create two lengthy number strings – called public and private keys. Private and public key certificates must be handled securely. That is where CAs and TSPs come into the equation.
+
+Why Digital Signatures Are Needed
+
+Organizations from a variety of industries can benefit from replacing manual, paper-based signing processes with electronic signatures. E-signatures support shorter contract lifecycles, reduced costs, and automated contract workflows. Upgrading from an electronic signature to create a digital signature can further improve security, compliance, and signature acceptance.
+
+Some regulations, like the eIDAS, and other international, federal, and state laws may require digital signatures. A digital signature securely provides the highest levels of authenticity and integrity. CobbleStone’s Digital Signature provider, Global Sign, is a member of the Adobe Approved Trust List (AATL) and the European Union Trusted Lists (EUTL).
+
+What are the AATL and the EUTL?
+
+ The Adobe Approved Trust List (AATL) is a program that enables millions worldwide to sign documents in Adobe Document Cloud solutions. AATL uses the world’s most trusted digital signing certificates. The certificate authorities (CAs) and trust service providers (TSPs) on this list issue digital signing certificates and time-stamp services.
+
+These certificates and services are used to comply with legal and regulatory requirements around the world. This is done by verifying that the services and credentials meet the assurance levels imposed by the AATL technical requirements.
+
+Adobe adds the certificate(s) to the Trust List itself. Next, Adobe digitally signs the Trust List with an Adobe corporate digital ID linked to the Adobe Root certificate embedded in Adobe products. Adobe then posts the list to a website hosted by Adobe. A digitally signed document from a signer whose digital certificate can trace its lineage (chain) back to a certificate on the AATL will automatically be trusted.
+
+The European Union Trusted Lists (EUTL) is a public list of over 200 Trust Service Providers (TSPs). These TSPs are accredited to deliver compliance with the EU eIDAS electronic signature regulation. These providers offer certificate-based digital IDs, digital seals, and time-stamping services.
+
+Only qualified signatures are legally and automatically equivalent to handwritten signatures. They are also the only types of signatures automatically recognized in cross-border transactions among EU member states. Each EU member state supervises providers in its own country. However, once a TSP is approved in one country, its services can be sold in other EU countries with the same level of compliance.
+
+The Benefits of Digital Signature Software
+
+ Electronic signatures are the virtual equivalent of handwritten signatures for paper documents. Digital signatures can be considered the virtual equivalent of notarized signatures for digital documents. The certificate authority (CA) serves as an electronic “notary” for the verification of document integrity and signatures.
+
+You need digital signature software that offers a security certificate, proof of document content integrity, and a signature timestamp. The solution that you need is leading contract lifecycle management software that includes digital signature functionality.
+
+Digital signatures provide a secure, transparent, user-friendly, and compliant signing process. Your organization can save time, money, and resources with a process that is:
+
+secure.
+widely accepted.
+streamlined
+cost-effective.
+and more efficient.
+Legally binding, compliant digital signatures with CobbleStone can help your organization to meet the requirements of many international and industry-specific regulations. Enjoy signature security and verification like eIDAS advanced electronic signatures and more. To explore contract lifecycle management software options, download this complimentary CLM software report.
+
+To see future-minded contract lifecycle management software in action, click here.
+
+To stay up to date on legal tech innovations, contract lifecycle management best practices, and industry news, subscribe here.
+
+CobbleStone Software - Sean Heck
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Global United Kingdom USA IT & Data Protection Law Department Management Law Firm Management Legal Tech CobbleStone Software
+Topics
+Digital transformation Electronic signature Contract management Contract management software
+Popular articles from this firm
+Understanding Annual Contract Value (ACV) & Its Calculation*
+3 Smart Goals for Legal Teams*
+Contract Termination - A Simple, 3-Step Approach for Your Legal Team*
+6 Digital Transformation Goals for Contract Managers in 2025*
+How Legal Technology Can Make Contract Drafting Easy*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Contract Law Round Up - Hot Topics with Helen Swaffield
+
+MBL Seminars | 5 CPD hours
+London
+16 July 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+Contract management
+USA
+United Kingdom
+Legal Tech
+Law Department Management
+×
+My Lexology
+Access my saved content
+ Full article, 31 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

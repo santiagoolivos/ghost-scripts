@@ -1,0 +1,161 @@
+https://www.morganlewis.com/pubs/2021/12/irs-extends-temporary-use-of-electronic-or-digital-signatures-until-2023
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+IRS Extends Temporary Use of Electronic or Digital Signatures until 2023
+Morgan Lewis & Bockius LLP
+Morgan Lewis & Bockius LLP logo
+USA December 13 2021
+The US Internal Revenue Service has extended its temporary approval of accepting electronic or digital signatures on certain IRS forms until October 31, 2023, and has expanded the list of forms that may be signed electronically or digitally to include Form 1042, Annual Withholding Tax Return for US Source Income of Foreign Persons.
+
+Memorandum NHQ-10-1121-0005 (the Memorandum) extends the temporary policy previously announced in an Internal Revenue Service (IRS) news release on August 28, 2020, which was later updated through Memorandum NHQ-10-1220-0006 on December 28, 2020 (the December Memo), and Memorandum NHQ-10-0421-0002 on April 15, 2021 (the April Memo). In this prior guidance, the temporary acceptance of digital and electronic signatures on certain IRS Forms was set to expire on December 31, 2021.
+
+Reiterating the December Memo and April Memo, the Memorandum confirms that both digital and electronic signatures may be used, and that both electronic and digital signatures can appear in “many forms” and “may be created by many different technologies.” The IRS still does not require any specific technology for purposes of producing a digital or electronic signature during this temporary acceptance period. Thus, it appears the IRS will accept images of signatures (scanned or photographed) and digital signatures (those using encryption techniques).
+
+The Memorandum expands the list of IRS forms that may be electronically or digitally signed (full list included below) to include Form 1042, Annual Withholding Tax Return for US Source Income of Foreign Persons (for withholding agents or intermediaries to report certain payments subject to withholding). Form 8832, Entity Classification Election (which allows an eligible entity to elect how it will be classified for US federal tax purposes), and Internal Revenue Code Section 83(b) election statements (which allows a taxpayer to elect to report income from the transfer of property for the performance of services in the year of such property transfer) remain on the list of IRS forms that may be electronically or digitally signed. All IRS forms submitted under this temporary IRS policy must be signed and postmarked on August 28, 2020 or later.
+
+The Memorandum explains that the IRS is extending this temporary policy as a continued response to the COVID-19 situation by minimizing the need for in-person contact. However, although the IRS has now extended this temporary policy several times since it was first introduced in August 2020, this policy may not be continued, at least not in this current form, after October 31, 2023.
+
+The following are the forms listed in the Memorandum:
+
+Form 11-C, Occupational Tax and Registration Return for Wagering
+Form 637, Application for Registration (For Certain Excise Tax Activities)
+Form 706, US Estate (and Generation-Skipping Transfer) Tax Return
+Form 706-A, US Additional Estate Tax Return
+Form 706-GS(D), Generation-Skipping Transfer Tax Return for Distributions
+Form 706-GS(D-1), Notification of Distribution from a Generation-Skipping Trust
+Form 706-GS(T), Generation-Skipping Transfer Tax Return for Terminations
+Form 706-QDT, US Estate Tax Return for Qualified Domestic Trusts
+Form 706 Schedule R-1, Generation Skipping Transfer Tax
+Form 706-NA, US Estate (and Generation-Skipping Transfer) Tax Return
+Form 709, US Gift (and Generation-Skipping Transfer) Tax Return
+Form 730, Monthly Tax Return for Wagers
+Form 1042, Annual Withholding Tax Return for US Source Income of Foreign Persons
+Form 1066, US Income Tax Return for Real Estate Mortgage Investment Conduit
+Form 1120-C, US Income Tax Return for Cooperative Associations
+Form 1120-FSC, US Income Tax Return of a Foreign Sales Corporation
+Form 1120-H, US Income Tax Return for Homeowners Associations
+Form 1120-IC DISC, Interest Charge Domestic International Sales – Corporation Return
+Form 1120-L, US Life Insurance Company Income Tax Return
+Form 1120-ND, Return for Nuclear Decommissioning Funds and Certain Related Persons
+Form 1120-PC, US Property and Casualty Insurance Company Income Tax Return
+Form 1120-REIT, US Income Tax Return for Real Estate Investment Trusts
+Form 1120-RIC, US Income Tax Return for Regulated Investment Companies
+Form 1120-SF, US Income Tax Return for Settlement Funds (Under Section 468B)
+Form 1127, Application for Extension of Time for Payment of Tax Due to Undue Hardship
+Form 1128, Application to Adopt, Change or Retain a Tax Year
+Form 2678, Employer/Payer Appointment of Agent
+Form 3115, Application for Change in Accounting Method
+Form 3520, Annual Return to Report Transactions with Foreign Trusts and Receipt of Certain Foreign Gifts
+Form 3520-A, Annual Information Return of Foreign Trust With a US Owner
+Form 4421, Declaration – Executor’s Commissions and Attorney’s Fees
+Form 4768, Application for Extension of Time to File a Return and/or Pay U.S. Estate (and Generation-Skipping Transfer) Taxes
+Form 8038, Information Return for Tax-Exempt Private Activity Bond Issues
+Form 8038-G, Information Return for Tax-Exempt Governmental Bonds
+Form 8038-GC Information Return for Small Tax-Exempt Governmental Bond Issues, Leases, and Installment Sales
+Form 8283, Noncash Charitable Contributions
+Form 8453 series, Form 8878 series, and Form 8879 series regarding IRS e-file Signature Authorization Forms
+Form 8802, Application for US Residency Certification
+Form 8832, Entity Classification Election
+Form 8971, Information Regarding Beneficiaries Acquiring Property from a Decedent
+Form 8973, Certified Professional Employer Organization/Customer Reporting Agreement
+Elections made pursuant to Internal Revenue Code section 83(b)
+Navigating the NEXT.
+
+Sharing insights and resources that help our clients prepare for and address evolving issues is a hallmark of Morgan Lewis. To that end, we maintain a resource center with access to tools and perspectives on timely topics driven by current events such as the global public health crisis, economic uncertainty, and geopolitical dynamics. Find resources on how to cope with the globe’s ever-changing business, social, and political landscape at Navigating the NEXT. to stay up to date on developments as they unfold. Subscribe now if you would like to receive a digest of new updates to these resources.
+
+Morgan Lewis & Bockius LLP - Sarah-Jane Morin
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA Tax Morgan Lewis & Bockius LLP
+Topics
+Electronic signature Coronavirus
+Organisations
+Internal Revenue Service (USA)
+Laws
+Internal Revenue Code (USA)
+Popular articles from this firm
+Developments in SEC and FINRA Enforcement and Exams for Investment Advisers and Broker-Dealers: 2024-2025*
+Artificial Intelligence and Data Centers Predicted to Drive Record High Energy Demand*
+Washington Supreme Court Clarifies Limits on Employers’ Anti-Moonlighting Agreements*
+US Department of State Releases March 2025 Visa Bulletin*
+AI Compliance: A Quick Reminder*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Key steps to mitigate risks associated with using cryptocurrency (USA)
+How-to guide
+How-to guide: Implementing a policy to avoid cryptocurrency-related scams in business (USA)
+How-to guide
+How-to guide: Understanding the use of cryptocurrency for payments in business (USA)
+View all
+Related research hubs
+Coronavirus
+Internal Revenue Service (USA)
+USA
+Tax
+×
+My Lexology
+Access my saved content
+ Full article, 38 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

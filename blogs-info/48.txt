@@ -1,0 +1,134 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc3NTcsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiMGU0ZTE3MDEtYjNhZi00ZGM0LWEzNDEtNDU1MTJiZDIwOWJmIiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.U0rslELSUHurnCkqqDXBZB4Xx2sMkq8SoGRrw80nh_aQAP-FzS1cUt4qsbxc-Hz-2hgM7tW_vOEikJ3AtaNEZA
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Is it Time for the Resign of the E-Sign “Reasonable Demonstration?”
+Bradley Arant Boult Cummings LLP
+Bradley Arant Boult Cummings LLP logo
+USA April 8 2021
+Banking Exchange
+
+The E-Sign Act was signed into law over two decades ago. To put that into context, smart phones as we know them did not exist—the most popular mobile phone in 2000 was a flip phone, the Nokia 3310, and the first iPhone would not debut for another seven years. The most popular website was AOL because many people were still using AOL as their internet service provider. Google was a fledgling company with its search engine just starting out among the mainstays like Excite and Lycos. Google’s G-mail would not be released for another four years.
+
+Needless to say, a tremendous amount has changed in those twenty years. Of most importance to this article is the use of electronic delivery for notices. At the time the E-Sign act was passed, the concept of receipt of notices in electronic form was a relatively novel concept. Personal business was not routinely conducted online by most people. Staples of today like online banking and online loan applications were almost unheard of at that time, with less than 1% of U.S. households banking online at the start of 2000.
+
+While the benefits to moving to electronic notices were obvious and the E-Sign Act enabled progress on that front, it presented challenges in view of the lack of uniformity in how year-2000 consumers accessed electronic information. At that time there were a number of potential issues including the hardware and software the individual was using and—as hard as it is to believe now—issues with bandwidth and storage.
+
+Unlike today, there was no guarantee that a consumer’s device would be able to view and store notices regardless of the form used to deliver them. This meant that it was possible that a consumer could agree to receive electronic notices and then have no readily available way to view them. The E-Sign act addressed this problem in two ways.
+
+The E-Sign Act explicitly requires that in obtaining consent to receive electronic notices that a consumer “(i)prior to consenting, is provided with a statement of the hardware and software requirements for access to and retention of the electronic records. . . .” 15 U.S.C. § 7001(c)(1)(C)(ii). Whether these disclosures are ever read notwithstanding, they are routinely made as required. While the burden here is relatively low, one must question whether this requirement has outlived its usefulness when it is unheard of for hardware or software to be limiting factors in viewing any standard notice document.
+
+The more burdensome requirement and focus of this article is that the E-Sign Act requires consent to be given “in a manner that reasonably demonstrates that the consumer can access information in the electronic form that will be used to provide the information that is the subject of the consent. . . .” 15 U.S.C. § 7001(c)(1)(C)(ii) (emphasis added).
+
+Historically, the specifics of this “reasonable demonstration” were not set out explicitly but most interpreted it to require some affirmative action by the consumer to prove they had the capability to receive the information. An example of a common demonstration was to send the consumer a code using the same format that would be used to send notices and then have the consumer send back the code to confirm their ability to view it. While a demonstration like this adequately establishes the ability of the consumer to view the notices, it is a separate set of compliance actions that introduce complexity into a process while reducing efficiency.
+
+At a minimum it can create delay and require handling the exceptions such as when someone requests electronic notices but fails to provide the code. The extra steps can also be burdensome to consumers particularly when there is no concern on their part of the ability to view standard notices.
+
+The use of separate actions undertaken by the consumer to provide a reasonable demonstration has decreased substantially over time for several reasons. One is that the prevalence of more than capable hardware and standard software has made it highly unlikely a consumer will be unable to receive and view disclosures made in standard forms. This means the requirement is increasingly viewed as a potentially significant operational impediment with very limited, if any, consumer protection benefit. To the contrary, as noted above it could be seen as an unnecessary impediment to routine convenience of electronic notices.
+
+A second reason for the reduction in the use of separate confirming actions is an increased employment of “self-demonstrating consent.” This can be done when the same technology that will be used to provide notices is necessarily used in the process of obtaining consent for electronic notice. For example, if the E-Sign Act consent is obtained through an online sign-up for a product or service and the format used to present the application will also be used to provide the notices electronically, then the ability to provide the consent equates with a demonstration of being able to receive and view the notices to be sent subsequently.
+
+It is now standard practice for financial institutions to direct consumers to authenticate to a site to review notices and disclosures due to information security and privacy concerns, making it more feasible to use this self-demonstrating form of consent of presenting notices in the same form as the original consent.
+
+All of the factors discussed herein have reduced the focus on the reasonable demonstration element and greatly lessened the risk of enforcement around this specific element if an institution is using standard practices. For example, the OCC recently rescinded Advisory Letter 2004-11 “Electronic Consumer Disclosures and Notices,” which discussed the reasonable demonstration element and explicitly noted that the banks subject to the guidance should design an appropriate method to obtain consent in a manner that reasonably demonstrates the ability of the customer to receive the electronic notice and disclosures. Even more recently, the CFPB performed a comprehensive review of financial consumer law requirements, publishing its results in a report last month:
+
+The substance of the reasonable-demonstration requirement also may be antiquated, better suited to a time when software programs had widely different capabilities and when there was a genuine question as to whether a given consumer could open a particular type of electronic file. Today, formats such as PDF are widely available, free to download, and compatible with most operating systems, reducing concerns that consumers will consent to receiving notices that they cannot open.
+
+Taskforce on Federal Consumer Financial Law Report, Vol. I, pg. 474 (January 2021) (emphasis added). In the second volume of the same report, the CFPB explicitly recommends removing these “antiquated” requirements;
+
+Congress should eliminate the E-Sign Act’s antiquated requirements, including the required disclosures regarding necessary hardware and software and the requirement a consumer’s consent be in a manner that reasonably demonstrates that the consumer can access information in the electronic records. More generally, Congress should consider revising the consent process, allowing consent by either a simple statement of agreement or consent to conduct the transaction electronically or an inference from the circumstances of the transaction.
+
+Taskforce on Federal Consumer Financial Law Report, Vol. II, ¶ 48 (January 2021).
+
+While not dispositive, the sum of these actions and logic behind it track the overall trend of a de-emphasis on the “reasonable demonstration” element. While businesses cannot ignore the explicit wording of the statute until it is formally amended, it is useful to consider the historical reasoning for these requirements and balance the pros and cons of requiring confirmation tasks that can be seen as impediments to efficient process. Until it is formally addressed, the use of “self-demonstrating” consent can be a good option where feasible.
+
+Bradley Arant Boult Cummings LLP - Steven T. Snyder
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA Company & Commercial IT & Data Protection Legal Tech Bradley Arant Boult Cummings LLP
+Topics
+Electronic signature
+Organisations
+Consumer Financial Protection Bureau (USA)
+Popular articles from this firm
+Insurance - Texas Style, Part 1: Stowers Liability and Insurance Towers*
+Mistake No. 8 of the Top 10 Horrible, No-Good Mistakes Construction Lawyers Make: Know the Benefits and Perils of a Privately Administered Arbitration*
+Construction and Procurement Law Newsletter*
+The Risks of 50-50 Owned Business Partnerships: This Marriage of Equals Does Not Guarantee Success*
+The Top 10 Things Every Employer Should Know About OSHA*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Related practical resourcesPRO
+How-to guide
+How-to Guide: Risks and liabilities of AI algorithmic bias (USA)
+Recently updated
+How-to guide
+How-to guide: Understanding AI-driven risks (USA)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+View all
+Related research hubs
+Consumer Financial Protection Bureau (USA)
+USA
+Legal Tech
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 42 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

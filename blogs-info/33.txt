@@ -1,0 +1,119 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc0MTUsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiMDI3MjdkZmEtOWI5My00MTBlLWJiZTctZTU0ZjJlYmFlNmFjIiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.ihHK-qHwmXaELP-5MD_LdGIGEbSXTNbsYTczFI8K5qznJnkNWLrTM2mAFMh1kW57zPfvpyXoCB346vPsq4PGlg
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+An overview of e-signatures and their use in real estate transactions in Ireland
+Philip Lee
+Philip Lee logo
+Ireland May 19 2022
+The move towards e-conveyancing has encountered many obstacles in its path however the introduction of new regulations earlier this year has removed some of these.
+
+The 2022 Regulations are part of a continued goal of bringing about e-conveyancing in Ireland, the effect of which will see a dramatic reduction in the time it will take to transact for property in Ireland. A key aspect of this goal being the acceptance of e-signatures on real estate documents.
+
+As of 9 February 2022, the Electronic Commerce Act 2000 (Application of sections 12 to 23 to Registered Land) Regulations 2022 (the “2022 Regulations”) have been written into law. The Regulations 2022 allow for the implementation of provisions within the Electronic Commerce Act 2000 (the “2000 Act”), specifically, the implementation of Sections 12 – 23 of the 2000 Act.
+
+The relevant provisions of the 2000 Act for the purposes of this article can be found in Section 13 (1), which stipulates that an e-signature can be used provided that:
+
+“If by law or otherwise the signature of a person or public body is required (whether the requirement is in the form of an obligation or consequences flow from there being no signature) or permitted, then, subject to subsection (2), an electronic signature may be used.”
+
+There are two primary forms of e-signature that are used in Ireland:
+
+Simple Electronic Signature – This is the most common form of e-signature and can take the form of a typed name or initials, a signature written on an electronic device, a scanned copy of a handwritten wet signature, or a signature generated through the use of software such as DocuSign.
+Advanced Electronic Signature – The use of this signature allows for the signature to be linked to a specific signatory, which can then be changed by the signatory through the use of encryption or passwords that is unique to the signatory. This form of signature as can be imagined can only be achieved through the use of software like the aforementioned DocuSign.
+As the law currently stands, e-signatures can be used for numerous real estate documents, however, there are two key caveats to this:
+
+That the document does not create a legal interest in the property; and
+That the document does not need to register in the Property Respiration Authority (the “PRA“).
+These requirements limit the scope of documents which can be signed through the use of e-signatures, and any document that creates a legal interest in the property cannot be signed by way of e-signature. For example, an e-signature can be validly used on a contract for sale, however, it cannot be used on a deed of transfer as the latter would need to be registered with the PRA.
+
+Much of these rules are determined by the PRA as per Section 12 (2) (b) of the 2000 Act, which stipulates that a public body may, at their own discretion, determine the form in which a signature must be made. The effect of this, and the fact that the 2022 Regulations implement this Section, mean that the PRA can determine that e-signatures can be validly used on all real estate documents, including those that create a legal interest in the property.
+
+The 2022 Regulations are in force, however until the PRA publish their guidelines the path to e-conveyancing in Ireland is still not clear.
+
+ 
+
+Philip Lee - Thomas O’Malley and John Somers
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Ireland Real Estate Philip Lee
+Topics
+Electronic signature
+Industries
+Real estate
+Popular articles from this firm
+Non-Disclosure agreements and the Maternity Protection, Employment Equality and Preservation of Certain Records Act 2024*
+Share Buybacks and Redemptions: Legal Update - Companies Act 2014*
+Strike out for want of prosecution and the balance of justice*
+Ireland’s Digital Economy at a crossroads*
+Lis pendens: What is it and how should it be dealt with?*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+How-to guide
+How-to guide: Overview of workplace harassment (USA)
+How-to guide
+How-to guide: How to avoid age discrimination in the workplace (UK)
+Recently updated
+Checklist
+Checklist: Dealing with workplace injuries (USA)
+View all
+Related research hubs
+Ireland
+Real Estate
+×
+My Lexology
+Access my saved content
+ Full article, 36 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

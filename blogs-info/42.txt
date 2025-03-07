@@ -1,0 +1,154 @@
+https://www.lexology.com/library/detail.aspx?g=a8d713c1-5cb2-4bf8-8d40-63dbcb60c32f
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Kwalifikowane podpisy elektroniczne - praktyczne aspekty
+Bird & Bird
+Bird & Bird logo
+Poland July 12 2021
+Podpis elektroniczny w Polsce ma już ponad 20 lat, jednak dopiero niedawno jego użycie zaczęło być rzeczywiście powszechne. Już nikogo nie dziwi prośba kontrahenta o podpisanie umowy w formie elektronicznej.
+
+W świetle przepisu art. 781 § 2 kodeksu cywilnego forma elektroniczna obejmuje wyłącznie oświadczenia woli w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym (qualified electronic signature – QES).
+
+Użycie innego niż QES rodzaju podpisu elektronicznego (zwykłego lub zaawansowanego) sprawi, że umowa zostanie zawarta w formie dokumentowej, a nie w formie elektronicznej w rozumieniu ww. przepisu.
+
+W ramach tego materiału skupiamy się wyłącznie na praktycznych kwestiach związanych z korzystaniem z formy elektronicznej w rozumieniu kodeksu cywilnego – zatem z wykorzystaniem kwalifikowanego podpisu elektronicznego. Z naszych doświadczeń wynika, że praktyczne stosowanie QES budzi nadal szereg wątpliwości – postaramy się je rozwiać.
+
+Wprowadzenie
+
+Wspomniany przepis art. 781 § 2 kodeksu cywilnego zrównuje oświadczenie woli złożone w formie elektronicznej (tj. w postaci elektronicznej opatrzonej QES) z oświadczeniem woli złożonym w formie pisemnej.
+
+Nie oznacza to jednak, że QES jest tylko i wyłącznie elektronicznym substytutem podpisu własnoręcznego. Używanie QES w taki sposób sprawia, że nie wykorzystujemy wielu nowych możliwości związanych ze stosowaniem formy elektronicznej. Używanie kwalifikowanego podpisu elektronicznego wyłącznie jako zamiennika podpisu własnoręcznego można porównać do korzystania ze smartfona wyłącznie do prowadzenia rozmów telefonicznych.
+
+QES ma wszystkie funkcjonalności podpisu własnoręcznego, a dodatkowo daje nam nowe możliwości, takie jak:
+
+jednoznaczne ustalenie tożsamości podpisującego (podczas, gdy przy podpisie własnoręcznym pewność mamy dopiero po wylegitymowaniu osoby składającej podpis),
+ochronę integralności podpisanego dokumentu (każda późniejsza zmiana jest rozpoznawalna – dokumentu nie da się przerobić),
+nieograniczoną liczbę "oryginalnych" egzemplarzy,
+możliwość użycia podpisu w różnych celach (np. zatwierdzenie do podpisu, aprobata, tzw. parafa, itp.) poprzez wskazanie kontekstu podpisu.
+Przy okazji stosowanie QES pozwala na eliminację wad tradycyjnego podpisu własnoręcznego:
+
+problemy z formalną ważnością podpisów nieczytelnych lub niepełnych,
+problemy z identyfikacją osób, które składają podpisy, co jest zwłaszcza uciążliwe, gdy podpisy nie są składane jednocześnie w trakcie spotkania,
+ryzyko podmienienia stron dokumentu składającego się z wielu stron,
+ryzyko związane z przeniesieniem uzgodnień dokonywanych poprzez elektroniczną komunikację na wydruk do podpisu,
+ryzyko związane z datą złożenia podpisu (data złożenia podpisu własnoręcznego może być inna niż data wpisana na dokumencie).
+Checklista
+
+Gdy zamierzamy zawrzeć umowę w formie elektronicznej (tj. z wykorzystaniem QES), należy zwrócić uwagę na następujące kwestie:
+
+Podpisy elektroniczne wszystkich podpisujących osób muszą być kwalifikowanymi podpisami elektronicznymi (QES). W wielu krajach (także unijnych) QES jest rzadko używany na skutek popularyzacji innych rodzajów podpisu elektronicznego, np. w Norwegii zwykle używa się zaawansowanego podpisu elektronicznego. Uwaga! Zaawansowany podpis elektroniczny może być oparty o kwalifikowany certyfikat, jednak nie będzie spełniał wymogów dla QES. W razie wątpliwości najlepiej zweryfikować testowy dokument korzystając z Adobe Reader (dla formatu pdf), dowolnego programu do obsługi QES lub z otwartych serwisów, takich jak https://weryfikacjapodpisu.pl lub https://ec.europa.eu/cefdigital/DSS/webapp-demo/validation, pamiętając, że nie powinniśmy weryfikować w ww. serwisach dokumentów z danymi poufnymi. Weryfikując podpis należy zwrócić uwagę, czy aplikacja lub serwis jednoznacznie informuje, że dokument został podpisany kwalifikowanym podpisem elektronicznym. W tym celu powinniśmy uzyskać dwie informacje: • informację, że certyfikat podpisu jest kwalifikowany (zgodnie z eIDAS Załącznik I – regulation 910/2014 Annex I) oraz że • do złożenia podpisu zostało użyte kwalifikowane urządzenie (może to być np. komunikat „the private key related to this certificate resides in a Qualified Signature Creation Device (QSCD)”.
+Kwalifikowany certyfikat podpisu elektronicznego powinien być wystawiony przez upoważnionego (kwalifikowanego) dostawcę usługi zaufania. Lista kwalifikowanych dostawców jest dostępna na portalu udostępnianym przez Komisję Europejską pod tym linkiem. Dodatkowo kwalifikowany certyfikat QES jest wyraźnie oznaczony jako kwalifikowany certyfikat podpisu elektronicznego. QES oparty na kwalifikowanym certyfikacie wydanym w jednym państwie członkowskim jest uznawany za QES we wszystkich pozostałych państwach członkowskich. Ta sama zasada dotyczy innych kwalifikowanych usług zaufania świadczonych przez kwalifikowanych dostawców usług zaufania mających siedzibę w Unii Europejskiej. Można zatem korzystać z takich usług świadczonych przez innych dostawców z Unii Europejskiej, tym bardziej, że znaczna część z tych usług jest świadczona online.
+Jeśli jedna z osób podpisujących umowę nie ma certyfikatu QES, można spróbować uzyskać dla niej taki certyfikat przed zawarciem umowy. Coraz więcej dostawców QES umożliwia wystawienie kwalifikowanego certyfikatu podpisu elektronicznego bez potrzeby weryfikacji tożsamości w trakcie spotkania bezpośredniego, zastępując je weryfikacją w trakcie połączenia wideo. Usługi takie dostępne są zarówno u dostawców zagranicznych jak i krajowych.
+Możliwe jest podpisanie umowy w modelu hybrydowym (elektroniczno-papierowym). W modelu hybrydowym jedna ze stron podpisuje umowę korzystając z QES, a druga składa podpis własnoręczny na wydruku. Taka formuła wymaga jednak przechowywania osobno podpisanych egzemplarzy i pliku z podpisem przez każdą ze stron.
+Kwalifikowany podpis elektroniczny występuje w kilku formach. QES składa się najczęściej przy pomocy aplikacji dostarczonej przez podmioty świadczące kwalifikowane usługi zaufania. Aplikacja taka pozwala na wybór typu podpisu – QES może być podpisem w pliku pdf, który pozwala na włączenie podpisu w strukturę takiego pliku, podpisem na ustrukturalizowanych danych w XML (dotyczy to zwłaszcza dokumentów administracji publicznej) lub może stanowić odrębny plik (tzw. podpis zewnętrzny – plik podpisywany i plik podpisu są odrębnymi plikami). W zależności od typu podpisu, w czasie składania elektronicznego podpisu albo jest nadpisywany oryginalny plik plikiem z dodanym podpisem, albo też powstaje odrębny plik. W przypadku podpisu zewnętrznego powstaje dodatkowy plik o nazwie zgodnej z nazwą pliku podpisywanego, ale o rozszerzeniu wskazującym na rodzaj podpisywanego pliku – np. xades. W praktyce jednak najczęściej wykorzystywany jest podpis wewnętrzny tzn. plik podpisywany zawiera w sobie podpis elektroniczny. Najczęściej podpisuje się dokumenty w formacie pdf. Format pdf umożliwia wizualizację podpisu poprzez umieszczenie w jego treści graficznego symbolu podpisu, jednak należy pamiętać, że ta wizualizacja nie jest podpisem, a wydruk takiego dokumentu jest jedynie kopią treści bez podpisu.
+Sposób składania QES może być różny – należy sprawdzić właściwe instrukcje. Sam kwalifikowany podpis elektroniczny występuje w wielu formach technicznych i można z niego korzystać na wiele sposobów – zarówno z wykorzystaniem programu zainstalowanego na komputerze jak i poprzez usługi chmurowe. Zwłaszcza korzystanie z QES w ramach platform do zarządzania dokumentami elektronicznymi może być specyficzne i dostosowane do business case.
+Pełnomocnictwo do zawarcia umowy w formie elektronicznej powinno być w miarę możliwości w tej samej formie. Jeśli strona umowy jest reprezentowana przez pełnomocnika, należy pamiętać o przepisie art. 99 § 1 Kodeksu cywilnego „Jeżeli do ważności czynności prawnej potrzebna jest szczególna forma, pełnomocnictwo do dokonania tej czynności powinno być udzielone w tej samej formie.” Jeśli zatem umowa wymaga formy pisemnej pod rygorem nieważności (np. umowa leasingu), a strona jest reprezentowana przez pełnomocnika, to pełnomocnictwo musi być w formie pisemnej z podpisem własnoręcznym lub w formie elektronicznej. W praktyce lepiej, aby zachować formę elektroniczną także dla pełnomocnictwa, gdyż w przeciwnym razie występują niedogodności związane z modelem hybrydowym (konieczność przechowywania równolegle dokumentów elektronicznych i papierowych).
+W umowach zawieranych w formie elektronicznej zbędne jest postanowienie o miejscu zawarcia umowy. W razie jego pozostawienia, informacja ta będzie mogła wprowadzić w błąd, gdyż osoby składające podpisy mogą przebywać faktycznie w innych miejscach. Alternatywnie można dodać informację o miejscu złożenia podpisu, co może mieć znaczenie przy umowach z elementem międzynarodowym. Przy trybie ofertowym zawierania umowy warto pamiętać o domniemaniu z art. 70 § 2 kodeksu cywilnego, zgodnie z którym, jeśli oferta jest składana w postaci elektronicznej, to w razie wątpliwości umowę poczytuje się za zawartą w miejscu zamieszkania albo w siedzibie składającego ofertę w chwili zawarcia umowy.
+W większości przypadków w umowach zawieranych w formie elektronicznej zbędne będzie postanowienie o dacie zawarcia umowy. Data złożenia podpisu wynika wprost z danych zawartych we właściwościach podpisu. W niektórych przypadkach można zdecydować o wskazaniu w treści umowy daty zawarcia, gdyż może to ułatwić identyfikację wielu umów tego samego rodzaju zawieranych pomiędzy tymi samymi stronami. Niezależnie od tego, w odniesieniu do trybu ofertowego zawarcia umowy, kwestię daty zawarcia umowy reguluje art. 70 § 1 kodeksu cywilnego – w razie wątpliwości umowę poczytuje się za zawartą w chwili otrzymania przez składającego ofertę oświadczenia o jej przyjęciu, a jeżeli dojście do składającego ofertę oświadczenia o jej przyjęciu nie jest wymagane - w chwili przystąpienia przez drugą stronę do wykonania umowy. W praktyce warto dodawać postanowienie umowne, które jasno wskazuje datę nie tyle zawarcia, co wejścia umowy w życie i rozpoczęcia jej wykonywania.
+Nie należy dodawać tradycyjnego postanowienia o liczbie „jednobrzmiących” egzemplarzy umowy. Umowa w formie elektronicznej może występować w dowolnej liczbie identycznych egzemplarzy będących jednocześnie oryginałami.
+Warto przejrzeć umowę pod kątem postanowień wskazujących formę pisemną dla komunikacji między stronami. Przy zawieraniu umowy w formie elektronicznej warto także zastanowić się nad wymogami dotyczącymi określonej formy dla oświadczeń składanych przez strony w trakcie wykonywania umowy. W praktyce wiele zawiadomień, wniosków lub zgód nie będzie miało „formy pisemnej pod rygorem nieważności” lub jej zachowanie może być utrudnione. Można rozważyć złagodzenie tego wymogu i zastąpienie go formą dokumentową ewentualnie dodać wyraźne postanowienie, że gdy w umowie jest mowa o formie pisemnej pod rygorem nieważności, może być ona zastąpiona formą elektroniczną.
+Z prawnego i technicznego punktu widzenia zbędne jest dodawanie w umowie graficznych symboli podpisów. Z uwagi na obecny etap stosowania formy elektronicznej i braku wiedzy wielu uczestników rynku rekomendujemy dodawanie takich graficznych symboli podpisu (w przypadku stosowania formatu pdf). Należy jednak pamiętać, że są one tylko graficzną wizualizacją podpisu, ale nie są podpisami w znaczeniu przepisów prawa.
+QES może być wykorzystywany nie tylko do składania podpisów pod oświadczeniami woli. Przy odpowiedniej konfiguracji QES możliwe jest dodanie w trakcie czynności podpisywania tzw. kontekstu podpisu – tzn. celu złożenia podpisu. Powód podpisu pojawi się wówczas we właściwościach podpisu oraz w graficznym symbolu. Funkcjonalność ta pozwala na składanie podpisów na umowie przez osoby, które nie składają oświadczeń woli, a jedynie np. ją parafują, potwierdzają jej zgodność formalno-prawną lub dokonują wewnętrznej akceptacji. W przypadku składania na umowie podpisów tylko przez osoby, które reprezentują strony, dodawanie kontekstu podpisu nie jest konieczne.
+Jeśli jedna osoba reprezentuje dwie lub więcej stron umowy, nie jest konieczne składanie przez nią kilku podpisów elektronicznych. Wystarczające będzie złożenie jednego podpisu, jednak wtedy należy w treści umowy zaznaczyć, że taki podpis jest składany przez nią jednocześnie w imieniu wskazanych stron. Warto wówczas odpowiednio zmienić miejsce w umowie przeznaczone do umieszczenia graficznych symboli podpisów, tak, aby uniknąć wątpliwości związanych z wieloma miejscami wskazanymi w treści dokumentu do złożenia podpisu.
+Jeśli umowa zawierana w formie elektronicznej jest przesyłaną pocztą elektroniczną, należy zwrócić uwagę, aby w trakcie przesyłania nie były zmieniane metadane pliku. W niektórych organizacjach stosuje się oprogramowanie, które usuwa metadane z plików wysyłanych poza organizację – należy je wyłączyć w chwili wysyłania umowy w formie elektronicznej, inaczej podpis elektroniczny zostanie zmodyfikowany i nie będzie można go poprawnie zweryfikować. Jeżeli nie jest możliwe wyłączenie tej funkcji, zaleca się umieszczenie podpisanego dokumentu w skompresowanym pliku w formacie .zip.
+Po podpisaniu umowy warto zweryfikować, czy umowa została prawidłowo podpisana podpisami elektronicznymi. Przy korzystaniu z formatu pdf najprościej to zrobić przy pomocy Adobe Reader. Można także wykorzystać programy oraz serwisy omówione w pkt. 1.
+Można rozważyć dokonanie weryfikacji QES poprzez skorzystanie z usługi kwalifikowanej walidacji. Weryfikacja dokonana w jeden ze wskazanych wyżej sposobów jest zwykle wystarczająca, jednak nie jest ona wiążąca dla osób trzecich. Nie zawsze też będzie zadowalająca - jakość i bezpieczeństwo weryfikacji realizowanej za pomocą poszczególnych aplikacji mogą się różnić, a ponadto nie każdy program tak samo sobie radzi z weryfikacją QES, które mogą pochodzić od różnych dostawców (ponad setka w UE) i być w różnych formatach. Prawidłowa weryfikacja QES wymaga także pewnej wiedzy na temat sposobu działania usług zaufania. Dla uzyskania jednoznacznego potwierdzenia, że umowa została podpisana kwalifikowanymi podpisami elektronicznymi, które będzie mogło służyć jako dowód w ewentualnym postępowaniu sądowym, konieczne jest skorzystanie z usługi kwalifikowanej walidacji podpisu elektronicznego. Usługi takie są zwykle płatne. W Polsce usługa taka jest świadczona tylko przez Asseco jako WebNotarius (stan na lipiec 2021). Dostęp do niej można uzyskać bezpośrednio od dostawcy lub poprzez serwisy, które udostępniają do niej dostęp np. https://szukio.pl. Kwalifikowana walidacja pozwala na uzyskanie dowodu, że umowa została prawidłowo podpisana, co zapobiega ewentualnym wątpliwościom, które mogą powstać po wygaśnięciu certyfikatów, którymi posługiwały się osoby podpisujące umowę (są one wydawane co do zasady na okres wielokrotności 1 roku).
+Warto uruchomić opcję LTA lub LTV. Dla zapobieżenia problemu z weryfikacją podpisów w przyszłości, warto tak skonfigurować wykorzystywany program do podpisu elektronicznego, aby składany podpis miał uaktywnioną opcję LTA lub LTV (Long Term Archiving/Validation). Sprawi to, że do podpisu będzie dodawany znacznik czasu lub lista certyfikatów i lista CRL, co umożliwi łatwą weryfikację podpisu po latach, nawet, jeśli w międzyczasie np. certyfikat dostawcy usług zaufania utracił ważność albo przestał on świadczyć takie usługi.
+Inną rekomendowaną opcją jest samodzielne dodawanie do podpisu znacznika czasu. Znacznik czasu dostarcza wiarygodną i dokładną informację na temat czasu złożenia podpisu elektronicznego i ma walor prawny daty pewnej. Dodanie znacznika czasu ułatwi weryfikację podpisów elektronicznych w przyszłości, gdyż pozwala udowodnić, że podpis został złożony w okresie ważności certyfikatu. Jeśli przy podpisywaniu dokumentu nie zostały przez podpisujących dodane znaczniki czasu, warto samodzielnie dodać taki znacznik do podpisanego dokumentu, konserwując go w ten sposób.
+Przy regularnym stosowaniu podpisów elektronicznych warto rozważyć samodzielną konserwację QES lub usługę kwalifikowanej konserwacji podpisów elektronicznych. Konserwacja podpisu polega na zapewnianiu możliwości walidacji podpisu w przyszłości niezależnie od upływu ważności certyfikatów lub zmian technologicznych. Najprostsza konserwacja polega na dodaniu znacznika czasu do dokumentu podpisanego QES. Można także skorzystać z usługi kwalifikowanej konserwacji QES. Usługa kwalifikowanej konserwacji QES ma na celu długoterminową konserwację informacji w celu zapewnienia prawnej ważności podpisów elektronicznych przez wydłużone okresy oraz zagwarantowania możliwości ich walidacji bez względu na przyszłe zmiany technologiczne. Obecnie jest ona świadczona w Polsce tylko przez Asseco.
+Na koniec
+
+Technologie stosowane przy kwalifikowanych podpisach elektronicznych nieustannie są doskonalone. Stosowanie takich podpisów w praktyce jest coraz łatwiejsze i wymaga coraz mniej wiedzy technologicznej, jednak należy być świadomym podstawowych zasad ich działania.
+
+Trzeba także pamiętać, że technologie nieustannie się zmieniają, stąd też konieczna jest stała aktualizacja wiedzy na temat podpisów elektronicznych.
+
+Poradnik ten nie stanowi kompendium wiedzy na temat wszystkich praktycznych aspektów stosowania kwalifikowanych podpisów elektronicznych. W szczególności nie obejmuje on kwestii związanych z korzystaniem z QES w ramach platform i systemów do zarządzania dokumentami elektronicznymi oraz systemów do podpisywania dokumentów. Takie systemy mogą wdrażać rozwiązania QES w inny sposób, specyficzny dla platformy lub użytkownika.
+
+Poradnik obejmuje kwestie związane ze stosowaniem kwalifikowanego podpisu elektronicznego, jednak można go także stosować do innego rodzaju podpisów elektronicznych – wówczas nie będą aktualne zagadnienia związane z weryfikacją podpisów oraz inne specyficzne tylko dla QES.
+
+Bird & Bird - Tomasz Zalewski
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Poland IT & Data Protection Bird & Bird
+Topics
+Electronic signature
+Popular articles from this firm
+Poland Introduces Auction-Based Support System for Biomethane Production in Installations Above 1 MW*
+Key milestones & best practices in the EU’s public digitalisation journey: building blocks to bridge the gap - here’s how you do it!*
+Poland: Employment Law Amendments in Q1 2025*
+A general introduction to gambling law in Poland*
+A general introduction to gambling law in Poland*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the UK GDPR (UK)
+Recently updated
+View all
+Related research hubs
+Poland
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 40 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

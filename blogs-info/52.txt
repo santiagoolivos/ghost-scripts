@@ -1,0 +1,135 @@
+https://haerting.ch/en/insights/eu-anerkennung-elektronische-signatur-nach-schweizer-recht/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+First step towards mutual recognition of electronic signatures between Switzerland and the EU
+Härting Rechtsanwälte
+Härting Rechtsanwälte logo
+European Union, Switzerland February 7 2025
+The electronic signature under Swiss law is not yet recognised in the EU, which leads to legal uncertainties and practical problems. The Federal Council has now instructed DETEC and the FDFA to draw up a negotiating mandate with the EU in order to push ahead with mutual recognition. This could bring more legal certainty for companies and private individuals. But what challenges remain?
+
+Current legal framework in Switzerland and the EU
+
+In Switzerland, the Federal Act on Certification Services in the Field of Electronic Signatures and Other Applications of Digital Certificates(Federal Act on Electronic Signatures, ZertES) of 18 March 2016 (SR 943.03) forms the legal basis for the requirements for electronic signatures. Only a qualified electronic signature (QES) in accordance with ZertES is legally equivalent to a handwritten signature.
+
+In the European Union, Regulation (EU) No. 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC(eIDAS Regulation) applies, which creates a uniform framework for electronic identities and signatures. The eIDAS Regulation distinguishes between three different types of electronic signatures:
+
+Electronic signature (ES): this is data in electronic form that is attached to or logically associated with other electronic data and which the signatory uses to sign (Art. 3 No. 10 eIDAS Regulation). This form is widely used, but has a low level of security (e.g. e-mail signatures).
+Advanced electronic signature (FES): This is an electronic signature that fulfils the requirements of Art. 26 of the eIDAS Regulation (Art. 3 No. 11 of the eIDAS Regulation). It has higher security requirements, but is not necessarily equivalent to a handwritten signature.
+Qualified electronic signature (QES): This is an advanced electronic signature that has been created by a qualified electronic signature creation device and is based on a qualified certificate for electronic signatures (Art. 3 No. 12 eIDAS Regulation). It fulfils the highest security standards and is equivalent to a handwritten signature in all EU member states.
+Problems due to lack of mutual recognition
+
+Although the QES technically fulfils the EU requirements according to ZertES, there has been no official mutual recognition between Switzerland and the EU to date. This means that a Swiss QES is not automatically recognised as a qualified electronic signature in the EU and vice versa.
+
+In practice, this has considerable consequences that should not be underestimated:
+
+Cross-border contracts often have to be signed twice – once with a Swiss signature and once with a signature recognised under the eIDAS Regulation.
+Legal disputes in which electronically signed documents are presented as evidence are risky because qualified electronic signatures under Swiss law do not have the same probative value in the courts of EU member states as a qualified electronic signature as defined by the eIDAS Regulation.
+In public tenders in the EU, many authorities require a qualified electronic signature within the meaning of the eIDAS Regulation, with the result that Swiss companies are effectively excluded from tenders. This is a real disadvantage.
+Companies lose time and money as they have to switch to analogue signatures or implement alternative technical solutions.
+First step towards a solution: Federal Council starts negotiations with the EU
+
+On 29 January 2025, the Federal Council instructed DETEC and the FDFA to draw up a negotiating mandate with the EU for the mutual recognition of the QES. A successful agreement would ensure that electronic certificates issued in the EU are also valid in Switzerland and vice versa. This would also promote digitalisation and reduce bureaucratic hurdles.
+
+What happens now? What are the challenges and next steps?
+
+The two departments now have a year to draw up the key points of the negotiating mandate for the negotiations. However, the duration of the subsequent negotiations is uncertain. Swiss companies will have to continue to rely on alternative (and therefore cumbersome) solutions until they are finalised.
+
+Switzerland may have to adapt the ZertES if the EU imposes specific technical requirements. Although this topic was not part of the negotiation package concluded with the EU in December 2024, current relations between Switzerland and the EU could influence the negotiations.
+
+Conclusion: companies should act proactively
+
+Even if recognition has not yet taken place, Swiss companies with EU business should reconsider their digital signature strategy:
+
+Check whether your signature is recognised in the EU.
+Use an EU-certified QES for important contracts to avoid uncertainties.
+Keep yourself informed about the status of the negotiations.
+We at HÄRTING Rechtsanwälte will be happy to assist you with any questions regarding the legal recognition of electronic signatures and the possible effects on your business processes.
+
+Sources
+
+https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-103955.html
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+European Union Switzerland Internet & Social Media IT & Data Protection Härting Rechtsanwälte
+Organisations
+European Commission European Parliament
+Popular articles from this firm
+EuGH: Entschuldigung als Schadensersatz*
+Das Barrierefreiheitsstärkungsgesetz (BFSG) im E-Commerce*
+Creditworthy? What Companies need to consider when checking Creditworthiness*
+„googeln“ von Bewerbern? Nicht ohne DSGVO-Verletzung!*
+ECJ: Apology as compensation for damages*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+View all
+Related research hubs
+European Commission
+European Union
+Switzerland
+Internet & Social Media
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 43 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

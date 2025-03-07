@@ -1,0 +1,133 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc1NzMsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiYWFiOGIzYmEtNWE2ZC00M2I0LWIwOGUtZjYwNDI1ODNhMWM3IiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.j5iUfu8b13eemixgDXvmtH6MNBpYZGjHrjYXl8salKwlc8Q1bly-BZ_5lFd0cbo4xuwga9Pq5CNqj21z1Fa-RA
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+The Draft Law "On Electronic Identification and Trust Services in Electronic Transactions"
+Boga & Associates
+Boga & Associates logo
+Kosovo August 30 2021
+ On 29.06.2021, the procedure for the adoption of the Draft Law no. 08/L-022 on Electronic Identification and Trusted Services in Electronic Transactions was initiated before the Assembly of Kosovo ("Draft Law"). 
+
+With the entry into force of this Law, the chapter regarding the use of electronic signatures in the Law no. 04/L-094 on Information Society Services is expected to be repealed. The provisions mentioned in the said law were not used in practice, as the secondary legislation necessary for their implementation was never adopted.
+
+This Draft Law is fully in line with Regulation (EU) No. 910/2014 of the European Parliament and of the Council of 23 July 2014 on Electronic Identification and Trusted Services for Electronic Transactions in the Internal Market which repealed Directive 1999/93 / EC.
+
+The Draft Law regulates trust services and establishes a legal framework for the use of electronic signature, electronic seal, electronic time stamp and equipment for their creation conditions of issuance and use of qualified certificates for certification of services and website authentication.
+
+Trust Services: The Draft Law sets out rules for Kosovo trust services. A Trust Service Provider (“TSP”) is defined as a natural person or legal entity that, usually for remuneration, provides one or more of the following electronic services:
+
+the creation, verification, and validation of electronic signatures, electronic stamps or electronic time stamps, electronic registered delivery services and certificates related to those services;
+the creation, verification and validation of certificates for website authentication; or
+the preservation of electronic signatures, seals or certificates related to those services.
+The Draft Law lays down security requirements to be met by TSPs as well as the requirements that TSPs must meet in order to be considered a "qualified" TSP (such as qualified employed staff, the reliability and knowledge necessary to exercise the activity as a qualified trust service provider, the use of products that apply measures against data forgery and theft etc.)
+
+Electronic Signature: The Draft Law defines “simple” electronic signature, advanced electronic signature and qualified electronic signature. The electronic signature is defined as a set of data in electronic form, which are attached or logically linked to other data in electronic form and which are used by the signatory to sign. The Draft Law provides that such electronic signature will be valid and acceptable, and its validity or weight of the proof will be not denied just because it is in electronic form.
+
+Advanced electronic signature is defined as an electronic signature which meets the following requirements: (i) that is uniquely related to the signatory; (ii) that enables clear identification of the signatory; (iii) that uses the data for the creation of the electronic signature which are in the sole control of the signatory; (iv) that is linked to the data the signatory signs so that any subsequent changes are detectable.
+
+Qualified electronic signature is defined an advanced electronic signature that is based on a qualified certificate for electronic signatures and created by a qualified electronic signature creation device.
+
+The qualified electronic signature certificate is issued by a qualified TSP and contains, inter alia, the information: (i) that identifies the legal or natural entity issuing the qualified certificate, (ii) that uniquely identifies the signatory (i.e. name and surname, personal identification number etc.), (iii) on the validity period of qualified certificate for electronic signature, (iv) on the electronic certificate identity code, that must be unique for the qualified service provider etc.
+
+A qualified electronic signature creation device should ensure (i) the confidentiality of data used for creating the electronic signature or seal, (ii) that the electronic signature or seal creation data occur only once, (iii) that the electronic data are not obtained outside of electronic signature creation device; (iv) that the electronic signature is reliably protected against forgery using currently available technology, as well as ensure that (v) data protection used for the creation of an electronic signature from unauthorized use. Qualified electronic signature will have the same legal effect as handwritten signature.
+
+Exceptions to the use of electronic signatures: The Draft Law lists the cases when the electronic signature cannot be used, as follows:
+
+in the field of family law and inheritance, which are subject to special legal requirements;
+in legal actions for which public legalization, notarial deed or court authorization is required,
+in legal actions related to the property guarantee for bail;
+whenever by special law the use of electronic signature is not allowed.
+Electronic Seal: Electronic seal is an electronic equivalent of a stamp that is applied on a document to guarantee its origin. The Draft Law provides that an electronic seal shall be considered valid and admissible and shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it   is   in an electronic form or that it does not meet the requirements for qualified electronic seals.
+
+Further, the Draft Law sets the requirements for the advanced qualified electronic seal, i.e. (i) that is uniquely linked to the creator of the seal, (ii) that it identifies the creator of the seal, (iii) that is created using the electronic seal creation data and (iv) that is linked to the data to which it relates in a way that would detect any subsequent change in them. Such advanced qualified electronic seal enjoys the presumption of integrity of the data and of correctness of the origin of data to which the qualified electronic seal is linked.
+
+Website authentication: The Draft Law regulates website authentication, which is defined as an electronic process that enables verification of website data integrity and reliability of its use, and is based on a website authentication certificate, namely a qualified website authentication certificate (issued by a qualified trust service provider). Website Authentication Certificates are electronic certificates used to carry out the authentication of the website and the connection with the natural or legal person (i.e. the owner of the website) to whom the certificate is issued.
+
+Electronic Registered Delivery Service: The Draft Law gives the legal framework for establishing the Electronic Registered Delivery Service which is a service that permits the electronic transfer of data between parties (i.e. public administration bodies, companies and citizens). It provides proof of sending and receiving the data and protects against the risk of loss, theft, damage or unauthorized alterations. For example, it enables the online sharing of legal documents between parties in a secure manner, without the need for the parties to meet physically.
+
+ 
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Kosovo Company & Commercial IT & Data Protection Boga & Associates
+Topics
+Electronic signature
+Popular articles from this firm
+Draft Law: “On Foreigners”*
+New Law “On Protection of Competition”*
+Kosovo Introduces New Minimum Wage and Income Tax Amendments*
+Changes to Legislation in Kosovo*
+Draft Law No. 08/L-295 “On Crypto-Assets”*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+How-to guide
+How-to Guide: Risks and liabilities of AI algorithmic bias (USA)
+Recently updated
+Checklist
+Checklist: De-identification of data used by AI systems (USA)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+View all
+Related research hubs
+IT & Data Protection
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 39 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

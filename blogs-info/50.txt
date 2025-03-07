@@ -1,0 +1,168 @@
+https://www.jonesday.com/en/insights/2021/02/singapores-electronic-transactions-act-expanded
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Singapore’s Electronic Transactions Act Expanded to Include Transferable Instruments
+Jones Day
+Jones Day logo
+Singapore February 17 2021
+In Short
+
+The Situation: On 1 February 2021, Parliament passed the Electronic Transactions (Amendment) Bill (Bill No. 1/2021) ("Bill"). The Bill enables the creation and use of electronic transferable records ("ETRs") and expands the scope of electronic instruments afforded legal recognition under the Electronic Transactions Act (Chapter 88) ("ETA") to various trade documents including negotiable instruments, bills of exchange, promissory notes, bills of ladings and other transferable documents ("Transferable Instruments").
+
+The Background: Electronic records and electronic signatures have generally been legally recognised in Singapore under the ETA since 1998. However, the ETA currently excludes certain prescribed categories of contracts, including Transferable Instruments, from this regime.
+
+Looking Ahead: These amendments to the ETA are part of the Singapore Government’s ongoing initiative to review and support the digitalisation and electronisation of various types of instruments and transactions. This is especially relevant in today’s post-COVID-19 world, where physical meetings have become challenging and doing business through electronic and digital means has become increasingly prevalent. Companies should consider how they can best take advantage of these amendments to improve their business processes and accordingly enhance efficiency and productivity.
+
+Introduction
+
+The Bill introduces a new category of documents in respect of which electronic records and signatures will be legally recognised for the purposes of Singapore law once the amendments become effective.
+
+Under the existing regime set forth in the ETA, Transferable Instruments are excluded from the provisions relating to the legal recognition of electronic records, signatures and contracts. Other categories of documents that are also excluded include conveyances and contracts for sale of immovable property, declarations of trusts, and the creation of wills. For these excluded categories, physical (hard copy) documents are required.
+
+The Bill adopts with some modifications the UNCITRAL Model Law on ETRs adopted by the United Nations Commission on International Trade Law on 13 July 2017 ("Model Law") and provides for a new regime to be included in the ETA that will apply to Transferable Instruments, allowing for the use of electronic and digital versions of Transferable Instruments and reducing the reliance on and necessity of physical hard copies. Singapore is amongst the first major trading hubs to adopt the Model Law (with modifications).
+
+This new regime is not intended to affect any other laws that may govern Transferable Instruments, except as expressly provided. It remains open for parties to choose to refuse to consent to the use of (in whole, but not in part) ETRs in relation to a Transferable Instrument. It is also possible for parties to change from an ETR back to a physical instrument if they desire.
+
+New Concept of Electronic Transferable Records
+
+Under the amended ETA, a Transferable Instrument in the form of an ETR will be legally recognised for the purposes of Singapore law, if the relevant electronic record contains requisite information and there is a reliable method used to:
+
+Identify the electronic record as the authoritative electronic record constituting the same;
+Render the electronic record able to be subject to control from its creation until it ceases to have effect or validity; and
+Retain the integrity of the electronic record (i.e., the information contained in the record must remain complete and unaltered, other than changes in the normal course of communication, storage or display, which will not be regarded as affecting the integrity of the record).
+This applies regardless whether the ETR was issued or used outside of Singapore or within Singapore, subject to any applicable rule of private international law governing the relevant Transferable Instrument.
+
+If a reliable method is used to amend information in an ETR in a way that the amended information is so identified, this would be sufficient to satisfy any legal requirement for the amendment of the relevant Transferable Instrument.
+
+Electronic Signatures
+
+Under the Bill, an electronic signature used in relation to an ETR will be sufficient to meet any legal requirement for a signature by a person in relation to the relevant Transferable Instrument—as long as the electronic signature is a reliable method that identifies the person in question and indicates that person’s intention in respect of the information contained in the ETR.
+
+Possession and Indorsements
+
+In addition, under the Bill, a person who is in control of an ETR will be regarded to be in the same legal position as the person in possession of the relevant Transferable Instrument, provided that a reliable method is used to establish exclusive control of the ETR by the relevant person and identify that person as the one in control. Transfer of control of an ETR in this manner will likewise be regarded as the transfer of possession of the relevant Transferable Instrument.
+
+Further, any legal requirement for the indorsement of a Transferable Instrument (for example, indorsement on the back of a Transferable Instrument or affixing an allonge) can be met by an ETR, if information required for the indorsement is included in the ETR in a manner that is accessible so as to be usable for subsequent reference, and meets the requirements in relation to electronic signatures (as mentioned above).
+
+Transitioning to and from an ETR
+
+It is possible to change a Transferable Instrument to an ETR, if a reliable method for the change of medium is used. To this end, all information in the Transferable Instrument must be accurately reproduced in the replacement ETR, and a statement must be inserted into the ETR that indicates this change of medium.
+
+Upon the issuance of the replacement ETR, the previous Transferable Instrument will cease to be valid and to have any effect. The substantive rights and obligations of the parties under the Transferable Instrument will not be affected by virtue of this change of medium.
+
+It is also possible to change an ETR back to a physical Transferable Instrument. The same requirements above apply conversely mutatis mutandis, save that information contained in the ETR due to the electronic nature of the ETR will not be required to be reproduced in the replacement Transferable Instrument.
+
+Reliability
+
+As may be noted from the above, reliability is a key tenet of the new regime. The Bill provides the parameters to be applied in determining whether a method would be "reliable" for the purposes of the new regime, as follows:
+
+It must be as reliable as appropriate for the fulfilment of the function for which it is being used in light of all relevant circumstances, for example, any relevant operational rules, assurance of data integrity, security of hardware and software, applicable industry standards, etc. (the "Reliable as Appropriate Requirement").
+It must be proven in fact to have fulfilled the function by itself or together with further evidence.
+The Bill empowers the Minister to make regulations for the registration, licensing and accreditation of providers of ETR management systems, including cross-border providers. The methods used by any registered, licensed or accredited provider shall be presumed to fulfil the Reliable as Appropriate Requirement in any proceeding involving any ETR issued, transferred, controlled or stored by a management system provided by the relevant registered, licensed or accredited provider.
+
+Technology Neutrality
+
+Consistent with the Model Law, the amendments introduced by the Bill abide by the principle of technology neutrality and are intended to accommodate the use of different technologies, for example, traditional registries, tokens and distributed ledgers.
+
+Three Key Takeaways
+
+1. The amendments to the ETA will have a wide-ranging effect on all parties dealing with Transferable Instruments, particularly in the maritime and international trade and financial sectors, including potential cost savings and faster turnaround times.
+
+2. By adopting the international standards in the Model Law, the Singapore Government ensures that the use of ETRs in Singapore will be compatible and harmonised with international standards and able to be used seamlessly in cross-border transactions.
+
+3. Companies should review their business processes and IT, digital infrastructure and systems to assess how they can unlock the full potential of the digital solutions available to enjoy the benefit of the amendments to the ETA. Companies may also wish to consider the potential providers from whom they may procure the most suitable management systems to manage, store, process, issue, transfer, present and control their ETRs.
+
+Jones Day - Elizabeth Cole and Sushma Jobanputra
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Singapore IT & Data Protection Jones Day
+Topics
+Electronic signature Coronavirus
+Popular articles from this firm
+High-Yield Debt in Singapore*
+Singapore Budget 2013: key tax measures relating to the financial services sector*
+Confidentiality in Asia-based international arbitrations*
+First Impressions: Singapore International Commercial Court Approves Cross-Border Prepackaged Scheme of Arrangement for Unregistered Foreign Company*
+Singapore Passes Its First Anti-Discrimination Law*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the UK GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+Coronavirus
+Singapore
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 43 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

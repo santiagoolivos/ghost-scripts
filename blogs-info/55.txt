@@ -1,0 +1,190 @@
+
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+OJK Expands Banking Business Activities: What You Need to Know About OJK Regulation No. 26 of 2024
+Assegaf Hamzah & Partners
+Rajah & Tann Asia logo
+Indonesia February 11 2025
+At the end of 2024, Indonesia's Financial Services Authority or OJK issued a new regulation aimed at giving banks more flexibility to offer a wider range of services while maintaining compliance with prudential principles. OJK Regulation No. 26 of 2024 on the Expansion of Banking Business Activities ("POJK 26/2024"), which took effect on 13 December 2024, introduces several key provisions on, among others:
+
+Capital participation activities by commercial banks;
+Loan sale;
+Provision of guarantee by commercial banks;
+Banks acting as operators of foreign exchange business activities (Kegiatan Usaha Penukaran Valuta Asing or "KUPVA"); and
+Electronic signatures (e-signatures) and electronic agreements (e-agreements).
+This regulation takes an interesting approach, as it not only expands the business lines available to banks but also consolidates several operational matters into a single regulatory framework.
+
+With the introduction of this regulation, several existing regulations are now repealed and replaced:
+
+Decree of the Bank Indonesia ("BI") Board of Directors No. 23/72/KEP/DIR of 1991 on Bank Guarantees;
+Decree of BI Board of Directors No. 23/88/KEP/DIR of 1991 on Bank Guarantees;
+BI Regulation No. 5/6/PBI/2003 of 2003 on Domestic Documentary Letters of Credit (Surat Kredit Berdokumen dalam Negeri or "SKBDN"), as amended by BI Regulation No. 10/5/PBI/2008 of 2008 ("BI Regulation 5/2003"); and
+BI Regulation No. 12/22/PBI/2010 of 2010 on Foreign Exchange Traders.
+Additionally, this regulation repeals Articles 3, 4, 36, 37, and 38 of OJK Regulation No. 22 of 2022 on Capital Participation Activities by Commercial Banks ("POJK 22/2022").
+
+Below is an overview of key provisions regulated under POJK 26/2024.
+
+Capital Participation Activities by Conventional Banks and Sharia Banks
+
+Under POJK 22/2022, conventional banks and sharia banks were previously limited to investing in financial sector companies. Sharia banks, however, could only invest in companies eligible under POJK 22/2022 that are compliant with sharia principles.
+
+POJK 26/2024 has broadened the investment options for banks. The following table compares the types of entities eligible for investment under the new regulation (POJK 26/2024) with the previous rules (POJK 22/2022):
+
+
+
+Please note that for sharia banks, the eligible entities mentioned above must comply with sharia principles.
+
+POJK 26/2024 also allows subsidiaries of commercial banks to invest in the same types of institutions and companies as their parent banks. However, this provision does not apply to subsidiaries that operate as venture capital companies. Venture capital companies may invest in other eligible entities beyond those mentioned above but must still comply with separate OJK regulations governing their operations.
+
+Loan Sale
+
+Before the enactment of POJK 26/2024, loan transfers or loan sales by banks existed in a regulatory grey area as it was not previously governed by specific regulations. POJK 26/2024 clarifies the rules around banks transferring loan by explicitly allowing banks to carry out and/or receive loan transfer or loan sale.
+
+A key aspect of these transfers is that both ownership and risk must be transferred to the buyer. Critically, banks are prohibited from repurchasing loan they have transferred.
+
+POJK 26/2024 mandates that banks establish clear policies and procedures for carrying out and/or accepting the loan transfer or loan sale, which must at least include:
+
+Criteria for loan that can be transferred or received; and
+Loan sale mechanism for loan transferred or received.
+POJK 26/2024 also aligns with consumer protection regulations (OJK Regulation No. 22 of 2023) by requiring banks to include a clause on loan transfers or loan sales in their credit or financing agreements. POJK 26/2024 also requires banks to obtain prior approval from the debtor for existing agreements that do not have a transfer clause. This emphasises the OJK's stance that a debtor's consent for a loan transfer can be obtained when the agreement is initially made.
+
+Banks have six months from 13 December 2024 to update their policies and procedures related to loan transfer or loan sale.
+
+Provision of Guarantee by Commercial Banks
+
+POJK 26/2024 generally restates that commercial banks may provide warranty/guarantee services to applicants. Banks can offer several types of guarantees, including bank guarantee, standby letter of credit (SBLC), letter of credit (L/C), domestic letter of credit (SKBDN), and other types of guarantees/warranties.
+
+Before issuing a guarantee, banks must carefully evaluate several factors: the creditworthiness and reputation of the party receiving the guarantee, the nature and value of the transaction, and the overall fairness of the guarantee arrangement. The transaction's value must also be appropriate for the bank's capabilities.
+
+POJK 26/2024 also requires banks to establish written policies and procedures to manage the risks associated with these services. These procedures must address several key areas:
+
+Systems, procedures and authorities for managing guarantee services;
+Identifications of all potential risks;
+Methods for measuring and monitoring these risks;
+Accounting recording methods;
+Review and analysis methods for the provision of guarantee services;
+Legal review;
+For sharia banks, compliance with sharia principles; and
+Transparency of information to customers, in line with OJK Regulation No. 22 of 2023.
+Lastly, POJK 26/2024 introduces more flexibility in examining SKBDN documents, allowing banks to follow international standards (i.e., a maximum examination timeline of five business days). This replaces the previous seven-business-day requirement under BI Regulation No. 5 of 2003.
+
+Banks as Operators of KUPVA
+
+Previously, banks were permitted to conduct foreign exchange business activities but were required to secure prior approval from BI. Under POJK 26/2024, banks offering foreign exchange business activities as new products must adhere to the operational product mechanisms under OJK Regulation No. 13/POJK.03/2021 and OJK Regulation No. 25/POJK.03/2021.
+
+POJK 26/2024 retains the requirements under BI Regulation No. 12/22/PBI/2010 for banks operating foreign exchange business activities, namely that those banks must fulfil the minimum capital provision obligation ratio in accordance with OJK regulation on the minimum capital provision obligation and possess the necessary operational readiness.
+
+Please also note that the buying and selling rates for foreign banknotes must be determined by the bank in accordance with market mechanisms. Banks are also required to record transactions and store documents and scrip related to these transactions.
+
+E-Signatures and E-Agreements
+
+POJK 26/2024 also regulates the use of e-signatures and e-agreements, requiring commercial banks to establish written policies and procedures for their implementation. These policies and procedures must include at least:
+
+Identification and classification of documents and transactions that can use e-signatures and/or e-agreements;
+Procedures to use e-signatures and e-agreements, such as verification process; and
+Risk management in implementing e-signatures and e-agreements.
+Commercial banks must ensure compliance with prudential principles and guarantee consumer protection when utilising e-signatures and e-agreements.
+
+Administrative Sanctions
+
+Commercial banks that violate the provisions of POJK 26/2024 may be subject to administrative sanctions ranging from written reprimand, suspension of banking products, prohibition from introducing new products, prohibition from making investment, to a decrease in the bank's soundness level.
+
+Key Takeaways
+
+POJK 26/2024 represents a significant step forward for the Indonesian banking sector. By broadening investment options and clarifying the rules on loan transfer or loan sale, the regulation empowers banks to support economic growth and manage risk more effectively.
+
+In addition, clearer rules on loan transfer or loan sale help banks manage risks while protecting debtors, while updated requirements on bank guarantees and foreign exchange business activities strengthen banks' financial security and streamlined their operations.
+
+Lastly, the embrace of e-signatures and e-agreements paves the way for a more streamlined and digitally advanced banking landscape. We anticipate that these changes will strengthen the competitiveness of Indonesian banks and better align them with international best practices.
+
+Nastiti Nadya Nitisaras and Osan Ramdan also contributed to this alert.
+
+Rajah & Tann Asia - Ahmad Fikri Assegaf, Indira Yustikania and Ismail Muhammad
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Indonesia Banking Corporate Finance/M&A Trade & Customs Rajah & Tann Asia
+Topics
+Venture capital
+Organisations
+Bank Indonesia
+Popular articles from this firm
+A Brief Summary of Indonesia’s New Regulations on Imports*
+Enhancing Bank Indonesia's Authority in Foreign Exchange Management: A Proactive Step to Safeguard Financial System Stability*
+Guide to Lending and Security in Southeast Asia*
+Intellectual Property Update: Singapore, Malaysia and Indonesia*
+Regional Round-Up 2024 (Year in Review Edition): Indonesia*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Pre-appointment checks to consider when selecting an appointed representative (UK)
+Recently updated
+Checklist
+Checklist: Preparing an application to the FCA or the PRA for a Part 4A permission (UK) 
+Recently updated
+How-to guide
+How-to guide: The appointed representatives regime explained - what it means in practice (UK)
+Recently updated
+View all
+Related research hubs
+Indonesia
+Trade & Customs
+Banking
+×
+My Lexology
+Access my saved content
+ Full article, 45 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

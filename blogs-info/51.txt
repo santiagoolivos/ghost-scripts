@@ -1,0 +1,146 @@
+https://mcmillan.ca/insights/publications/thumbs-up-or-signed-deal-court-affirms-emoji-as-valid-acceptance-of-agreement/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Thumbs Up or Signed Deal? Court Affirms Emoji as Valid Acceptance of Agreement
+McMillan LLP
+McMillan LLP logo
+Canada February 10 2025
+​Introduction
+
+We discussed the well-publicized case of South West Terminal Ltd. v Achter Land, 2023 SKKB 116 and its applicability to British Columbia in a prior bulletin. The dispute centered on whether a “thumbs up” emoji sent through a text message could constitute acceptance of an offer, forming a binding contract for the supply of flax.
+
+This decision was recently affirmed by the majority of the Saskatchewan Court of Appeal in Achter Land & Cattle Ltd. v South West Terminal Ltd., 2024 SKCA 115, finding that the lower court did not err in determining a contract existed between the parties and that the “thumbs-up” emoji satisfied the signature requirements under s. 6 of the Sale of Goods Act, RSS 1978, c S-1 (“Sale of Goods Act”).
+
+This decision provides guidance on the interpretation of emojis in contract disputes and is summarized below, followed by our takeaways.
+
+The Parties Formed a Valid Contract
+
+(a) Parties’ Intent to Contract
+
+The Court considered whether the lower court erred in determining the parties had entered into a contract. The defendant appellant Achter Land & Cattle Ltd. (“ALC”) had argued that Mr. Achter (the principal of ALC) did not intend to convey acceptance of the terms by sending a “thumbs-up” emoji, but rather intended to communicate receipt of the agreement.[1] In support of this argument, ALC emphasized the inherent ambiguity of a “thumbs-up” emoji and that recognizing “unclear and ambiguous language as an acceptance of an agreement or a signature will open Pandora’s box and cause a significant amount of litigation”.[2]
+
+The Court rejected this argument as the lower court properly considered how an objective observer who was aware of the relevant circumstances would interpret the “thumbs-up” emoji, and whether the observer would conclude the parties intended to and reached an agreement. In doing so, the Court reviewed the evidence of the history of the parties’ commercial dealings. The lower court did not suggest that a “thumbs-up” emoji invariably meant “I agree”, which would have been an error.
+
+The Court further commented that the lower court’s reasoning appropriately reflected the subtleties of human communication, which the courts have long considered when interpretating a party’s intent. The use of an emoji “simply provides a modern twist” [3] to interpreting communication but does not alter the law of contract interpretation.
+
+The surrounding circumstances was important in determining the meaning of the “thumbs-up” emoji. The Court noted the principles of interpreting communications for contract interpretation do not differ based on the mode of communication, whether it involves electronic or written communication. In its analysis, the Court emphasized that “words alone do not have an immutable or absolute meaning”, illustrating the importance of considering the factual matrix when determining parties’ contractual intentions.[4]
+
+(b) Parties Agreed on the Essential Terms of the Contract
+
+ALC further argued the parties did not enter into an agreement by failing to agree on the essential terms of the contract. In support of this argument, ALC argued the lower court erred on two bases.
+
+First, ALC pointed out that the contract provided a delivery date of “Nov”, but failed to include the delivery year. ALC argued that by omitting the delivery year, the parties failed to agree on the delivery date, thereby failing to agree on an essential term of the contract. The Court rejected this argument, considering that the parties had verbally agreed to deliver the flax by November of 2021, and previously entered into contracts without specifying the delivery year. Second, ALC argued that the lower court erred by failing to consider that only one page of the two-sided contract was sent to Mr. Achter. The second page included the standard terms and conditions, which ALC alleged were essential terms of the contract that were not agreed to by the parties. Although ALC had seen the terms and conditions in previous contracts, ALC argued this fact was irrelevant as this was the first instance where the parties had entered into a deferred delivery production contract (purchasing flax to be delivered at a future time). The Court similarly rejected this argument, as the contract clearly stated the terms and conditions were printed on the reverse, as well as the fact that these terms and conditions were consistently included in the parties’ previous contracts.
+
+The “Thumbs-Up” Emoji met the Requirements of Section 6 of the Sale of Goods Act
+
+ALC further argued that the lower court erred in concluding that the contract was “signed” as required by s. 6(1) of the Sale of Goods Act, relying largely on the Electronic Information and Documents Act (“EIDA”), which, among other things, provides the definition of “electronic signature”. The Court rejected this argument, finding the lower court had made no error in law or fact in concluding the contract had been “signed” by the sending of the “thumbs-up” emoji.
+
+In its analysis, the Court first considered the proper interpretation of the words “signed by” within s. 6(1) of the Sale of Goods Act. The Court observed that “little is to be gained by fixating upon the idea that a signature is synonymous with a handwritten name”.[5] Rather, the emphasis should be placed on whether the signature or mark identifies its maker, and whether it is evidence of an intention to be bound by the document.
+
+Having laid this background, the Court then turned to the specifics of ALC’s argument, rooted in EIDA. Specifically, ALC argued that because Mr. Achter never physically signed the contract, his text message must qualify under EIDA to be recognized as a signature. The Court summarized the four requirements for an electronic communication to qualify as an electronic signature as defined in s. 3(b) of EIDA:
+
+the presence of some type of “information” on the communication;
+that such information may be in electronic form;
+the information must have been created or adopted by the person in order to sign a document; and
+the information must be attached to or associated with the document.
+No room for controversy could be found with respect to the first, second, and fourth elements: the emoji and metadata accompanying Mr. Achter’s text message clearly contained “information”, that information was in electronic form, and it was “attached to or associated with” a chain of text messages, including the text message containing the photograph of the first page of the contract.
+
+Having dealt summarily with the other elements, the Court focused on the third element – that the information must have been “created or adopted” by the person in order to sign the document. ALC argued that the existence of a signature depends on communicating agreement in a way that intentionally identifies the signing party as the person expressing agreement. The Court accepted this argument, but held that the lower court had made no error in finding this had occurred. The “thumbs-up” emoji expressed Mr. Achter’s agreement to the contract. The combination of the emoji sent with the accompanying metadata identified or authenticated that the text message originated from Mr. Achter’s unique personal cell phone. In the circumstances, Mr. Achter intentionally communicated his agreement and did so in a way that knowingly verified the communication as his own.
+
+Submissions made by the Intervenor
+
+A non-party intervenor, Syngrafii Inc. (“Syngrafii”) made submissions as to the fourth element of s. 3(b) of EIDA, arguing that the terms “in”, “attached to” and “associated with” suggest a close connection between the mark and the document to be signed, and that the combined effect of EIDA and the Sale of Goods Act is that an electronic signature must be placed or affixed as an amendment or an addition to the electronic contract form itself. In other words, Syngrafii argued that the thumbs up emoji should not be considered an electronic signature as it was not affixed to the electronic contract form itself. The Court rejected this argument on the basis that it ignores the other wording in EIDA. In particular, the Court found that “associated with” means something different and broader than “in” or “attached to”. The text message chain, which included both the photograph of the contract and the “thumbs-up” emoji was found to be “palpably associated with” the contract itself “in a very real and practical way”.[6]
+
+Further, the Court found this argument failed to engage with case law recognizing that party’s can rely on two or more documents to prove compliance with statutory requirements. Accepting Syngraffi’s position would be to run contrary to legislative intent to achieve functional equivalence between electronic information and paper documents.
+
+Takeaways
+
+The BC Sale of Goods Act does not contain an equivalent statutory defence provision to s. 6 of the Saskatchewan Sale of Goods Act. However, the Court is clear that s. 6(1), when applicable, serves only to make valid contracts unenforceable by court proceedings, and not to make such contracts invalid, void, or voidable. As the lower court found, and the Court affirmed that there was a contract, the Achter decision is persuasive in BC.
+The Electronic Transactions Act, the BC equivalent of EIDA, defines “electronic signature” substantially the same as in s. 3(b) of EIDA. BC courts have applied the same four-requirement test in considering whether electronic information meets the definition of an “electronic signature”.
+Though “emoji law” is somewhat novel in Canada, contract law is not. The modern twist of this case, though unusual and interesting, does little to change the long-standing elements of a valid contract, or the principles of interpreting ambiguous communications.
+Use of emojis, like all human communication, is often subtle and ambiguous. Interpreting the intentions of contracting parties is highly fact-specific. In absence of the evidence of prior communications between the parties (e.g. “looks good”, “ok” and “yup”), the result in South West may have been different. It cannot be assumed that a “thumbs-up” emoji, or any other emoji, will indicate acceptance in every case.
+Though emojis are frequently used in informal communications, this does not mean that an emoji cannot bind a party to an agreement if the objective test is met. Mr. Achter gave evidence that his subjective intent of the thumbs up emoji was merely to confirm receipt of the contract, supported by examples of many informal messages including “jokes” the parties had sent to each other. This subjective intent and informal nature of the correspondence does not outweigh the objective observer test.
+Courts will strive to uphold legislative intent to achieve functional equivalence between electronic information and paper documents. Parties cannot assume that electronic or otherwise less-traditional methods of entering into a contract will allow them to later avoid performing their contractual duties.
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+McMillan LLP - Carina Chiu, Katherine Akladios and David Burchart
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Canada Litigation McMillan LLP
+Popular articles from this firm
+New Russian Sanctions and Terrorist Designations Increase Compliance Requirements for Businesses in Canada*
+Another Thumbs Up? Leave to Appeal to the Supreme Court of Canada Filed in Relation to Emoji Contract Interpretation Decision*
+Share Buy Back Clause Spares Employer from 20 Months’ Profit-Sharing Damages*
+Canada Revenue Agency provides list of exempt and taxable health care service providers*
+The Rise of Kirschner Provisions: Where They Come From and What It Means for Lenders in Canada*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Related practical resourcesPRO
+Checklist
+Checklist: Addressing online defamation and protecting your digital reputation (UK)
+Checklist
+Checklist: Considerations prior to issuing court proceedings (UK)
+How-to guide
+How-to guide: The legal framework for resolving disputes in England and Wales (UK)
+View all
+Related research hubs
+Canada
+Litigation
+×
+My Lexology
+Access my saved content
+ Full article, 43 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

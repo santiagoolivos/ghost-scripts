@@ -1,0 +1,132 @@
+https://www.blawyersvn.com/digital-signatures-in-signing-labor-contracts/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Digital signatures in signing labor contracts
+BLawyers Vietnam
+BLawyers Vietnam logo
+Vietnam February 10 2022
+Digital signatures are to reduce the cost of printing and paperwork while also facilitating engagement from anywhere and at any time. As a result, digital signatures have become a very familiar tool for businesses when performing administrative procedures such as tax declaration, electronic customs, etc. Furthermore, digital signatures can be used by businesses to sign labor contracts with their employees.
+
+Through this article, BLawyers Vietnam would like to provide some notes underneath.
+
+1. What is an electronic labor contract?
+
+The electronic labor contract is governed by the Labor Code 2019. Accordingly, in addition to text and speech, the labor contract can also be expressed in the form of electronic data messages. Their value remains as the written labor contracts.
+
+The electronic labor contract can be defined as follows:
+
+is an agreement between the employer and the employee regarding employment, the rights and obligations of each party in the labor relation;
+the content of the labor contract is created, sent, received, and stored using one of the electronic means such as telephone, fax, Internet, etc. to establish labor relation; and
+signed by the electronic signatures of the contracting parties.
+In which electronic signatures can be created in the form of words, letters, numbers, symbols, sounds, or other forms by electronic means. In fact, parties in the labor contract can use the electronic signature in one of three common ways: digital signature, photo signature, scanning signature.
+
+As a result, employers can use digital signatures to sign labor contracts with their employees. To ensure the validity of electronic labor contracts signed by digital signatures, users should be aware of the legal value of digital signatures.
+
+2. Legal validity of a digital signature
+
+A digital signature is a form of electronic signature. A digital signature must meet the following conditions:
+
+The digital signature is created during the validity period of digital certificates and is verified using the public key recorded on such valid digital certificates
+The digital signature is created by using the private key corresponding to the public key recorded on digital certificates issued by one of the competent organizations providing digital signature authentication services; and
+The private key is only under the control of the signer at the time of signing.
+3. Employers’ obligations when using digital signatures in labor contracts
+
+Employers have the following obligations:
+
+Taking measures to avoid the unauthorized use of their digital signature creating data.
+Promptly using appropriate means to notify the parties accepting the electronic signature and to the organization providing the e-signature certification service in case the electronic signature is certified when discovering that electronic signatures may no longer be under their control; and
+Applying necessary measures to ensure the accuracy and integrity of all information in the e-certificate if the e-certificate is used to authenticate the electronic signature.
+4. Employees’ obligations when receiving digitally signed labor contracts
+
+Employees have the following obligations:
+
+Taking necessary measures to verify the reliability of an electronic signature before accepting it; and
+Taking necessary measures to verify the legal validity of e-certificates and restrictions related to e-certificates in case such e-certificate is used to certify the electronic signature.
+To summarize, electronic labor contracts are gradually replacing traditional-form labor contracts. As a result, electronic signatures are becoming more popular because they can assist parties in signing the labor contract at the appropriate time in circumstances where traditional-form signatures are not possible. Therefore, holding the obligations when using digital signatures in the labor contracts will help both the employees and the employers to ensure the validity of the labor contract that they sign.
+
+BLawyers Vietnam - Linh Nguyễn
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Vietnam Employment & Labor IT & Data Protection BLawyers Vietnam
+Topics
+Electronic signature
+Popular articles from this firm
+Wills and inheritance according to Vietnamese laws: List of 28 frequently asked “difficult” questions*
+08 nội dung cơ bản của một hợp đồng theo luật hiện hành của Việt Nam*
+Ở Việt Nam, cha mẹ tặng riêng tài sản cho con sau khi kết hôn cần lưu ý gì?*
+Việt Nam: 30 câu hỏi thường gặp và câu trả lời về bảo hiểm nhân thọ*
+Penalties for breach of contract, what is a legal penalty agreement?*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Related practical resourcesPRO
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+Checklist
+Checklist: Remote working - minimising cybersecurity risks (UK)
+How-to guide
+How-to guide: How to comply with legal developments relating to Diversity, Equity and Inclusion (USA)
+Recently updated
+View all
+Related research hubs
+Vietnam
+IT & Data Protection
+Employment & Labor
+×
+My Lexology
+Access my saved content
+ Full article, 37 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

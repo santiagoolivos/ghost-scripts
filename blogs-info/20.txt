@@ -1,0 +1,107 @@
+https://www.cozen.com/news-resources/publications/2023/ca-court-of-appeal-calls-into-question-evidentiary-value-of-e-signatures
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+California Court of Appeal Calls Into Question Evidentiary Value of Electronic Signatures
+Cozen O'Connor
+Cozen O'Connor logo
+USA January 24 2023
+On January 19, 2023, the California Court of Appeal, First District, Division 4, issued a troubling decision regarding the evidentiary value of electronic signatures in Iyere v. Wise Auto Group.1
+
+First, a caveat. The troubling part is dicta, not the core decision. The core decision is perfectly sound. That said, the dicta is troubling enough to warrant this alert.
+
+The plaintiffs, a group of employees, filed certain claims against their former employer, Wise Auto Group (WAG). WAG moved to compel arbitration. In opposition, the plaintiffs each filed nearly identical declarations claiming that they did not recall signing the arbitration agreement. The trial court denied the motion; WAG appealed.
+
+The Court of Appeal soundly reversed, holding that the plaintiffs’ inability to recall signing the arbitration agreement is largely irrelevant because they do not deny that their respective personal signatures appear on the document. Absent testimony that the physical signatures were forged or inauthentic, testimony that they did not recall signing is insufficient to create a factual dispute.
+
+However, the Court of Appeal made it clear that this decision was based largely on the fact that the signatures were personal, physical signatures, not electronic ones. “While handwritten and electronic signatures have the same legal effect once authenticated, there is a considerable difference between the evidence needed to authenticate the two. Authenticating an electronic signature, if challenged, can be quite daunting.”2 The Court of Appeal reasoned that an individual cannot confirm or deny the authenticity of an electronic signature simply by looking at the document.3 Accordingly, “the individual’s inability to recall signing electronically may reasonably be regarded as evidence that the person did not do so.”4 By contrast, a person “is capable of recognizing his or her own personal signature” and if “the individual does not deny that the handwritten signature is his or her own, that person’s failure to remember signing is of little or no significance.”5
+
+The Court of Appeal noted, but expressly disagreed with, a 2021 decision in a case styled Gamboa v. Northeast Community Clinic.6 The Gamboa court stated that the difference between physical and electronic signatures is a “distinction without a legal difference” because “electronic and handwritten signatures have the same legal effect and are equally enforceable.”7
+
+This line of cases is one to keep a close eye on. Until this issue is fleshed out and more clearly resolved, consider mandating that all agreements (such as arbitration agreements, in which authenticity is frequently called into question) be signed with physical signatures.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Cozen O'Connor - Brett D. Watson
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA California Arbitration & ADR Litigation Cozen O'Connor
+Topics
+Electronic signature
+Courts
+California courts of appeal
+Popular articles from this firm
+Florida Secures Order Blocking Enforcement of Real Estate Agreements*
+Democratic AGs Tout Role of DEI Initiatives in Preventing Workplace Discrimination*
+Cozen Currents: America (First) at an Inflection Point*
+Jackson v. Spinnaker: Court Rules a Thorough Investigation is Just Good Business, Not Bad Faith*
+Unpacking Dark Patterns*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Addressing online defamation and protecting your digital reputation (UK)
+How-to guide
+How-to guide: The legal framework for resolving disputes in England and Wales (UK)
+Checklist
+Checklist: Considerations prior to issuing court proceedings (UK)
+View all
+Related research hubs
+USA
+Litigation
+×
+My Lexology
+Access my saved content
+ Full article, 30 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

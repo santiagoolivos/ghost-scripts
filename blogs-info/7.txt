@@ -1,0 +1,109 @@
+https://www.berggren.eu/en/blog/electronic-and-digital-signatures-on-assignments-and-declarations-to-be-accepted-by-the-epo-from-1-april
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Electronic and Digital Signatures on Assignments and Declarations to be Accepted by the EPO from 1 April 2024
+Berggren Oy
+Berggren Oy logo
+European Union, USA March 25 2024
+Introduction
+
+Electronic and digital signatures have generally not been accepted on agreements or declarations for recording assignments or licences at the European Patent Office. This has led to the practice of confirmatory assignments or declarations being separately prepared and signed in wet ink for the EPO.
+
+A Significant Shift: EPO to Accept Electronic Signatures from April 1st
+
+Starting next week (1st April) the rules will change. The EPO has stated that electronic signatures, including basic text string signature (e.g. /Michael Nielsen/) will be acceptable on contracts or declarations filed as evidence for the registration of assignments or licenses.
+
+Where digital signatures are used (e.g. those applied using DocuSign or a similar solution) there are a few almost trivial criteria that have to be satisfied: the document including the digital signature must be filed electronically, must be legible, must not be infected with a computer virus, and must not contain other malicious software (see paragraph 6 of this Notice from the EPO).
+
+As a best practice, text string signatures could also be used in a document signed using DocuSign or similar, since text string signatures are separately acceptable under paragraph 4 of the Notice.
+
+Other signature requirements for agreements or declarations remain the same, e.g. the signature of both parties to an assignment are required.
+
+Berggren Oy - Michael Nielsen
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+European Union USA Patents Berggren Oy
+Topics
+Electronic signature
+Organisations
+European Patent Office
+Popular articles from this firm
+Similarity between Goods and Services in Different Classes in Finland and the EUIPO*
+In brief: design enforcement in European Union*
+UPC Court of Appeal Reverses Preliminary Injunction in Harvard, 10x Genomics vs. NanoString, Reaffirms Low Standard of Proof for Validity When Granting a PI*
+Practice Tips at the EPO Relating to Numerical Ranges in Examples and Claims*
+Prosecution History Estoppel in Europe at the Unified Patent Court*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+How-to guide
+How-to guide: How to manage third party supply chain data privacy, security risks, and liability (USA)
+Recently updated
+How-to guide
+How to-guide: Understanding the legal protections for whistleblowers (UK)
+How-to guide
+How-to guide: How to make accommodations for religious belief or practice (USA)
+View all
+Related research hubs
+European Patent Office
+European Union
+USA
+Patents
+×
+My Lexology
+Access my saved content
+ Full article, 25 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

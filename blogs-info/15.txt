@@ -1,0 +1,163 @@
+https://www.dentonsdata.com/court-accepts-%f0%9f%91%8d-emoji-as-electronic-signature/?-emoji-as-electronic-signature%2F%3Futm_source=rss&utm_medium=rss&utm_campaign=court-accepts-%25f0%259f%2591%258d-emoji-as-electronic-signature#page=1
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Court accepts 👍 emoji as electronic signature
+Blog Dentons Data
+Dentons
+Dentons logo
+Canada July 6 2023
+This is a summary judgment application brought by the plaintiff, South West Terminal Ltd. (“SWT”) for judgment against the defendant, Achter Land & Cattle Ltd. (“Achter“). SWT claims the parties entered into a contract in which SWT agreed to buy and Achter agreed to deliver 87 metric tonnes of flax for a contracted price of $669.26 per tonne, with delivery between November 1, 2021 and November 30, 2021. Achter did not deliver any flax. The plaintiff sued for breach of contract and damages of $82,200.21 plus interest and costs.
+
+The defendant denied entering into the contract and in the alternative or in addition relies on the statutory defence found in s. 6(1) of The Sale of Goods Act, RSS 1978, c S-1 (“SGA“) contending any contract is unenforceable because there was no note or memorandum of the contract made or signed by the parties.
+
+For the most part this case involved straightforward contract law principles and the application of the SGA, and the core facts were not even really disputed. What sets this case apart is the use of a thumbs up emoji “” and what that meant for the purposes of the SGA and contracts made thereunder.
+
+Issues
+
+The parties disagree as to whether there was a meeting of minds, which is the basis of a contractual obligation.
+
+As the judge in this case noted, a contract is only formed where there is an offer by one party that is accepted by the other with the intention of creating a legal relationship and supported by consideration. Whether this has happened is to be viewed in accordance with an objective theory of contract formation. The court is to look at “how each party’s conduct would appear to a reasonable person in the position of the other party.
+
+When considering this question, courts are not restricted to looking only at the agreement but are permitted to examine the circumstances surrounding the agreement. Here, the nature and relationship of the parties and the interests at stake helped inform the question of an intention to create a legal contractual relationship.
+
+In this case, there was an uncontested pattern of entering into what both parties knew and accepted to be valid and binding deferred delivery purchase contracts on a number of occasions. It is important to note that each time the SWT employee added to the offered contract “Please confirm terms of durum contract”, and each time Mr. Achter did so by succinctly texting “looks good”, “ok” or “yup”. The parties clearly understood these curt words were meant to be confirmation of the contract and not a mere acknowledgement of the receipt of the contract by Mr. Achter.
+
+Each time, Mr. Achter delivered the grain as contracted and got paid. There was no evidence he was merely confirming the receipt of a contract and was left just wondering about a contract.
+
+In March 2021, as had happened many times before, SWT texted all producers (including Achter) certain prices for grain, to be delivered 8-10 months hence. SWT received a call from Mr. Achter indicating he would deliver 87 metric tonnes of flax to SWT in November 2021. The SWT representative drew up a standard contract accordingly (the terms and conditions had never changed on the standard boiler plate reverse of the document), signed the contract with wet ink, took a photo of the signed contract using his mobile phone and texted it to Mr. Achter along with the words “please confirm flax contract”. Mr. Achter replied with a emoji.
+
+Mr. Achter did not deliver 87 metric tonnes of flax to SWT in November 2021.
+
+The price of flax had changed significantly by then, and SWT claimed breach of contract, with damages of $82,200.
+
+Achter denied entering into the contract and in the alternative relied on the statutory defence found in the SGA contending any contract is unenforceable because there was no note or memorandum of the contract made or signed by the parties.
+
+Analysis
+
+Under the SGA, a contract for the sale of goods shall not be enforceable by action “unless some note or memorandum in writing of the contract is made and signed by the party to be charged”. This became the only real issue in the case.
+
+The requirement of a “note or memorandum” in s. 6 of the SGA originated as s. 17 of the Statute of Frauds of 1677. The Statute of Frauds does not require the entire agreement to be in writing, compliance may found if the essential terms of the agreement are set out in an acceptable note or memorandum. Courts have interpreted s. 6 as requiring a document expressly or implicitly identifying the parties, the goods sold, and the price (the consideration) if a price was agreed. However, the note or memorandum does not need to be a singular document – it may be multiple documents, so long as there is reference between the documents.
+
+To fulfil the signature requirement, the signature does not need to be a signature in the strict sense of the word – so long as it shows that it is the defendant who is agreeing to the terms. The word “writing” or similar term is defined in the Interpretation Act and includes anything represented or reproduced by any mode of representing or reproducing words in visible form. Section 8 of Electronic Information and Documents Act, 2000 (“EIDA”), also confirms that a requirement of any law that any information or document be in writing is satisfied if the information or document is in electronic form.
+
+The EIDA further states that a “requirement pursuant to any law for the signature of a person is satisfied by an electronic signature”.
+
+The term “electronic signature” is defined in the EIDA as meaning “information in electronic form that a person has created or adopted in order to sign a document and that is in, attached to or associated with the document”.
+
+The Court summarized (and resolved) the issue thusly:
+
+[60] The issue that remains is: is a emoji good enough to meet the requirements of the SGA in the unique circumstances of this case?
+
+[61] I find that the flax contract was “in writing” and was “signed” by both parties for the purposes of the SGA. There is no dispute that Kent electronically signed on behalf of SWT. The new twist is: did Chris’s [representing Achter] emoji constitute a “signature”?
+
+[62] In my opinion the signature requirement was met by the emoji originating from Chris and his unique cell phone (agreed upon statement of facts para. 2; cross-examination of Chris T6.7-T6.10; T28.6-T28.20) which was used to receive the flax contract sent by Kent. There is no issue with the authenticity of the text message which is the underlying purpose of the written and signed requirement of s. 6 of the SGA. Again, based on the facts in this case – the texting of a contract and then the seeking and receipt of approval was consistent with the previous process between SWT and Achter to enter into grain contracts.
+
+[63] This court readily acknowledges that a emoji is a non-traditional means to “sign” a document but nevertheless under these circumstances this was a valid way to convey the two purposes of a “signature” – to identify the signator (Chris using his unique cell phone number) and as I have found above – to convey Achter’s acceptance of the flax contract.
+
+[64] I therefore find that under these circumstances that the provisions of s. 6 of the SGA have been met and the flax contract is therefore enforceable. There is no issue in this regard that requires a trial.
+
+The Court granted SWT’s application for summary judgment and entered a judgment against Achter for damages in the amount of $82,200.21 payable to SWT.
+
+Case: South West Terminal Ltd. v Achter Land, 2023 SKKB 116 (CanLII), https://canlii.ca/t/jxq15
+
+Dentons - Kirsten Thompson
+
+Across over 80 countries, Dentons helps you grow, protect, operate and finance your organization by providing uniquely global and deeply local legal solutions.
+Polycentric, purpose-driven and committed to inclusion, diversity, equity and sustainability, we focus on what matters most to you.
+
+To find out more about how we can help you, please visit www.dentons.com 
+
+To view our latest thought leadership, please visit www.dentons.com/en/insights
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Canada Company & Commercial Litigation Dentons
+Topics
+Electronic signature
+Popular articles from this firm
+Proposed Diversity Disclosure Requirements for distributing federal financial institutions*
+Alberta Human Rights Commission awards substantial costs against complainant who engaged in misleading and improper conduct*
+Use of personal data in training and deployment of AI*
+Managing your workforce in times of economic uncertainty*
+Canadian and global insights from the 2024 Insurance Summit*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+More from Dentons Data
+Utilisation de données à caractère personnel dans l’entraînement et le déploiement de modèles d’IA
+Use of personal data in training and deployment of AI
+Ontario’s new public sector cybersecurity and AI law now in force - what public AND private sector organizations need to know
+What FRFIs need to know about adopting AI: Key take-aways from the OSFI-FCAC Risk Report
+Québec’s New Data Portability Obligations Now in Force: A Guide
+Related practical resourcesPRO
+How-to guide
+How-to guide: What makes a consumer contract invalid? (USA)
+Recently updated
+How-to guide
+How-to guide: How to comply with legal developments relating to Diversity, Equity and Inclusion (USA)
+Recently updated
+How-to guide
+How-to guide: How to manage the risk of contracting with a company in financial difficulty (USA)
+Recently updated
+View all
+Related research hubs
+Canada
+Company & Commercial
+Litigation
+×
+My Lexology
+Access my saved content
+ Full article, 28 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

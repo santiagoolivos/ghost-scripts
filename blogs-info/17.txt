@@ -1,0 +1,112 @@
+https://fosrlaw.com/2023/04/04/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Thailand Recognizes E-Signatures
+Formichella & Sritawat Attorneys at Law
+Formichella & Sritawat Attorneys at Law logo
+Thailand April 4 2023
+The eCommerce market in Southeast Asia is one of the fastest growing and most promising, with its projection to grow to $11 billion in 2025. According to the Electronic Transactions Development Agency, in 2017, the total eCommerce market in Thailand was estimated at $2 billion. The total Thai eCommerce revenue is expected to reach $3.5 billion in 2018. The driving factors arise from increased Internet and mobile phone use as well as improved logistics and e-payment systems. 
+
+Source: www.export.gov
+
+With the rapid growth of eCommerce transactions, closing transactions via the traditional exchange of signatures opens the door to various issues. For banks and payment service providers, there is always the problem of chargebacks. Of course, verification methods are increasing, but the starting point in closing a digital transaction is an e-signature.
+
+Under Thai law, an “e-signature” is a letter, character, number, sound, or any other symbol created in electronic form which can be used in conjunction with electronic data for establishing the relationship between a person and such electronic data.”
+
+The law clearly expresses that electronic data’s enforceable and binding effect cannot be denied or rejected because such data is produced electronically. An e-signature is automatically considered reliable/trustworthy if such e-signature:
+
+It is created and linked exclusively to its owner.
+It is made under the exclusive control of the signatory without other persons involved.
+Any change to such e-signature must be detectable and identifiable.
+Any amendment to an executed document using such e-signature can be detected and identified.  
+An e-signature using Public Key Infrastructure (PKI) technology is currently recognised under Thai law as secure and reliable. Thus, technologies using PKI for e-signatures are legally binding and enforceable.
+
+Formichella & Sritawat Attorneys at Law - Naytiwut Jamallsawat
+
+The above is for general information purposes only and should not be relied upon as legal advice. For further inquiries, please contact John Formichella or Naytiwut Jamallsawat at info@fosrlaw.com
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Thailand IT & Data Protection Formichella & Sritawat Attorneys at Law
+Topics
+Electronic signature
+Popular articles from this firm
+Telecommunication Licensing in Thailand*
+In brief: media law and regulation in Thailand*
+Thailand: Nominee Shareholding - Opinions of the Thai Supreme Court*
+Criminal Defamation Litigation in Thailand*
+Computer Crime Act in Thailand - Supreme Court Application*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+Thailand
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 29 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

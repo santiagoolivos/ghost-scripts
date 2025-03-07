@@ -1,0 +1,122 @@
+https://www.dsm.legal/fr/comprendre-la-signature-electronique/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Comprendre la Signature Électronique
+DSM Avocats à la Cour
+DSM Avocats à la Cour logo
+Luxembourg March 14 2024
+L’avènement du numérique a profondément transformé de nombreux secteurs, y compris la construction. BIM, CAD, logiciel de suivi de chantier, plateformes de partage d’informations… les applications sont multiples.
+
+Parmi les innovations les plus notables, la signature électronique est devenue un outil de plus en plus apprécié grâce à l’efficacité et la sécurité qu’elle offre. Cet article vise à éclairer les professionnels sur les différents formats et subtilités de la signature électronique.
+
+Définition pratique et légale de la signature électronique
+La signature électronique est un processus qui permet à une personne de signer un document de manière électronique. Elle implique l’utilisation de techniques cryptographiques pour garantir l’authenticité et l’intégrité du document signé. Elle peut en pratique prendre différentes formes, telles que la saisie d’un code PIN, la signature biométrique (comme la reconnaissance de l’empreinte digitale), ou l’utilisation de certificats numériques pour crypter le document signé et authentifier l’identité du signataire. La signature électronique consiste en un ensemble de données, liées de façon indissociable à l’acte, qui en garantit l’intégrité et satisfait aux conditions posées à I’alinéa premier du présent article.
+
+L’article 1322-1 du Code civil la définit comme « un ensemble de données, liées de façon indissociable à l’acte, qui en garantit l’intégrité » et qui « identifie celui qui l’appose et manifeste son adhésion au contenu de l’acte ».
+
+L’article 1322-2 du Code civil énonce que « L’acte sous seing privé électronique vaut comme original lorsqu’il présente des garanties fiables quant au maintien de son intégrité à compter du moment où il a été créé pour la première fois sous sa forme définitive. »
+
+La révolution numérique et le règlement eIDAS
+Le règlement européen N°910/2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur, communément appelé règlement eIDAS, a posé le cadre juridique au niveau européen de la signature électronique. Ce règlement distingue trois types de signatures électroniques : simple, avancée, et qualifiée :
+
+La Signature Électronique Simple (SES) La SES est le niveau le moins élevé des signatures électroniques. En pratique, ce type de signature électronique est souvent symbolisée par une case à cocher ou un bouton sur lequel l’utilisateur peut cliquer afin, par exemple, d’accepter des conditions générales ou de valider une commande. Elle ne permet pas d’authentifier avec certitude l’identité du signataire. Bien qu’elle offre un degré de simplicité et de rapidité, elle présente des limites. Son utilisation est donc adaptée pour des documents moins sensibles tels que la validation en interne de certains documents.
+La Signature Électronique Avancée (SEA) La SEA présente un niveau de sécurité intermédiaire par une identification du signataire. En effet, à la différence d’une SES, la SEA demande au signataire de s’identifier, notamment par la soumission au préalable d’un document d’identité et moyennant introduction d’un code unique transmis au signataire via sms ou email. Cette signature est fréquemment utilisée pour des contrats ou des documents nécessitant une validation formelle de l’identité du signataire.
+Les SES et SEA n’ont cependant pas la même valeur légale qu’une signature manuscrite. Ainsi, en cas de litige, le juge doit les examiner et déterminer s’il existe suffisamment de preuves pour reconnaître le document comme valablement signé.
+
+La Signature Électronique Qualifiée (SEQ) La SEQ offre le plus haut niveau de sécurité et d’authenticité. Tout comme la signature électronique avancée, l’authentification de la signature électronique qualifiée passe par l’identification du signataire, mais offre un niveau de sécurité supplémentaire car cette identification est effectuée avec une intervention humaine organisée par un « Prestataire de Services de Confiance Qualifiés », ou PSCE. Équivalente à une signature manuscrite en termes de valeur légale, elle est recommandée pour des documents importants comme notamment des contrats majeurs entre des opérateurs distants.
+La Signature sur document PDF ou par signature digitalisée
+Une question fréquemment posée concerne la validité d’une signature sur un document ensuite digitalisé et transmis en format PDF, ou encore ajoutée en tant qu’image sur un document PDF. Bien que techniquement possible, cette méthode peut ne pas offrir le niveau de sécurité et d’authentification requis, en particulier pour des documents importants, et n’est pas considéré comme une signature électronique à proprement parler. Il ne pourra en réalité que valoir comme commencement de preuve par écrit. L’article 1341 du Code civil, exigeant une preuve littérale pour tout contrat dépassant la valeur de 2.500 euros, reçoit ainsi au vœu de l’article 1347 du Code civil exception lorsqu’il existe un commencement de preuve par écrit, i.e. « tout acte écrit qui est émané de celui contre lequel la demande est formée, ou de celui qu’il représente, et qui rend vraisemblable le fait allégué ». Cette situation va cependant requérir des preuves supplémentaires.
+
+En ce qui concerne une signature digitalisée, donc une image de la signature, copiée sur un document Word ou PDF, ce procédé n’est pas recommandé, alors qu’il crée des risques d’abus et des problèmes d’identification du signataire.
+
+Il est donc recommandé d’utiliser plutôt une signature électronique proprement dite.
+
+Identification du type de signature utilisé
+Il est essentiel de vérifier les informations fournies par le prestataire de services sur son offre de signature électronique afin de déterminer le niveau de sécurité offert. Tout d’abord, il y a lieu de se référer à un PSCE et non pas à prestataire qui n’est pas agréé. En cas de réception d’un document provenant d’une source externe, il est recommandé d’examiner ses propriétés, métadonnées et son certificat numérique pour identifier le prestataire et le mode d’authentification. Certains logiciels fournissent également des indications sur le niveau de la signature lors de l’ouverture du document ou en cliquant sur la signature.
+
+La Loi du 7 juillet 2023 sur l’Acte Authentique Électronique
+Cette loi, entrée en vigueur en août dernier, étend l’utilisation des signatures électroniques qualifiées à tous les titres et actes authentiques, à l’exception des testaments. Cette possibilité nouvellement accordée aux notaires reste cependant facultative. C’est donc au notaire de décider s’il souhaite ou non offrir la possibilité de passation d’un acte notarié moyennant signature électronique.
+
+Conclusion
+Il est crucial de comprendre correctement l’utilisation de la signature électronique. Son adoption appropriée et conforme à la réglementation peut faciliter les processus de signature tout en garantissant la sécurité juridique des transactions.
+
+DSM Avocats à la Cour - Mario Di Stefano
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Luxembourg IT & Data Protection DSM Avocats à la Cour
+Topics
+Electronic signature
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+Luxembourg
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 25 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

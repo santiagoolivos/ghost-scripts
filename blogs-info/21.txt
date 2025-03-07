@@ -1,0 +1,141 @@
+https://chandler.morihamada.com/en/insights/newsletters/2022-116
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Digital Identification Services to be Regulated in Thailand
+Chandler Mori Hamada Limited
+Thailand December 28 2022
+In addition to the Royal Decree to Regulate Digital Platforms (Link), another digital law, namely the Royal Decree on Supervision of Digital Identification Services which Require Operating Licenses (“Royal Decree”) issued under the Electronic Transaction Act, B.E. 2544 (2001), was published in the Royal Gazette on 23 December 2022. The Royal Decree shall be effective after 180 days counting from the date of publication in the Royal Gazette, i.e. on 21 June 2023.
+
+Who is regulated?
+
+This Royal Decree focuses on “digital identification” service providers. In particular, digital verification and authentication services with the following characteristics will require an operating license:
+
+Identity Proofing: services for processes of compiling and identifying data related to the identity of a person (which includes both natural persons and juristic persons), and examining the relation between a person and identification data;
+Authenticator[1] Management: services for processes that connect the identity of a verified person with their authenticator and management of that Authenticator;
+Authentication: services for processes that authenticate the identity of a person through the inspection of their Authenticator;
+Digital Identity Platform Service: services that exchange data for verification and authentication over a digital network, or a system that connects and exchanges data related to verification and authentication, but not including a service provided by a middleman.
+However, the following digital verification and authentication services will be exempted from the licensing requirements:
+
+A digital verification and authentication service that supports the use of electronic signatures by a service provider who issues certificates of use of electronic signatures (Certificate Authority or CA) under electronic transaction laws;
+A digital verification and authentication service for the benefit of internal management of such persons without providing services to a third party; and
+A digital verification and authentication service as announced by the Electronic Transactions Commission.
+What duties are imposed on the operators?
+
+Obtaining operating licenses: The digital identification services provider, whose services fall under the aforementioned scope, must obtain an operating license from the Electronic Transactions Development Agency (“ETDA”) prior to carrying out such services businesses. During the application process, the operator will be required to provide the ETDA with a risk management plan, data protection plan, anti-corruption plan, IT security plan, and customer protection plan as part of the application process. Further details on the application process may be announced in the subordinate law.
+
+Note that the existing digital identification service providers are also required to apply for the operating license within 90 days from the effective date of this Royal Decree. Once the application is submitted, those providers will be allowed to continually operate their service as usual provided that there is no disapproval order issued by the ETDA.
+
+Submitting a readiness assessment report: After obtaining a license from the ETDA, the licensee must submit a readiness assessment report to the ETDA within 180 days of receiving the license. The report must, at a minimum, address the technological and personnel readiness for business operations. ETDA must approve the report before the licensee can start operating the digital verification and authentication services.
+
+Reporting when employing a third party: If the licensee engages any third party for the collection or storage of data related to the digital verification and authentication services, the licensee must report this to the ETDA and comply with any requirements set by the ETDA.
+
+Reporting changes in operations: The licensee is required to report any changes to the ETDA, including changes in (i) registered capital, (ii) directors, managers, or persons responsible for the licensee's operation, (iii) systems or technology related to the services, and (iv) any other material changes to the business operation as announced by the ETDA.
+
+Reporting complaints or litigation: The licensee is required to notify the ETDA of any complaints or litigation filings they receive, with the details to be announced by the ETDA in the subordinate law.
+
+Data storage: The licensee must store data related to the services, accounting, documents, or other evidence relating to the business, assets, and debts for the purpose of inspections. The details of the storage requirements will be announced by ETDA in the subordinate law.
+
+Annual Report: The licensee must prepare an annual report, in the form to be announced by the ETDA, and deliver such report to the ETDA.
+
+What is the penalty for non-compliance?
+
+Non-compliance with the provisions under this Royal Decree could lead to the suspension or revocation of the license and criminal penalty, depending on the nature of non-compliance.
+
+In case of criminal liability, if the violator is a juristic person, the directors, management, and/or other persons responsible for the violation shall also be liable.
+
+What comes next?
+
+In addition to the various subordinate laws mentioned above, the ETDA has the authority to issue guidelines covering various aspects of digital verification and authentication services under the Royal Decree. Licensees are required to adhere to these guidelines.
+
+Mori Hamada - Nuanporn Wechsuwanarux, Theerapat Sombatsatapornkul , Suphakorn Chueabunchai and Thanachart Osathanondh
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Thailand Internet & Social Media IT & Data Protection Mori Hamada
+Topics
+Electronic signature Anti-bribery and corruption
+Popular articles from this firm
+Current Stage of Thailand’s Regulatory Approach to AI*
+Blockchain Technology Development Trends: Bitcoin and beyond*
+Mining in Thailand*
+Thailand’s 25th Bid Round: Unlocking Nine Onshore Blocks Across Northeast and Central Thailand*
+Thailand’s energy transition- 2024 outlook*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+An ABC Guide to Anti-Bribery Compliance - Responsibilities, Duties & Adequate Procedures - Learn Live
+
+MBL Seminars | 1.5 CPD hours
+Online
+23 July 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+View all
+Related research hubs
+Thailand
+IT & Data Protection
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 30 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

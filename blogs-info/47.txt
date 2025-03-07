@@ -1,0 +1,152 @@
+https://whpartners.eu/news/electronic-signatures-can-they-be-used-to-sign-agreements/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Electronic Signatures: can they be used to sign agreements?
+WH Partners
+WH Partners logo
+European Union, Malta May 10 2021
+In 2014, the European Union passed Regulation (EU) 910/2014, on electronic identification and trust services for electronic transactions in the internal market (eIDAS), to regulate and authorise electronic signatures across the European Union.
+
+This eIDAS provides specific guidance on how and when an electronic signature may be used, by first differentiating between three different types of electronic signatures: simple, advanced and qualified, with the main difference between them being the level of security which is attached to each of them.
+
+Simple E-Signature
+
+The simple electronic signature is the least secure of these three types of signatures. Examples of a simple e-signature are scanned signatures and a basic digital signature such as the one made on the terminal of a postman.
+
+Advanced E-Signature
+
+As the name suggests, the advanced electronic signature is the second most secure type of e-signature. It is usually recommended in cases of large financial transactions and business. Unlike the simple e-signature, the advanced e-signature has certain criteria which have to be met in order to be classified as such.
+
+eIDAS states that an advanced electronic signature must follow these security measures:
+
+Be uniquely and clearly linked to the person signing,
+Enable the person to be formally identified,
+Be created by means under the sole control of the signatory,
+Ensure that the document to which it relates cannot be amended.
+Qualified E-Signature
+
+The last and most secure type of e-signature is the qualified electronic signature. This is only used in very specific cases as it can be very complex. This type of e-signature has been defined precisely by the eIDAS and there are specific procedures on how the person signing is identified and how the signature is protected.
+
+A qualified e-signature is the legal equivalent of a handwritten signature and as such it must comply with the same security measures over and above those of the advanced e-signature. In fact, the procedure for the creation of a qualified signature can only be done through a qualified digital certificate, which authenticates the signature, and it must be created using a qualified signature creation device.
+
+A qualified certificate for electronic signatures must include an indication that it was created by a qualified trust service provider. This is an entity which is entrusted by a government body to create such certificates for the creation of a qualified signature. The EU maintains an EU Trust List of these entities and only those listed can provide qualified trust services.
+
+Maltese Law
+
+As an EU Regulation, eIDAS has direct effect in all EU Member States, including Malta.
+
+Electronic signatures have been regulated in Malta for quite some time through the Electronic Commerce Act, however, this Act was later repealed to bring Maltese law in line with eIDAS, and are now regulated by the E-Commerce Act, Chapter 426 of the Laws of Malta, allowing the use of programmes such as DocuSign and HelloSign, which provide both Advanced and Qualified e-signatures, to legally conclude (some) agreements.
+
+The E-Commerce Act gives contracts concluded electronically the same force of law as ordinary contracts concluded by the parties in each other’s presence. Both advanced and qualified e-signatures are recognised in Malta and may be used to sign most documents, but not every document may be signed using e-signatures. These specific types of contracts, can be found in the Eight Schedule of the Electronic Commerce Act and include:
+
+Contracts that create or transfer rights over immoveable property other than leasing rights;
+Contracts of suretyship granted and on collateral security furnished by persons acting for purposes outside their trade, business, or profession;
+The law governing the creation, execution, amendment, variation or revocation of will or any other testamentary instrument or a trust;
+Any law governing the making of an affidavit or a solemn declaration or requiring or permitting the use of one or any purpose;
+The rules, practices or procedures of a court or tribunal however so described;
+Any law relating to the giving of evidence in criminal proceedings;
+Any contracts governed by family law.
+In Article 4, there are also certain fields and activities to which the provisions of this Act do not apply. These activities may be amended and replaced by the Minister responsible for Communications and they can be found in the Fifth Schedule:
+
+The field of taxation;
+Matters in relation to information society services covered by any laws relating to data protection or privacy;
+Questions in relation to agreements or practices governed by competition law;
+The representation of a client and defence of his interests before the courts,
+Gambling activities which involve wagering a stake with monetary value in games of chance, including lotteries and betting transactions.
+The COVID-19 pandemic has changed the way in which we conduct transactions and sign agreements, with most professionals and people opting for e-signatures over wet ink signatures (for obvious reasons).
+
+In line with the trend, the Malta Business Registry also started accepting documents signed by qualified e-signatures. Much like any regular signed document, in order to be valid, the e-signature must be compliant with the eIDAS and with Article 82 of the Companies Act which regulates the authentication of documents. Article 85 states that such documents can be authenticated by a director, the company secretary, an authorised officer of the company or by an individual specifically authorised by the memorandum, or through a resolution of the board of directors to do so.
+
+WH Partners - Davinia Cutajar
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+European Union Malta Company & Commercial Internet & Social Media IT & Data Protection WH Partners
+Topics
+Power of attorney Electronic signature Coronavirus
+Popular articles from this firm
+"Single economic unit" doctrine does not apply to procedural aspects of antitrust private enforcement actions - CJEU*
+Casino de Spa SA: The Future of VAT on Gambling Services*
+EU Commission Withdraws AI Liability Directive*
+ECJ: OnlyFans Liable For VAT (Court Judgement C-695/20: Fenix International v HMRC)*
+Landmark decision by the Maltese Superior Court - Austrian judgments awarding refunds of gambling losses are not enforceable in Malta*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+View all
+Related research hubs
+Coronavirus
+Malta
+European Union
+IT & Data Protection
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 42 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

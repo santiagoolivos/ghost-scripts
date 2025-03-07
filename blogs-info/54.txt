@@ -1,0 +1,99 @@
+https://www.schoenherr.eu/content/everyday-use-of-electronic-documents-in-poland
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Everyday use of electronic documents in Poland
+Schoenherr
+Schoenherr logo
+Poland February 12 2025
+In Poland, the most common form of documentation is written, but the rapid development of technology is increasing the popularity of electronic signatures. The Polish Civil Code recognises three forms of juridical acts: written, electronic and document. The electronic form can be considered equivalent to the written form if the electronic declaration is accompanied by a qualified electronic signature (QES).
+
+The use of QES simplifies document circulation and makes conducting everyday business more convenient. QES recognised in Poland is a digital signature with a qualified certificate issued by a trust service provider in an EU Member State in compliance with the eIDAS regulation.
+
+Many popular electronic signature solutions, such as DocuSign, AdobeSign or eSignly, generally lack a qualified certificate and cannot be used to sign documents in written form. The same applies to the trusted signature ("Podpis Zaufany"), which is frequently used in Poland for transactions with public authorities. While it confirms identity and allows document signing, it does not qualify as a QES. Documents signed with these tools are considered to be signed in a document form. If neither written form nor another specific form is reserved by law or agreed upon by the parties, the document signed in this manner will be valid and binding.
+
+Each EU Member State maintains public lists of trust service providers. In Poland, this list is managed by the National Bank of Poland through a system known as the National Certification Centre. These lists are compiled by the European Commission and are accessible on the eIDAS Dashboard. It is easy to verify whether a signature is a QES that can be used for signing documents in written form, thereby ensuring the legal security of the documents.
+
+Schoenherr - Agnieszka Stawiarska and Klaudia Szatan
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Poland IT & Data Protection Schoenherr
+Popular articles from this firm
+Green Guarantees in Poland*
+Liability for damages: the missing piece of the AI Act puzzle*
+Dark patterns are everywhere - and the authorities know about it*
+Are gift cards money in Poland?*
+To the point: Financial regulation | 10/2024*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+Poland
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 44 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

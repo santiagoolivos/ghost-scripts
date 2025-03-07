@@ -1,0 +1,125 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc0MzYsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiMjE2NWI4NzEtZjZkZC00MzIxLTliODktODAxOTA4ZjAwM2M1IiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.yg_xTIP67qnQbPNdBlCGJ9Rp03tlgNZwYDCoZoHi1jECuRA2FCf4tLCvMCw6AITeUWidgu6KitTY6yt1cDSuhQ
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Montenegro taking a step forward in digitalization
+JPM & PartnersMEMBER FIRM OF Lex Mundi
+JPM & Partners logo
+Montenegro April 18 2022
+The Government of Montenegro passed a Bill of the Law on Electronic Document („Bill“) which is now waiting to be passed by the Parliament of Montenegro. Among other things, the Covid-19 epidemic revealed the weaknesses of the public administration in terms of the digitalization of the public administration but also of the legal framework concerning the creation, usage and archiving of electronic documents both in the public administration as well as in private legal affairs, which makes the adoption of this Bill of great importance for the continuation of the digitalization process.
+
+The Bill represents a more advanced legal solution in relation to the current regulatory framework, and below we have referenced certain novelties and possible challenges in their application in accordance with the current text of the Bill.
+
+One of the purposes of the Bill is to align with the currently valid Law on Electronic Identification and Signature ("LEIS"), especially with regards to broadening the definition of an electronic signature to include simple electronic signature and qualified electronic signature, in addition to already defined advanced electronic signature, and introducing the electronic stamp as a part of the electronic document.
+
+The electronic document which originated in electronic form and is signed by an electronic signature i.e., an electronic stamp is considered an original. The original of an electronic document as well as its copy in paper form, which is certified in accordance with the Bill, have the same legal validity and can be used equally in all proceedings and activities for which the use of documents is required in the original form or in the form of a certified copy. There is a certain inconsistency between LEIS and the Bill with regards to the meaning of the legal validity which might be taken into consideration. The LEIS determines that only a qualified electronic signature is acceptable as a proof in legal proceedings before state and local authorities, while the Bill determines that any electronic document (even those signed with a simple or advanced electronic signature) can be used equally in all proceedings and activities for which the use of documents is required in the original form or in the form of a certified copy.
+
+The Bill introduces the institutes of a digitalization process and a digitalized document. The digitalization is defined as a process of converting a document from a non-electronic form to an electronic one, while digitalized document is defined as a document that is made in the process of digitization in a form that ensures machine readability and long-term storage. 
+
+The provisions of the Bill do not specify the process of digitalization of a document, but in any case, it is prescribed that a digitalized document is considered a copy of a document not originally created in electronic form.
+
+The certification of a copy of an electronic document in paper form and the certification of a digitalized document is performed in accordance with the Law on Certification of Signatures, Manuscripts and Transcripts. Recently, the Government of Montenegro enacted the Bill of Amendments to the Law on Certification of Signatures, Manuscripts and Transcripts. The proposed amendments to this law are aimed at introducing the possibility of digital certification of signatures and manuscripts by notaries, courts, and municipal local authorities.
+
+The Bill further stipulates that the certification of a copy of an electronic document and the certification of a digitalized document may also be performed by the competent authorities when a certified copy or a certified digitalized document is required in proceedings before those authorities. This provision is defined too broadly in a way that it can be interpreted that any public authority before which the administrative proceeding is initiated, can certify a copy of any electronic document or certify a digitalized document required for that procedure, which may lead to the legal uncertainty. This is especially since, upon fulfilling the requirements from the Bill, a certified copy of the electronic document has the same legal validity as the original. Currently, this kind of authority is within the competencies of notaries, courts, and municipal local authorities authorized for certification of true copies of documents in accordance with the Law on Certification of Signatures, Manuscripts and Transcripts. It would be desirable to specify this provision, perhaps in a sense that only a public authority that issues a certain electronic document can certify a copy of that electronic document in paper form or similar specification.
+
+Article 15 of the Bill prescribes that digitalized document has the same legal validity as a document, which is not originally made in electronic form, upon fulfilling certain conditions. Bearing in mind the context of this provision it is likely that the proposer of the law has the intention of prescribing the conditions for the legal validity of the certified digitalized document and not a digitalized document since, as beforementioned, a digitalized document is considered a copy of a document not originally created in electronic form.
+
+The Bill further defines the time of dispatch and receipt, as well as the confirmation of receipt of the electronic document, the manner of delivery of electronic documents between the competent authorities and the parties and the manner of keeping the electronic document.
+
+In relation to the process of digitalization in Montenegro, it is important to mention the recent announcement of the Ministry of Public Administration, Digital Society and Media of Montenegro about the introduction of the possibility of electronic payment in the following weeks for administrative fees for certain services of public administration.
+
+Evidently, Montenegro is moving steadily toward the main goal – full digitalization of all possible governmental services as well as the increased usage of the digitalization process in the private legal affairs, and the adoption of the Bill, with certain modifications made in the procedure before the Parliament, would certainly support this goal.
+
+JPM & Partners - Lana Vukmirovic Misic
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Montenegro IT & Data Protection JPM & Partners
+Topics
+Electronic signature Coronavirus
+Popular articles from this firm
+Use of the Company Stamp in Company Business Operations*
+(Un)Equal Pay*
+A big step for FINTECH companies in Montenegro*
+Montenegro: new legal framework in the field of construction and spatial planning*
+New Waste Management Law of Montenegro - Key Changes for Producers and Retailers*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the UK GDPR (UK)
+Recently updated
+View all
+Related research hubs
+Coronavirus
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 37 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

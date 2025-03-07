@@ -1,0 +1,162 @@
+https://www.taylorwessing.com/en/insights-and-events/insights/2023/09/understanding-the-obligations-suspensions-and-requirements
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Understanding the obligations, suspensions, and requirements of trust service providers and electronic signatures in UAE
+Taylor Wessing
+Taylor Wessing logo
+United Arab Emirates September 19 2023
+Regarding the obligations of approved trust service providers, defined as those granted the capacity of approval by the Authority to provide Trust Services and Approved Trust Services, Article 36 of the Decree-Law outlines the following requirements:
+
+Comply with the licensing requirements issued to them.
+Ensure the accuracy of essential data in the electronic authentication certificates throughout their validity period.
+Provide a means for signatories to report any doubts about the services provided in accordance with the issued license.
+Offer a service to cancel authentication certificates.
+Notify the Authority of any changes to the data in the license application or the decision to stop submitting it, following the procedures specified in the Implementing Regulation of the Decree-Law.
+Utilise technically reliable systems and products ensuring technical security and protection against changes, modifications, or breaches as approved by the Authority and concerned entities.
+Maintain electronic documents, electronic signatures, stamps, and identification-related evidence for the duration specified by the Authority.
+Handle personal data in compliance with prevailing legislation and the provisions of the Decree-Law.
+Create and maintain an updated database of authentication certificates when providing the authentication certificate service.
+Develop an updated plan to end the provision of Electronic Trust Service to ensure service continuity.
+Refrain from providing services if there are doubts about the accuracy of data, validity of submitted documents for verification, proof of right to representation, or if there are impediments or security risks.
+Rely on official data sources for persons in the state when providing approved trust services specified under the issued license.
+Furthermore, Article 16 of the cabinet decision specifies additional obligations for approved trust service providers:
+
+Conducting business with fairness, honesty, and competence in all activities and operations.
+Appointing individuals with specialized expertise, accredited and trained in information security, personal data protection, and relevant national and international standards.
+Securing sufficient financial resources to manage and operate approved trust services.
+Utilising reliable and secure systems to store, process, and protect data, allowing retrieval with the data owner's prior approval, limited access to authorized personnel, and verifying data validity.
+Implementing measures to combat fraud, data theft, and illegal data use.
+Employing reliable and secure systems and technologies protected from unauthorized access, modification, and change to ensure technical and procedural security.
+As the UAE is home to people of numerous nationalities, the government is dedicated to safeguarding the rights and happiness of its customers. In line with this commitment, Article 37 of the decree-law ensures that Approved Trust Services offered by Approved Trust Service Providers outside the UAE will be recognized, provided they meet the same standards as those provided by approved trust providers in accordance with the Decree-Law and decisions issued by the Authority.
+
+Furthermore, Article 38 establishes that Trust Service Providers are legally responsible for any damages suffered by individuals due to the violation of obligations outlined in the Decree-Law, its Implementing Regulation, and decisions issued by the Authority. This accountability underscores the government's focus on protecting the interests of customers and maintaining a high level of trust and reliability in the provision of these services.
+
+Article 17 of the cabinet decision outlines the procedures for the suspension of services as follows:
+
+The licensee cannot suspend any of their activities or services without obtaining prior approval from the Authority.
+The application to suspend trust services or approved trust services must be submitted through the specified means determined by the Authority.
+The Authority will respond to the application for service suspension within one month from the date of its submission. If additional time is needed for review and verification, the licensee will be informed of the updated timeframe.
+The licensee must notify the Authority at least three months in advance of their intention to suspend any trust services, approved trust services, or part thereof.
+The licensee must also inform the public, including subscribers and approved parties, of their plan to suspend any, all, or part of their services, at least two months before the planned termination date, after obtaining approval from the Authority.
+In the event of a planned termination, the licensee is required to assist and facilitate subscribers in transitioning to another licensee who offers similar services, following the rules and instructions provided by the Authority.
+Article 19 of the cabinet decision explains the requirements for qualified electronic signatures and seals as follows:
+
+Qualified electronic signatures and seals must meet encryption specifications, standards, and requirements set by the Authority, including mechanisms for creating them and information security rules.
+The qualified electronic signature and seal must be created in accordance with one or more forms and formats defined by the Authority.
+Article 20 of the cabinet decision covers approved electronic signatures and seals, which must meet the conditions specified in Article 19. Additionally, the integrity of the signed data must not be compromised, and the creation tools for the approved electronic signature and seal must fulfil the requirements listed in Article 26 of the decision. These requirements include:
+
+The issuance of approved electronic signature and seal creation tools as an approved trust service must be done by an approved trust service provider meeting the technical, security, procedural, and organizational specifications and standards set by the Authority.
+The approved trust service provider must determine appropriate policies and practices for providing tools to create approved electronic signatures and seals as an approved trust service. These policies and practices should comply with technical conditions and specifications determined by the Authority.
+The approved electronic signature or seal creation tool must adhere to specific requirements, such as ensuring the confidentiality of the data used to create the signature or seal, protecting it from unauthorized use or forgery, creating it only once, and managing it in accordance with the Authority's conditions and standards.
+The approved trust service provider must comply with security assessment standards and requirements issued by the Authority for the adoption of approved electronic signature and seal creation tools.
+Accreditation authorities for the creation tools must follow the list of standards and requirements issued by the Authority, and any violation may result in the revocation of accreditation.
+Only approved trust service providers offering remote management of approved electronic signature and seal creation tools are allowed to manage, create, and copy the electronic signature creation data on behalf of the signatory.
+The use of approved electronic signature and seal creation tools must be limited to those approved by the Authority.
+The Authority will create and maintain a list of authorities issuing accreditation certificates for the creation tools, along with their status and approvals.
+Approved trust service providers must adhere to the conditions and procedures issued by the Authority for applying for approval to use the creation tools and be included in the list of approved tools.
+In case an accreditation certificate for a tool is revoked, the applicant must inform the Authority within two weeks of the revocation date. The Authority may conduct an assessment of the impact on licensed services and take appropriate action based on the assessment results.
+According to Article 25 of the decree law, an authentication certificate becomes invalid once it is cancelled. However, this cancellation does not affect any electronic signatures or stamps that were made before the cancellation date using that certificate. It is strictly prohibited for anyone to publish or use an authentication certificate if they are aware of its invalidity or cancellation or if the intended recipient has rejected it.
+
+In accordance with Article 24 of the cabinet decision, when an Approved Trust Service Provider issues an approved authentication certificate, they must verify the identity and authorization of the person receiving the certificate. This verification can be done through any of the following methods:
+
+The person or their legal representative must be physically present during the issuance process.
+The use of a digital identity that meets the high-security requirements specified in this Decree-Law.
+An authentication certificate for an approved electronic signature or an approved electronic stamp issued by another Approved Trust Services provider.
+Any other procedure that is recognized by the state and considered equivalent to the physical presence of the person, following the rules and procedures set by the Implementing Regulation of this Decree-Law.
+Article 21 of the cabinet decision deals with the requirements for Approved Authentication Certificates for Electronic Signatures and Seals. These certificates are defined as electronic signatures authenticated documents issued by an Approved Trust Services provider based on the Electronic Identification System and verification procedures, meeting the conditions approved by the Authority.
+
+The following points are stipulated in this article:
+
+The approved authentication certificate for electronic signatures and seals must include the following information: (i) A format or indication stating that the certificate has been issued as an approved authentication certificate for electronic signatures or seals, suitable for automated processing. (ii) Clear identification of the approved trust service provider that issues the approved authentication certificates, including the provider's name, identification number, and indication that the service is offered in the United Arab Emirates. (iii) Unambiguous representation of the identity of the owner of the electronic signature or seal, including full name, identification number (if applicable), and any pseudonym used. (iv) Data for verifying the validity of the electronic signature or seal that corresponds to the data of its creation. (v) Start and end dates of the validity period of the authentication certificate for the electronic signature or seal. (vi) A unique identification code for the approved authentication certificate provided by the trust service provider. (vii) The approved electronic signature or seal issued by the trust service provider. (viii) A link to download the approved authentication certificate for the electronic signature or seal. (ix) Website link for verifying the validity of the approved authentication certificate for the electronic signature or seal.
+If the electronic signature creation data related to the process of verifying the validity of the electronic signature is present in an approved electronic signature generation device, this should be indicated within the approved authentication certificate in a suitable form for automatic processing.
+The approved authentication certificate for electronic signatures or seals may include additional features that are not mandatory, as long as they do not affect the interoperability and recognition of the approved electronic signature or seal.
+The Authority has the right to add other requirements to the approved authentication certificate for electronic signatures or seals through decisions issued in accordance with the Decree-Law, this Decision, and the requirements of concerned entities.
+Article 22 of the cabinet decision deals with the cancellation of authentication certificates. If an approved authentication certificate for an electronic signature or seal is cancelled after its issuance, it immediately loses its validity and cannot be reactivated under any circumstances.
+
+Regarding the prohibition of temporarily suspending authentication certificates, Article 23 of the cabinet decision states that the licensee is not allowed to temporarily suspend the approved authentication certificates for electronic signatures or seals or to temporarily suspend their validity period once they have been activated.
+
+Taylor Wessing - Hesham ElSamra
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+United Arab Emirates Company & Commercial Internet & Social Media Taylor Wessing
+Topics
+Electronic signature
+Popular articles from this firm
+Ramadan - reduced working hours and consequences of noncompliance*
+Succession planning for non-Muslims with UAE assets*
+ADIAC Arbitration Rules 2024: a solid foundation for Abu Dhabi’s new chapter*
+UAE employment law - What employers need to know about end of service gratuity payments*
+Legal blood money in the UAE: everything you need to know*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+United Arab Emirates
+Company & Commercial
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 27 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

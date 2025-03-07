@@ -1,0 +1,144 @@
+https://www.paulhastings.com/insights/client-alerts/japans-twilight-of-wet-signatures-and-chops-contract-practice-moves-towards
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Japan’s Twilight of Wet Signatures and Chops—Contract Practice Moves Towards E-Signatures
+Paul Hastings LLP
+Paul Hastings LLP logo
+Japan August 29 2022
+Context
+
+As far as one can remember, Japanese agreements have always used seal impressions to give additional weight to signatures and add hurdles to forgery. At least that was how the practice of seal is believed to have begun because it was a trouble to forge someone’s seal. This argument is still valid for seals that are registered with the government, the jitsuin (registered seal). However, for seals that don’t come with governmental registration, it is speculative whether the purported seal in fact is a property of the signing party.
+
+Japan’s Civil Procedure Code provides that a private document is deemed to be validly created if there is a party’s signature or his/her seal impression. Article 228, Para 4. Note that this is or not and, unlike the Japanese business practice which requires both. Under the case law, this presumption also extends to cover the signor’s intent to affix the signature/seal (usually both). This is a rebuttable presumption but is a handy provision to eliminate the first line of debate as to whether a document is in fact validly created and was based on the signor’s true intention.
+
+Japan has used the seal for so long (well over 100 years) that walking away from it had seemed nearly impossible. Then COVID-19 and remote work took over. Many corporate employees had to come into empty offices just to attach seal impressions to create a valid contract in that environment. It was becoming more and more obvious that something had to be done.
+
+In spite of the common belief prevalent among expatriates, e-signatures create binding contracts under Japanese law today, as explained below.
+
+Underlying law
+
+Long before COVID-19, Japan had enacted the Act on Electronic Signatures and Certification Business (the “E-signature Act”) in 2010. For various practical reasons (e.g., each party had to contract with an e-signature vendor for certification), e-signatures never quite caught on until COVID-19. That being said, the legal infrastructure had existed in the following form (and the e-signature vendors recently adjusted their practices to use vendor-provided e-signatures):
+
+An electronic signature (“e-signature”) to have comparable evidentiary value to a wet signature must satisfy: (a) the created information shows that the person attaching the e-signature documented it; (b) the created information can be confirmed that no modifications have been made since created; and (c) certain electro-magnetic records embodying the created information must bear the e-signature of an acting party, then the document is deemed to be validly created (i.e., a rebuttable presumption parallel to the paper-based Civ. Proc. Code, Article 228, Para. 4 discussed above). The e-signature must be affixed only by the rightful principal in an environment that properly manages the encryption and the property containing it (the “impenetrability requirement[1]”). Article 2, Para. 1 and Article 3 of the E-Signature Act.
+
+Legal requirements and limits
+
+By this time, the e-signature service provider has almost universally adjusted its business model and has agreed to e-sign a document as principal for the true party’s benefit. Mechanically speaking under this scheme, e-signatures are affixed by the e-signature service provider. How this qualifies for the requirement (a) of an e-signature above (the e-signor must be the creator of the document) needs some explanation.
+
+The government ministries clarified this gap by stating in the Q&A of May 12, 2020 that, for purposes of Article 2, Para 1 of the E-signature Act, so long as the impenetrability requirement is satisfied, the true party in interest is deemed to be the one signing the document “through (with the assistance of)” the service provider. Such impenetrability is further bolstered by the true parties’ remittal of e-mails and time stamp information to the e-signature service provider.
+
+In light of the presumption granted under Article 3 of the E-Signature Act[2], there is a requirement (c), i.e., to secure an “environment that properly manages the encryption and the property containing it.” Put differently, it is necessary that another person cannot casually create an e-signature to be provided and processed. This for example can be supported by two-element authentication (one via email registered, and the other via a separate device communicating a separate access code), but it is just one example. There is no legal requirement for the verification of the identity of the e-signor being the user of e-service in the Q&A of September 3, 2020, although the value of such confirmation is acknowledged depending on the actual circumstances.
+
+Rebuttable presumption means that the presumption of a valid contract may be overcome by other extrinsic evidence. To effectively refute a rebuttal attempt, it is important to store in good order, e.g., e-mail exchange with the other party, and know-your-counterparty due diligence documents, among others.
+
+Conclusion
+
+The long business tradition of wet ink signature and chop is beginning to fade in Japan although it is possible to continue using them. There are statutory requirements to ensure e-signature’s validity, however they are usually satisfied if you use a reputable e-signature service. Even in trans-national agreements, the validity of a Japanese signature is a matter of Japanese law. So the parties can begin enjoying the new freedom of e-signatures for all Japanese law purposes. For practicing lawyers that deal with Japan: note that it is no longer required that contractual parties provide wet signatures with seals.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Paul Hastings LLP - Toshiyuki Arai
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Japan Company & Commercial IT & Data Protection Litigation Paul Hastings LLP
+Topics
+Due diligence Electronic signature Coronavirus
+Popular articles from this firm
+With Japan's Ratification, the Singapore Mediation Convention Gains International Momentum*
+Japan*
+Japanese Supreme Court Rules on Regulations Against Unverified Claims in Advertising - The Validity of Regulatory Design Affirmed (Legal Landscape, Constitutionality and Review Standard)*
+New Amendment To Japan’s Data Privacy Law (APPI)*
+A Japanese Supreme Court Decision on Enforcement of American Judgment with Punitive Damages*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Private Company Acquisitions - An Essential Guide - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+4 March 2025
+ChatGPT & Generative AI - An Advanced Guide to The Legal & Regulatory Aspects - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+31 March 2025
+Technological M&A - A Competitive Tool in the Era of Disruptive Innovations - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+24 April 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Privacy and data security due diligence in M&A (USA)
+Recently updated
+Checklist
+Checklist: Processor due diligence (data protection and cybersecurity) (EU)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+View all
+Related research hubs
+Coronavirus
+Due diligence
+Japan
+Litigation
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 36 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

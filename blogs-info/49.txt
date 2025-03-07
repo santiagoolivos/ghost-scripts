@@ -1,0 +1,135 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc3ODAsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiNDFlMjIzZWItMzZlMi00YjQwLTkwNWItZDU1OTAwZjRiMDc1IiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.8vADrxzIz-7wQaf9LBkk9CM61S2gCU-VVu_jAuJGR4bs0057iN3fCXCOJbpU-LHyiIYqoPTwaUS9CKOAdDsS6Q
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Electronic signatures- issues to consider, and how the law in Jersey and Guernsey is developing
+WalkersMEMBER FIRM OF Lex Mundi
+Walkers logo
+Guernsey, Jersey, USA February 26 2021
+While the general principle that e-signing is as valid as wet-ink signing has been of great comfort to lawyers and their clients since the impact of Covid-19, there are certain aspects of Jersey and Guernsey legislation which could benefit from some updating.
+
+These points have been thrown into the spotlight because of the global pandemic, which has accelerated the ongoing push towards electronic signing of documents.
+
+Since 2000, both Jersey and Guernsey have had legislation which makes it clear that that contracts may be formed by electronic means: the Electronic Communications (Jersey) Law 2000 (as amended) in Jersey (the "Jersey Law") and the Electronic Transactions (Guernsey) Law, 2000 (as amended) (the "Guernsey Law") in Guernsey.
+
+Neither law makes a distinction between exchanges of emails, application of signatures using specialist apps (such as DocuSign), copying snipping or scanning and pasting of pdf signatures into pdf docs or typing in of names in bold capitals instead of signatures. Each of these methods may be valid, binding and enforceable provided that the communications between the parties and the intention to create a formal contract are clear, and the parties have not otherwise agreed between them that contracting in this way will not be sufficient to create legal relations.
+
+There are however some areas in the laws of both islands where enhancements could be made, including, in Jersey:
+
+Remote witnessing of signatures given the lack of any legislation or case law on the topic, it must be presumed that any requirement for the signature of a document to be witnessed can only be met where the witness witnesses the signature in person. During the pandemic, Jersey's Government has allowed wills and certain powers of attorney to be witnessed electronically (albeit subject to stringent safeguards).
+Authority to attach a signature electronically on behalf of another Whilst the Jersey Law appears to contemplate one person being authorised to attach another person's e-signature to a document and whilst this does not appear to be specifically prohibited elsewhere in Jersey law, it is felt that the industry would benefit from a positive statement that the giving of such authority is acceptable and valid.
+Clarification that the Jersey Law applies generally regardless of whether a signature, seal, attestation or notarisation is made due to statutory requirements (i.e. filing of official documents) or otherwise, and that the Jersey Law applies both to documents that are sent to another person, and to documents which are simply stored after execution.
+It is currently proposed that the Jersey Law is amended to specifically deal with these points and for this reason Jersey's government has opened a consultation (link here).
+
+In Guernsey, the principal point of contention concerns powers of attorney. Among the specific exclusions from the scope of the Guernsey Law are "the creation, execution, variation, revocation or enforcement of an indenture, declaration of trust, power of attorney or any document required to be sealed." Insofar as powers of attorney are thus excluded from the scope of the Guernsey Law, this is generally (but not universally) interpreted to entail that any power of attorney granted by a natural person may only be validly executed in wet ink.
+
+However, powers of attorney granted by companies are not generally subject to the same formalities as those granted by natural persons, and there is some disagreement as to whether or not the exclusion referred to above should also potentially invalidate electronically executed powers of attorney granted by companies. In our view it should not, given that an electronically executed power of attorney granted by a company was already recognised as valid under Guernsey's customary law, prior to the enactment of the Guernsey Law. In other words, the exclusion of powers of attorney from the scope of the Guernsey Law results in a reversion to the customary law position, which recognises electronically executed powers of attorney by companies as valid.
+
+The uncertainty around the validity of electronically executed powers of attorney can be problematic, particularly where powers of attorney are incorporated into wider contractual documents, such as fund subscription agreements. It remains to be seen whether e-signing will become the norm post-pandemic and businesses will need to ensure that any technology that they do use deals with such concerns as the prevention of fraud.
+
+Businesses should also bear in mind the following practical points relating to the ongoing use of electronic signatures:
+
+Look at the Memorandum and Articles of Association/Incorporation of the relevant company. Certain provisions could require wet ink signatures or otherwise restrict the ability of the company to enter into contracts by electronic means.
+Check quorum and other procedural requirements for telephone meetings, circulation of written resolutions, appointment of (Jersey/ Guernsey resident) alternate directors etc. to ensure that any changes to "normal" procedures still work.
+Consider expressly authorising authorised signatories to e-sign documentation.
+Where a signature must be witnessed, e-signatures can still be used, as long as the witness is physically present at the e-signing by the signatory and adds their own e-signature using the same system.
+As described above, there are a small number of legal documents where electronic signatures and/or remote witnessing are not valid. Wills, contracts relating to land in Jersey or Guernsey, and certain powers of attorney (particularly in Guernsey) will still require "wet-ink" signatures, because of the paper based registry systems and on account of carve-outs from the enabling legislation.
+Walkers - Rajah Abusrewil, Jonathan Heaney, Dilmun Leach, Tom Fothergill and Adam Pickering
+
+Walkers are an international firm, fluent in multiple jurisdictions and great at knowing which is right for each client and each matter.  Financial institutions, capital markets participants, investment fund managers, global corporations and family offices all rely on us for the legal, corporate, compliance, formation, and fiduciary services they need to succeed in today’s markets.
+
+From ten offices across geographies, we deliver business critical advice and services in the same time zones as our clients. Consistently ranked in the top-tier of the leading legal directories, our people and our approach to solving our clients' challenges and ambitions are tried and tested, but that doesn’t mean we ever stand still. Markets change, regulations evolve, businesses adapt, and we keep on reinventing our services for the times we find ourselves in. 
+
+Visit walkersglobal.com to explore our latest insights, including thought leadership, news, events, and a comprehensive range of solutions designed to suit your needs. Or simply click here to get in touch.
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Guernsey Jersey USA Internet & Social Media Walkers
+Topics
+Power of attorney Electronic signature Coronavirus
+Popular articles from this firm
+Advantages of Jersey / Guernsey companies as UK ‘qualifying asset holding companies’ (QAHCs)*
+Practical overview of offshore legal opinions in financing transactions*
+The Benefits of Using Guernsey Companies*
+A global perspective: Key corporate M&A trends for 2025*
+Multisig Purpose Trusts*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Addressing online defamation and protecting your digital reputation (UK)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+Coronavirus
+USA
+Jersey
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 43 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

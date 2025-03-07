@@ -1,0 +1,266 @@
+https://ariaslaw.com/es/detalle-noticia/1339/2/la-digitalizacion-en-honduras-regulacion-sobre-la-firma-electronica#page=1
+
+Search
+Search Lexology
+Lexology
+﻿
+ Saved  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Digitalization in Honduras: regulation on electronic signatures
+Blog Arias Knowledge Center
+Arias
+Arias logo
+Honduras September 27 2024
+Digital transformation is an imminent need for companies and governments around the world. In this context, the electronic signature has become an essential tool to facilitate the execution of contracts, commercial transactions and other legal acts without the need to be physically present.
+
+In Honduras, the Law on Electronic Signatures (Decree 149-2013) and its Regulations mark a before and after in the way in which companies, both large and medium-sized, can streamline their operations and improve their legal security in the digital environment.
+
+The Electronic Signatures Law in Honduras aims to grant electronic signatures the same legal validity as traditional handwritten signatures. Its main purpose, as established in Article 1, is to regulate the use of these signatures in all types of information presented in the form of a data message, provided that the requirements and procedures defined in the law are met. This regulation applies to both companies and public entities, seeking to promote efficiency and security in digital transactions.
+
+One of the most important aspects of the law is that it does not alter the rules relating to the validity and effectiveness of contracts, but rather merely defines how electronic signatures can be used to guarantee the authenticity and will of the parties involved.
+
+Chapter I establishes the general provisions of the law, including key definitions that help understand how electronic signatures operate within the Honduran legal framework. In Article 3 we find definitions that are essential to understand the context of electronic signatures in Honduras. Some of the most relevant are:
+
+Electronic Signature: These are the data in electronic form that are attached or logically associated with a data message, and that allow the signatory to be identified with respect to the information contained.
+Advanced Electronic Signature: A signature that meets additional technical requirements, such as being certified by an accredited provider and being under the exclusive control of the holder. This signature allows any modification to the document to be detected and guarantees the identity of the holder, which significantly increases its legal security.
+Electronic Certificate: This certificate is a data message issued by a certification service provider that guarantees the validity and certainty of the electronic signature.
+These definitions are essential because they differentiate between the different types of electronic signatures and their level of security. While a basic electronic signature may be sufficient for certain acts, an advanced electronic signature will be indispensable for more critical transactions that require an additional level of trust.
+
+The Act promotes technological equality by ensuring that no technology for creating electronic signatures is excluded, provided it meets legal requirements or otherwise complies with the requirements of applicable law.
+
+Article 6 clearly states that acts and contracts executed by electronic signature will have the same validity and effects as those executed on paper with a handwritten signature, which allows companies and the State to use this technology safely. However, there are exceptions for certain acts, such as those related to family law or those that require formalities that cannot be fulfilled by electronic documents.
+
+Also, within the law we find the legal requirements or attributes of the electronic signature, being that when the law requires that a communication or contract be signed by one party, or foresees consequences in the event that it is not signed, this requirement will be considered fulfilled with respect to an electronic communication if:
+
+The method used must identify the signing party and express its wishes regarding the information.
+The method must meet the following characteristics:
+Be as reliable as necessary for the purpose of the transaction.
+Be demonstrated to be effective in practice to fulfill the functions described in paragraph 1.
+The electronic signature will be considered reliable if:
+
+The creation data corresponds only to the signer.
+It is verifiable and was under the exclusive control of the signatory at the time of signing.
+It allows the detection of alterations after the moment of signing.
+The information or data message is linked in such a way that, if they are changed, the electronic signature is invalidated.
+It is in accordance with accepted regulations.
+It also establishes that the signatory must:
+
+Receive or generate electronic signature using a method authorized by the Certifying Authority.
+Provide accurate information required by the Authority.
+Comply with obligations derived from the use of the Signature
+Act with diligence to prevent unauthorized use of signature creation data.
+Respond to obligations arising from unauthorized use of your signature.
+Revoke certificates when there are security risks.
+The signatory is liable for any unauthorized use of their signature if they have not acted with due diligence.
+
+The law also allows the parties to modify the effects of the law or establish exceptions by mutual agreement, provided that such an agreement is valid and effective under applicable law.
+
+Chapter II of the law is dedicated to Certifying Authorities, which are key entities in the electronic signature ecosystem. These authorities are responsible for issuing electronic certificates that validate the identity of the signer and ensure the authenticity of electronic signatures.
+
+It is established that both natural persons and legal entities may act as Certifying Authorities, if they meet certain requirements, such as having the economic, financial and technical capacity to guarantee the authenticity of electronic signatures. In addition, these entities are required to have qualified human resources and adequate security systems to guarantee the integrity and confidentiality of the certificates issued.
+
+It is important to note that notaries who meet these requirements will be automatically authorized to act as Certifying Authorities, which expands the range of actors who can perform this role in the country.
+
+Article 13 defines the duties of the Certification Authorities, which are essential to ensure trust in the electronic signature system. Some of these duties are:
+
+Issue certificates in accordance with agreements with subscribers.
+Implement security systems that ensure the preservation of electronic documents and issued certificates.
+Ensure the confidentiality and protection of information provided by subscribers.
+Facilitate audits and provide the competent authorities with the necessary information on the certificates issued.
+These requirements are essential to ensure that Certification Authorities operate under maximum security standards, since any non-compliance can have significant legal consequences for both the authority and the parties involved in the transactions.
+
+Electronic certificates are the cornerstone of legal security in advanced electronic signatures. Article 18 of the law details the minimum content that a certificate issued by a certifying authority must have, which includes:
+
+The name, address and domicile of the subscriber and Certifying Authority.
+Identification of the subscriber named in the certificate
+The user's public key and the certificate serial number.
+The methodology used to create and verify the subscriber's digital signature imposed on the data message.
+Date and time of issue, suspension or renewal of the certificate.
+This information is crucial because it allows the identity of the signer to be verified and ensures that the electronic signature is uniquely associated with the subscriber in question. It also provides transparency on the validity of the certificate, which is essential in high-value transactions.
+
+The law specifies that a subscriber has accepted a certificate when the Certifying Authority, at the request of the subscriber or a person on behalf of the subscriber, has stored it technically and appropriately, unless there is an agreement between the parties that modifies this acceptance.
+
+Article 20 is particularly important, as it establishes the causes for the revocation of a certificate by the subscriber or the Certifying Authority. It is mandatory for the subscriber to request revocation in the following cases:
+
+Loss of private key
+The private key has been exposed or is at risk of being misused
+The Certification Authority must revoke a Certificate issued for the following reasons:
+
+At the request of the subscriber
+Due to death of subscriber
+By liquidation of the subscriber in case it is a legal entity
+For confirmation that some information or fact contained in the certificate is false
+The security system of the Certification Authority has been compromised in a way that affects the reliability of the certificate
+Due to cessation of activities of the Certifying Authority
+By court order
+Revocation of a certificate is a critical procedure, as if not managed properly, it can result in significant financial losses for parties relying on that certificate.
+
+Chapter IV establishes the responsibilities of subscribers, who are the persons or entities that use electronic signatures to perform legal or commercial acts. The duties of subscribers include:
+
+Maintain control over your electronic signature.
+Request revocation of certificates in case of loss or risk of misuse.
+Ensure that all information provided to the Certification Authority is accurate.
+Likewise, this chapter establishes that subscribers will be responsible for any falsehood, error or omission in the information provided to the Certifying Authority and for failure to comply with their duties as a subscriber.
+
+The Accreditation Authority is the entity in charge of supervising and regulating the operation of the Certifying Authorities. In Honduras, this function falls to the General Directorate of Intellectual Property, dependent on the Property Institute (IP).
+
+Functions of the Accreditation Authority
+
+The Accreditation Authority has a crucial role in the electronic signature ecosystem, as it is responsible for:
+
+Grant authorization for entities to operate as Certifying Authorities.
+Conduct technical audits to ensure compliance with law and regulations.
+Impose sanctions in the event of non-compliance with obligations by Certifying Authorities.
+Effective supervision by the Certification Authority is essential to ensure that the electronic signature system works properly and reliably. This function is especially relevant for companies, as it ensures that certificates issued by Certification Authorities meet the highest security standards.
+
+The law addresses the liability regime and sanctions that may be imposed on Certifying Authorities in case of non-compliance. Article 25 establishes that Certifying Authorities shall be liable for any damages they may cause due to the improper certification or issuance of electronic signature certificates.
+
+Regarding sanctions, Article 26 details the measures that the Accreditation Authority can take, ranging from private warnings to the definitive revocation of the authorization to operate as a Certifying Authority. These sanctions are intended to protect users and maintain the integrity of the electronic signature system.
+
+Finally, the law addresses the recognition of foreign electronic signatures. Article 27 establishes that any electronic signature or certificate issued outside Honduras will have the same legal effects as those issued in the country, provided that they are presented with an equivalent degree of reliability.
+
+The Regulation of the Law on Electronic Signatures is an essential complement for the effective implementation of the Law on Electronic Signatures in Honduras. This document regulates technical, operational and administrative aspects, providing detailed guidelines on the functioning of the electronic signature ecosystem in the country. The regulation governs the issuance and use of electronic signatures through the "Official Infrastructure of the Electronic Signature" (IOFE), which covers public institutions, legal entities and individuals. It includes the accreditation of Certifying Authorities (PSC), who issue electronic certificates that allow verifying the identity of the signers. It focuses on establishing mechanisms to ensure confidentiality and security in the use of electronic signatures, promoting their legal validity.
+
+Article 1 of the regulation establishes the creation of the Official Infrastructure of the Electronic Signature, which includes all the systems, processes and technical mechanisms necessary to guarantee the authenticity and integrity of electronic signatures in Honduras. It is of great importance because it defines the technological architecture that supports electronic transactions, ensuring that data and documents are treated in a reliable and secure manner.
+
+The Competent Administrative Authority (AAC), which in this case is the General Directorate of Intellectual Property (DIGEPIH), is responsible for designing, developing and supervising this infrastructure. This includes the implementation of the standards and protocols necessary for the creation, verification and storage of electronic signatures and digital certificates, which guarantees that transactions carried out through this system comply with the required security levels.
+
+It is important to note that this infrastructure not only applies to advanced electronic signatures, but also to other types of authentication mechanisms that may arise as technology evolves, such as biometric or cloud-based systems.
+
+According to Article 3, an electronic signature generated within the framework of the IOFE has the same validity as a handwritten signature. This means that any document signed electronically in Honduras under these conditions has full legal validity. The principle of functional equivalence, applied in several international legal systems, is also established in this regulation, which reinforces confidence in electronic transactions.
+
+The functions and responsibilities of the Competent Administrative Authority (CAA) are also defined. As part of its responsibilities, the CAA supervises, regulates and accredits the Certification Authorities (CAs), which are the bodies in charge of issuing electronic certificates. The CAA is also responsible for ensuring that all CAs comply with the regulations and technical standards established in the regulation.
+
+Specific functions of the CAA include granting authorizations to operate as a Certification Authority, carrying out technical audits of CAs, revoking permits in the event of non-compliance, and issuing sanctions when necessary. These functions are key to maintaining the integrity of the certification system and ensuring that only competent entities can operate as certifiers.
+
+Furthermore, the CAA must ensure that the services provided by the Certification Authorities comply with the security and trust principles necessary to protect both subscribers and parties relying on the certificates issued. To do so, it ensures that CAs implement best practices in terms of information security, including the use of robust cryptographic algorithms and the proper management of private keys used in electronic signatures.
+
+A key aspect of the regulation is that it requires Certificate Authorities to rigorously verify the identity of the subscriber before issuing a certificate. This verification includes the collection of accurate and reliable data about the signer, which is essential to prevent fraud or the issuance of certificates to unauthorized persons.
+
+PSCs are key players within the system, responsible for issuing, revoking and managing electronic certificates. To operate, they must be authorized by the Competent Administrative Authority (AAC), which in this case is the General Directorate of Intellectual Property (DIGEPIH).
+
+The regulation details the technical and financial requirements that PSCs must meet to ensure that the electronic signatures generated are secure and reliable. The regulation sets out a clear set of responsibilities for CSPs and subscribers. CSPs must exercise due diligence when issuing certificates and ensure their security. Failure to comply may result in fines or revocation of their accreditation. Subscribers are responsible for maintaining the confidentiality of their private keys and for reporting any security compromises.
+
+The fines established may be considered Minor, Serious and Very Serious, with minor offences being subject to a private written warning.
+
+For serious offences, two sanctions are established:
+
+Institutional fines up to the equivalent of two thousand (2,000) current legal monthly minimum wages; and personal fines to the administrators and legal representatives of the PSC up to 300 current legal monthly minimum wages when it is proven that they have authorized, executed or tolerated conduct that violates the Law.
+Immediately suspend all or some of the activities of the offending PSC.
+The following sanctions are established for very serious offences:
+
+Prohibit the offending Certifying Authorities or Certification Service Providers (CSP) from directly or indirectly providing the services of a Certifying Authority or Certification Service Provider (CSP) for up to a period of five (5) years; and
+Permanently revoke the authorization to operate as a Certification Authority or Certification Service Provider
+The Honduran Electronic Signature Law and its Regulations reveal a robust legal framework designed to facilitate digital transformation in both the public and private sectors. Both documents create a solid foundation for the adoption of electronic signatures in the country, granting them the same legal validity as handwritten signatures and providing a technical and legal structure that guarantees their authenticity, security and integrity.
+
+The Electronic Signatures Law establishes the key definitions, principles and responsibilities that allow companies and state entities to adopt electronic signatures in their operations. It stands out for its technological neutrality, allowing the evolution and use of different technologies that comply with legal requirements. It also ensures the legal validity of electronically signed documents, creating a trustworthy environment for transactions and contracts. The provisions on Certifying Authorities and advanced electronic signatures are essential to guarantee authenticity and security in electronic transactions.
+
+The Regulation complements the law by detailing the operational, technical and security procedures necessary for electronic signatures and certificates issued by Certifying Authorities to be reliable and secure. Specifically, it defines the Official Infrastructure for Electronic Signatures, the obligations of Certifying Authorities, and the audit processes and sanctions in case of non-compliance. The Regulation reinforces the importance of security, integrity and control in the issuance and use of electronic signatures, protecting both subscribers and parties that rely on the system.
+
+Together, the law and the regulation offer a coherent and effective framework for Honduran companies to adopt electronic signature as a fundamental instrument in the digitalization of their processes, reducing costs, improving efficiency and ensuring the legal validity of their transactions.
+
+Despite challenges such as the need to overcome the digital divide and implementation costs, as well as the refusal of officials within public institutions due to a lack of knowledge and practicality of the law and regulations, the opportunities presented by this legal framework are invaluable for companies seeking to improve their competitiveness in an increasingly digitalized and globalized environment.
+
+For companies, legal professionals and authorities, detailed knowledge and correct application of the Electronic Signatures Law and its Regulations are key to maximizing the advantages of this technological tool. The proper adoption of these regulations will allow for greater operational efficiency, legal certainty and facilitation of international trade, placing Honduras on a clear path towards digital transformation.
+
+ 
+
+Arias - Emanuel A. López Mejía
+﻿
+ Saved  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Honduras Company & Commercial Internet & Social Media IT & Data Protection Arias
+Topics
+Digital transformation Electronic signature
+Popular articles from this firm
+Ajuste al impuesto sobre producción y Consumo aplicable a cigarrillos, bebidas gaseosas, alcohólicas y otras preparadas o fermentadas*
+La digitalización en Honduras: regulación sobre la firma electrónica*
+Se aprueba nueva tabla de categorización ambiental*
+Actualización del plan de arbitrios de san pedro sula para el año 2025*
+Honduras - Sales tax exemptions: the modern perspective*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Professional development 
+A Practical Guide to Anti-Money Laundering & Bribery - Live at Your Desk - Learn Live
+
+MBL Seminars | 6 CPD hours
+Online
+15 April 2025
+An ABC Guide to Anti-Bribery Compliance - Responsibilities, Duties & Adequate Procedures - Learn Live
+
+MBL Seminars | 1.5 CPD hours
+Online
+23 July 2025
+View all
+More from Arias Knowledge Center
+Analysis of the amendments to the consumer protection law in Honduras: impact and consequences for users
+Análisis de las reformas a la Ley de Protección al consumidor en Honduras: impacto y consecuencias para los usuarios
+áreas de oportunidad en el régimen simplificado tributario en Nicaragua
+Areas of improvement for taxpayers within the tax simplified regime
+Key elements for the employment inclusion of people with Disabilities
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+Honduras
+Company & Commercial
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 23 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

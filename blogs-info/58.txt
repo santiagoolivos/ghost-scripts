@@ -1,0 +1,157 @@
+https://brodies.com/insights/corporate/how-to-sell-a-company-part-6-signing-the-transaction-documents/#page=1
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+How to sell a company - Part 6: Signing the Transaction Documents
+Blog Corporate
+Brodies LLPMEMBER FIRM OF TerraLex
+Brodies LLP logo
+United Kingdom January 8 2025
+This is the sixth part in a series of seven blogs that outline the process of how to sell a company - before, during and after the negotiation and signing of the share sale and purchase agreement.
+
+In this Part 6 of the blog series, we focus on:
+
+signing of the transaction documents and the nuances of execution depending on the governing law of the transaction; and
+the mechanics of completion e.g. whether the documents will be signed in person (also called "wet ink" signing) or electronically (e.g. using DocuSign).
+Follow the link to read Part 5: Warranties and Indemnities.
+
+Governing Law
+
+Once parties have agreed the transaction documents, the time then comes to sign on the dotted line - this is the point in the transaction process where the finish is in sight and can be an exciting time for both the buyer and seller, bringing what can often be a lengthy transaction process, to a conclusion. However, it is imperative not to lose sight of the importance of the signing process and ensure that the transaction documents are executed in accordance with the law they are governed by so that they are valid and binding and completion of the company acquisition is successful for all parties involved.
+
+The choice of governing law will have an impact on the signing requirements of the transaction documents. Although there are certain similarities between the execution requirements under Scots and English law, there are also some significant differences which, if not observed, could strike at the validity of the relevant contracts and the wider transaction.
+
+Valid execution (also called signing) of a contract under Scots or English law usually requires the individuals who are a party to that contract to sign it to evidence that the person has agreed to be bound by the terms of the contract.
+
+A party to a contract could be:
+
+a natural person, in which case they should sign in their personal capacity; or
+a juristic person e.g. a company, in which case they will have a director, secretary or authorised person sign on their behalf. In this instance it would also be prudent to check (i) that the person signing on behalf of the company has authority to do so; and (ii) the constitutional documents of the company to see if they contain any restrictions or requirements for signing.
+As well as identifying who is to sign the transaction documents there also needs to be consideration of the level of signing required. Under Scots law a document can be signed so that it is either:
+
+formally valid – signing by one person e.g. by a director, secretary or authorised person (usually authorised by the board of the company they are signing on behalf of); or
+probative – signing by two persons e.g. a director or secretary and a witness, or two authorised signatories.
+Similarly, under English law a document can be signed as either (1) a simple contract; or (2) a deed.
+
+Regardless of the governing law of your transaction there are some documents that will require the higher level of signing ie they will have to be signed so that they are probative (Scots law) or a deed (English law). For example:
+
+Dispositions / transfers of land
+Leases
+Mortgages or charges
+Powers of attorney
+Trusts
+More information on signing by companies in the United Kingdom can be found in our Execution of a contract by a UK company – the differences between Scots and English law blog.
+
+If any party or signatory to the transaction documents is an overseas entity, or a document requires to be registered or submitted in an overseas jurisdiction, then the requirements of signing documents under the relevant jurisdiction should be observed and it may be that lawyers in that jurisdiction will have to be instructed to help ensure that the necessary signing requirements are adhered to.
+
+"Wet ink" signing, counterparts and delivery of transaction documents
+
+It used to be that the parties to a transaction would meet in person to sign the transaction documents in one location ie a "wet ink" signing. With the availability of electronic signing "wet ink" signing is no longer so common where it is not required. If, however, the parties are signing in "wet ink" but are not in one location they will likely sign counterparts - separate (but identical) copies - of the documents and then exchange them. Each counterpart constitutes an original signed document and all of the signed counterpart documents together form a single binding agreement. Signing in counterpart can be a useful form of signing if there are a several signatories who may be dotted around the globe.
+
+Electronic signing
+
+It is now common for transaction documents to be executed via electronic signing platforms e.g. DocuSign. This can be useful where parties or signatories have busy schedules and are usually on the move. There are also, of course, environmental benefits which come from electronic signing as it avoids the need to print off a suite of transaction documents which will often comprise hundreds of pages across a large number of separate documents.
+
+There are three recognised types of electronic signatures under Scots and English law:
+
+simple electronic signatures;
+advanced electronic signatures; and
+qualified electronic signatures.
+As with any form of execution there are some differences between the United Kingdom jurisdictions when signing electronically. A key difference is in relation to the witnessing of signatures:
+
+Scots law does not recognise electronic witnessing. Consequently, if a document requires to be witnessed under Scots law it must be signed in "wet ink";
+English law does permit a witness to sign electronically, but the witness must be physically present in the same room as the signor.
+The Law Society of Scotland has published a useful guide on electronic execution of documents, together with suggestions on good practice – you can access the guide here.
+
+Similarly, The Law Society of England and Wales has published a Q&A style guide in relation to the electronic signing of document – you can access the guide here. .
+
+Brodies LLP - Liz Bruce, Alasdair Dunn, Freddie Ward and Lesley Wisely
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+United Kingdom Company & Commercial Corporate Finance/M&A Brodies LLP
+Popular articles from this firm
+Fraud in the Scotch whisky cask sector*
+New design, new planning permission?*
+Consultation on the new Gas Shipper Obligation to fund hydrogen production*
+Charity mergers - part 2: data rooms and due diligence*
+What does without prejudice mean?*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+More from Corporate
+The North-East Economy: Are we at a "Sliding Doors" moment for businesses?
+Port of Nigg customs site approved by HMRC
+I am a partner in a farming business. What does the Autumn 2024 Budget mean for me?
+Understanding Ownerless Company Assets: Legal Implications and Possible Remedies
+How to sell a company - Part 7: Completion and Post-completion
+Related practical resourcesPRO
+How-to guide
+How-to guide: What makes a consumer contract invalid? (USA)
+Recently updated
+How-to guide
+How-to guide: How to comply with legal developments relating to Diversity, Equity and Inclusion (USA)
+Recently updated
+How-to guide
+How-to guide: How to draft a business continuity plan (USA)
+Recently updated
+View all
+Related research hubs
+United Kingdom
+Company & Commercial
+Corporate Finance/M&A
+×
+My Lexology
+Access my saved content
+ Full article, 47 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

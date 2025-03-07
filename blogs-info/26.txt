@@ -1,0 +1,137 @@
+https://www.moores.com.au/electronic-signing-of-wills-is-the-new-legislation-workable/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Electronic Signing of Wills: Is the new legislation workable?
+Moores
+Moores logo
+Australia November 8 2022
+Electronic Signing Legislation
+
+There was no ability for a Will to be signed electronically in Victoria prior to the advent of COVID-19. The concept was first introduced via the temporary COVID-19 Omnibus Emergency Measures regulations in 2020 and has since been made permanent via amendments to the Wills Act 1997 (Vic) in 2021.
+
+Relevantly, the new section 8A of the Wills Act provides that a Will may be executed via a ‘remote execution procedure’. The key requirements are the same as for a Will signed in hardcopy, in that there must be a document that is signed (including by electronic signature) in the presence of (including by audio visual link) two witnesses who must also sign. However, additional requirements are imposed including that:
+
+all witnesses must be reasonably satisfied that the document transmitted to them via electronic communication is the same document signed by the testator;
+the witnesses must clearly see the signature of the Willmaker being made by audio visual link plus the Willmaker must clearly see the signature of the witnesses being made via audio visual link;
+one of the witnesses must be a ‘special witness’ (a lawyer or similar) and they must sign last; and
+the Will must contain a statement that it is executed in accordance with the remote execution procedure, plus contain details of the special witness and a statement as to whether a recording of the signing meeting has been made.
+Re Curtis [2022] VSC 621
+
+This case is the first example where the Supreme Court has considered the requirements of the remote execution procedure in detail.
+
+The facts were:
+
+The Will in question was electronically signed by Mr Curtis during one of Melbourne’s COVID lockdowns which prevented him from attending his lawyer’s office for signature.
+Mr Curtis and two witnesses (including his lawyer) attended a meeting via Zoom. The Will had been uploaded onto the Docusign electronic signing program by his lawyer and an email link for Docusign sent to him.
+Mr Curtis was using a PC to operate zoom but using a laptop to access his email and operate the Docusign program. The witnesses could see Mr Curtis operate his laptop to access his Will via the Docusign link and he held it up to the screen so they could see the Will had loaded. He then put the laptop down out of sight while he completed signature via Docusign.
+The Docusign program then sent links to each of the witnesses who were just using the one device each to operate both Zoom and the Docusign program. They each shared their screen as they operated the Docusign program to sign electronically as witnesses, meaning it was possible to see their faces and their cursor moving around their screen, but you could not necessarily see their hands operating their computer.
+The meeting was recorded, so the Court had the ability to watch the entire signing meeting.
+The main issue the Court considered was whether the requirement for the witnesses to ‘clearly see’ the Willmaker sign and for the Willmaker to ‘clearly see’ the witnesses sign was satisfied by that procedure. The Court found it was not and therefore the Will was not valid.
+
+The Court reasoned that because the witnesses could not actually see Mr Curtis’ hands operating the laptop, or see what the laptop had on its screen at the time, they had not clearly seen him sign the Will electronically.
+
+Likewise, the Court reasoned that in the witnesses sharing their screen, without the ability for the Willmaker to actually see the person operating their computer mouse, the Willmaker could not have clearly seen the witnesses sign the Will. Although, the Court did appear to leave the door slightly open that this process might be acceptable if the Willmaker verbally confirms that they can see the screen which is being operated by the witnesses.
+
+The Will was ultimately admitted to Probate as an ‘informal Will’ meaning the Court was satisfied it was intended to be a final Will notwithstanding that it was not correctly executed.
+
+Issues
+
+It seems that in order for a Will to be signed by the remote execution procedure, each party (Willmaker and two witnesses) will need to use two devices as follows:
+
+a primary device that they use to operate the electronic signing program or otherwise electronically sign the Will; and
+a secondary device which is operating as a bird’s eye camera to show both them operating the primary device and the screen of the primary device.
+This is not likely to be easy for elderly clients or clients who are not technologically savvy. Our experience of electronic signings is that many clients struggle to have one device with the correct software that is logged in and operating.
+
+Adding to this are warnings from the Court that:
+
+practitioners can expect any Will that is signed via the remote execution procedure to be subject to greater scrutiny than a physically signed Will; and
+the Probating of this particular Will as an ‘informal Will’ should not be taken as a given that in other instances where a Will fails to comply with the remote execution procedure it will likewise be admitted as an informal Will. Of relevance, when a Will is not properly executed, then there is a requirement for the plaintiff to positively prove other matters such as testamentary capacity and knowledge and approval and this may not be possible, subject to available evidence.
+The option of having a Will signed electronically is, in theory, worthwhile to allow flexibility for people who live remotely or are required to be in isolation. However, the complex requirements of the legislation and the narrow interpretation of the Court means that practitioners are likely to be reluctant to offer this procedure to a client.
+
+Moores - Luke Haley
+
+Moores is a team of industry recognised private and organisational client experts, exceptional in dealing with complexity and here to help.  Please don’t hesitate to contact us at www.moores.com.au or email hello@moores.com.au.
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Australia Internet & Social Media Wills & Probate Moores
+Topics
+Electronic signature
+Popular articles from this firm
+Change or Suppression (Conversion) Practices Prohibition Bill*
+How does a Council throw rough sleepers back onto the street?*
+Working With Children Checks On School Building Projects*
+What happens if I can no longer make my own decisions? The importance of Enduring Powers of Attorney.*
+Top 10 tips for an effective Code of Conduct*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+How-to guide
+How-to guide: Overview of workplace harassment (USA)
+How-to guide
+How-to guide: How to navigate liability under the False Claims Act (USA)
+Checklist
+Checklist: Processor due diligence (data protection and cybersecurity) (UK)
+Recently updated
+View all
+Related research hubs
+Australia
+Wills & Probate
+×
+My Lexology
+Access my saved content
+ Full article, 32 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

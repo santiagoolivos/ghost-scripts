@@ -1,0 +1,162 @@
+https://thelegal.co.th/2024/09/06/etda-guidelines-for-e-transactions-and-e-contracts-a-comprehensive-guide/
+
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+ETDA Guidelines for e-Transactions and e-Contracts: A Comprehensive Guide
+The Legal Co.
+The Legal Co. logo
+Thailand September 6 2024
+Introduction
+
+The Electronic Transactions Development Agency (ETDA) of Thailand has issued Guidelines for Conducting Electronic Transactions or Contracts under the Electronic Transactions law. These guidelines aim to facilitate the practical application of technology and electronic transaction laws in everyday dealings while establishing a standardized framework for e-transactions and e-contracts (collectively referred to as e-Contracts).
+
+Key Phases of e-Contract Management
+
+The Guidelines outline standards for three main phases of e-Contract management:
+
+Creation of the e-Contract
+Maintenance of the e-Contract
+Conversion between e-Contract and printout
+Phase 1: Creation of the e-Contract
+
+1.1 Drafting: e-Contracts can be created using any available means, provided they remain accessible and usable in the future without its meaning being altered. Common applications include Microsoft Word and Google Docs.
+
+1.2 Electronic Signature: It must identify the signatory and indicate approval of information contained therein. Valid methods include trustworthy digital signatures and digital identification data (e.g., ThaiID application).
+
+1.3 Electronic Seal: Similar to electronic signatures, it must identify the seal owner and indicate approval of information contained therein. Options include embedding a seal image or using identification certificates.
+
+1.4 Finalization: To ensure admissibility as evidence, the e-Contract’s originality must be provable from creation to completion, often using digital signatures, electronic timestamps, or electronic seals.
+
+1.5 Stamp Duty: For contracts requiring stamp duty, electronic payment through the Revenue Department is allowed, with the reference number and receipt annexed to the e-Contract.
+
+Phase 2: Maintenance of e-Contract
+
+2.1 The e-Contract must remain accessible and unaltered in content (changes to fonts or formatting are acceptable if they do not affect the content).
+
+2.2 An event log must be maintained, recording the origin, recipient, date, and time of sending or receiving the e-Contract.
+
+Phase 3: Conversion Between e-Contract and Printout
+
+3.1 Printout to e-Contract: Content and format must remain unaltered, using ETDA-approved technologies. The converter’s identity must be recorded.
+
+3.2 e-Contract to Printout: This must be printed from the original e-Contract and reviewed for complete accuracy.
+
+Key Takeaways
+
+The ETDA Guidelines provide a comprehensive framework for creating, maintaining, and converting e-Contracts in Thailand.
+Electronic signatures and seals must be capable of identifying the signatory/sealer and indicating their approval of the information contained therein.
+The originality and integrity of e-Contracts must be maintained throughout their lifecycle to ensure legal admissibility.
+Stamp duty can be paid electronically and attached to the e-Contract.
+Conversion between electronic and physical formats must preserve the content and, in most cases, the formatting of the original document.
+These guidelines promote the use of technology in everyday transactions while ensuring the security and legal validity of e-Contracts.
+As technology evolves, adherence to these guidelines will become increasingly important for businesses and individuals engaging in electronic transactions.
+The Legal Co. - Panisa Suwanmatajarn and Tanadol Rungruengnoravet
+
+The Legal Co, Ltd. specializes in corporate, foreign direct investment, labor, intellectual property, skillfully crafting contracts including joint venture, licensing, and franchise agreements. The firm’s expertise also extends to information technology, where The Legal Co.,Ltd. advises multinational clients on various matters, including compliance with computer crime, e-transaction, and data privacy laws, providing comprehensive legal support in the digital age. For more information, please visit our website at www.thelegal.co.th or reach out via email at panisa.s@thelegal.co.th.
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Thailand Company & Commercial IT & Data Protection The Legal Co.
+Topics
+Stamp duty Electronic signature
+Organisations
+Google Microsoft
+Popular articles from this firm
+Thailand New Draft Digital Platform Economy Act*
+Foreign Investment: Updates Framework for Investment Protection Agreements*
+Thailand’s Social Security Reform*
+Cyber Security: Thailand Strengthens its Cyber Defense*
+New Economic Policy: Thailand 2024 and Beyond*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+A Deep Dive into MBOs - Live at Your Desk - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+19 March 2025
+Property Ownership & Trusts - What Are The Tax Implications? - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+25 March 2025
+Property Ownership & Trusts - What Are The Tax Implications? - Learn Live
+
+MBL Seminars | 1.25 CPD hours
+Online
+24 September 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: De-identification of data used by AI systems (USA)
+Recently updated
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+How-to guide
+How-to guide: Understanding AI-driven risks (USA)
+Recently updated
+View all
+Related research hubs
+Google
+Thailand
+Company & Commercial
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 23 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

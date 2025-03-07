@@ -1,0 +1,123 @@
+https://www.sidley.com/en/insights/newsupdates/2023/10/irs-permanently-extends-electronic-signature-relief-for-section-83b-elections
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+IRS permanently extends electronic signature relief for section 83(b) elections
+Sidley Austin LLP
+Sidley Austin LLP logo
+USA October 25 2023
+On October 17, 2023, the Internal Revenue Service (IRS) permanently extended the temporary relief it granted during the COVID-19 pandemic, which allows taxpayers making elections under Section 83(b) of the Internal Revenue Code (the Code) to sign such election forms electronically. This is welcome relief that will ease some of the administrative burdens involved with making such elections.
+
+Background on Section 83(b) of the Code
+
+Section 83(b) of the Code allows employees and other service providers who have received compensatory grants of certain equity awards or other property subject to vesting conditions to elect for such awards to be taxed on the date they are granted based on the value of the property at such time instead of the date they become vested. Making a Section 83(b) election can be beneficial for an individual who has been granted an equity award in connection with his or her employment or service, because it generally means that the individual pays income taxes on the equity award before the equity interest has appreciated in value, which in many cases results in little or no taxes being due at such time (depending on the value of the equity at the time of grant). Furthermore, making a Section 83(b) election with respect to an equity award will also generally begin the “holding period” for determining whether a subsequent sale of the equity will qualify for long-term capital gains tax treatment.
+
+To make an election under Section 83(b) of the Code, an individual must complete and sign an election form containing certain required information and send it to the IRS office where they file their tax return no later than 30 days after the date on which the equity or other property interest has been transferred to the individual (among other requirements).
+
+IRS Temporary Relief for Electronic Signatures
+
+Although the IRS has generally required that elections under Section 83(b) of the Code contain “handwritten” signatures, the IRS granted temporary relief in response to the COVID-19 pandemic to allow individuals to electronically sign their election forms under Section 83(b) of the Code through DocuSign and certain similar methods. This temporary relief was granted on November 21, 2021, and was set to expire on October 31, 2023.
+
+IRS Permanent Extension of Relief for Electronic Signatures
+
+Earlier this month, a coalition of service providers (led by Carta, Inc.) and law firms (including Sidley) petitioned the IRS to make the temporary electronic signature relief permanent. Fortunately, the IRS agreed and modified its Internal Revenue Manual to reflect that all future elections under Section 83(b) of the Code may be signed electronically.
+
+This permanent extension of the electronic signature relief eases some of the administrative burdens placed on individuals making Section 83(b) elections and will likely result in fewer late filings. However, the IRS did not adopt the coalition’s request that taxpayers be permitted to file Section 83(b) elections electronically. Therefore, taxpayers are still required to print out and mail the signed election form (whether it is signed electronically or handwritten) to the appropriate IRS office within 30 days after the grant date. Employers are advised to confirm with employees and service providers who have received such grants to ensure that any related Section 83(b) election forms have been timely filed.
+
+Sidley Austin LLP - Matthew E. Johnson and Gregory C. Matisoff
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA Employment & Labor Tax Sidley Austin LLP
+Topics
+Electronic signature Coronavirus
+Organisations
+Internal Revenue Service (USA)
+Laws
+Internal Revenue Code (USA)
+Popular articles from this firm
+Federal Judge Pauses Enforcement of DEI Executive Orders, but False Claims Act Risk Remains*
+The Future of Environmental Review of Federal Permitting Remains Unsteady as White House Seeks to Rescind NEPA Regulations*
+FERC Orders Action on Co-Location Issues Related to Data Centers Running AI*
+Engage with the U.S. SEC’s Crypto Task Force and Shape the Future of Crypto Regulation*
+The Evolving Corporate Diversity, Equity, and Inclusion Landscape*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Reducing the risk of Coronavirus (COVID-19) - guidance for employers (UK)
+Checklist
+Pandemic Response – Return to Work Checklist (Office)
+How-to guide
+How-to guide: How to comply with legal developments relating to Diversity, Equity and Inclusion (USA)
+Recently updated
+View all
+Related research hubs
+Coronavirus
+Internal Revenue Service (USA)
+USA
+Tax
+Employment & Labor
+×
+My Lexology
+Access my saved content
+ Full article, 27 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

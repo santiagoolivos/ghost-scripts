@@ -1,0 +1,211 @@
+https://ariaslaw.com/detailNew/1025/2/the-electronic-signature-in-panama
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+La Firma Electrónica En Panamá
+Arias
+Arias logo
+Panama July 2 2023
+La transformación digital ha cambiado la manera en que las personas hacemos negocios y una de las soluciones más novedosas ha sido la firma electrónica. En Panamá, la firma electrónica está regulada desde hace 15 años, sin embargo, después de todos estos años, todavía se observa algo de recelo por parte de las empresas e instituciones públicas en utilizar este método que busca solucionar y agilizar los negocios y trámites.  En consecuencia, el objetivo de este artículo es detallar y proveer información sobre las normativas que regulan la firma electrónica para que cada vez más personas comiencen a implementar este método legal en sus negocios.  
+
+La Ley 51/2008, modificada por la Ley No. 82/2012, y su reglamentación el Decreto Ejecutivo No. 684/2013, son los marcos normativos principales que definen y regulan los documentos electrónicos, las firmas electrónicas, la prestación de servicios de almacenamiento tecnológico de documentos, la certificación de firmas electrónicas y otras disposiciones relevantes para el desarrollo del comercio electrónico. 
+
+Ahora bien, la ley define como firma electrónica al conjunto de datos que se utilizan como método para identificar a una persona y para indicar que esa persona aprueba la información detallada en el documento electrónico. Sin embargo, este concepto no puede estudiarse solo, puesto que existen otros tipos de firmas y definiciones que por ley son importantes:
+
+Firma electrónica simple: Método técnico para identificar a una persona y para indicar que esa persona aprueba la información que figura en el documento electrónico. 
+
+Firma electrónica calificada: Firma electrónica cuya validez es respaldada por un certificado electrónico calificado que: 
+
+Permite identificar al firmante y detectar cualquier cambio posterior de los datos firmados. 
+
+Está vinculado al firmante de manera única y a los datos a los que se refiere. 
+
+Ha sido creada utilizando dispositivos seguros de desarrollo de firmas electrónicas, las cuales mantienen el firmante bajo su control exclusivo. 
+
+Ha sido creada a través de la infraestructura de un prestador de servicios de certificación registrado ante la Dirección Nacional de Firma Electrónica. 
+
+Firma digitalizada o escaneada: Imagen del trazado de la firma manuscrita, es decir, es el resultado de su escaneo. Esta firma no es de ninguna manera una firma electrónica calificada o una firma simple, por lo que carece de valor legal. 
+
+Certificado electrónico: Documento electrónico expedido por un prestador de servicios de certificación de firma electrónica que vincula los datos de verificación de una firma electrónica a un firmante y confirma su identidad. 
+
+Certificado electrónico calificado: Certificado electrónico expedido por el Registro Público de Panamá o por un prestador de servicios de certificación inscrito ante el Registro Público, que cumple con los requisitos de comprobación de la identidad de los firmantes y la fiabilidad y las garantías de los servicios de certificación.  
+
+Tomando en consideración los conceptos anteriores concluimos que, la diferencia más importante entre una firma electrónica simple y una firma electrónica calificada es que la calificada confiere certeza legal. Lo anterior se debe a que la firma electrónica calificada va acompañada de un certificado electrónico calificado que contiene la siguiente información: 
+
+Identificación del firmante 
+
+Nombre y dirección del prestador de servicios de certificación regulado que lo emite. 
+
+Fecha de emisión y caducidad del certificado. 
+
+Número de serie o de identificación del certificado. 
+
+La firma electrónica del proveedor de servicios de certificación que emitió el certificado. 
+
+Datos de verificación de firma que corresponden a los datos de creación de firma bajo el control del firmante. 
+
+Así, la firma electrónica calificada confiere seguridad y, goza de valor legal automático que se presume de pleno derecho, mientras que la firma electrónica simple no goza de esta presunción legal2. En consecuencia, garantiza:  
+
+Autenticidad puesto que identifica a la persona que ha enviado el mensaje o documento. 
+
+Integridad debido a que garantiza que el mensaje o documento no ha sido alterado. 
+
+No repudio ya que asegura que los documentos o mensajes y su contenido, no puedan ser negados por sus autores. 
+
+Es importante resaltar que, estos certificados electrónicos calificados tendrán un periodo de vigencia de 2 años renovables, y sus requisitos varían dependiendo del perfil del usuario, estos son3:  
+
+​Persona natural 
+
+Cédula o documento vigente. 
+
+Correo electrónico personal 
+
+Certificación de estatus migratorio vigente, emitido por el Servicio Nacional de Migración, aplica para personas extranjeras residentes. 
+
+Certificación de movimiento migratorio vigente, emitido por el Servicio Nacional de Migración, aplica para personas extranjeras no residentes. 
+
+Comprobante de pago de US$50.00 
+
+Profesional idóneo 
+
+Cédula de identidad vigente. 
+
+Copia legible del certificado de idoneidad emitido por la autoridad competente. 
+
+Correo electrónico. 
+
+Comprobante de pago de US$50.00 
+
+Colaborador de persona jurídica: estas personas naturales deben contar con un poder debidamente inscrito ante el Registro Público de Panamá. 
+
+Cédula o documento vigente. 
+
+Certificado de Registro Público donde se describa: los datos de constitución, personalidad jurídica, el nombre del Representante Legal y la vinculación del colaborador con la organización y sus limitaciones. 
+
+Correo electrónico. 
+
+Comprobante de pago de US$50.00 
+
+Representante Legal de persona jurídica: estas personas naturales deberán figurar como representantes legales ante el Registro Público de Panamá. 
+
+Cédula o documento vigente. 
+
+Original del pasaporte y de la certificación de estatus migratorio o certificación de movimiento migratorio. 
+
+Certificado de Registro Público donde se describa los datos de constitución, personalidad jurídica y el nombre del Representante Legal. 
+
+Correo electrónico. 
+
+Comprobante de pago de US$150.00 
+
+Funcionario Público: la solicitud se deberá realizar a través de la Oficina de Recursos Humanos o por medio del enlace de la entidad: 
+
+Cédula de identidad personal vigente. 
+
+Acta de toma de posesión o decreto de nombramiento 
+
+Confirmar número de posición del personal 
+
+Correo electrónico institucional 
+
+Comprobante de pago de US$50.00 
+
+La Dirección Nacional de Firma Electrónica (DNFE), dependencia del Registro Público de Panamá, es la entidad responsable de la gestión de los certificados electrónicos para la República de Panamá. 
+
+Dicho lo anterior, la Ley 51/2008 otorga valor legal a las firmas electrónicas siempre que se cumplan estos dos requisitos4: 
+
+Que utilicen un método que permita: 
+
+identificar al iniciador de un mensaje de datos y 
+
+para indicar que el contenido cuenta con su aprobación. 
+
+  Que el método sea confiable y apropiado para el propósito por el cual el mensaje fue generado o comunicado. 
+
+Es importante advertir que, si estos contratos o documentos van a ser utilizados en instituciones del gobierno (sector público), quedará a discreción de dichas entidades exigir la firma electrónica calificada, simple o exigir la firma fresca para los trámites o gestiones oficiales5. Lo anterior se debe a que, pese a que la normativa señala que el Estado hará uso de firmas electrónicas en su relación con los particulares6, todavía hay entidades que no han implementado la misma. En consecuencia, queda a discreción de dichas entidades exigir la firma electrónica calificada, simple o exigir la firma fresca para los trámites o gestiones oficiales.
+
+ 
+
+Arias - Paula Vives
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Panama Internet & Social Media IT & Data Protection Arias
+Topics
+Electronic signature
+Popular articles from this firm
+El proceso ejecutivo en panamá*
+El capital social y el capital contable de una sociedad anónima panameña: todo lo que debe saber para realizar un aumento de capital social, sus ventajas y desventajas*
+La emisión obligatoria de factura electrónica en panamá*
+La apostilla de documentos: simplificando trámites judiciales en panamá*
+Capital social: ¿acciones con o sin valor nominal?*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+View all
+Related research hubs
+Panama
+IT & Data Protection
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 29 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

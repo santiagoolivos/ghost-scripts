@@ -1,0 +1,113 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzY5ODUsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiMmJjYmVlOGMtM2ZhNC00OGEyLWJiNTYtZjg5OWQ3MTIzZjA3IiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.vVkUkntTBWHpK6Cu6VplEBNro5lsDk3_bvUi_q2tDlEedjq2waLLIqBjz0h-DdghWOOI1AnTHw1nkg06gGTOUg
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Use of Electronic Signature in Labour Law
+Balcıoğlu Selçuk Ardıyok Keki Attorney Partnership
+Balcıoğlu Selçuk Ardıyok Keki Attorney Partnership logo
+Turkey March 9 2023
+Electronic signature in Labour Law
+
+a) Electronic signature
+
+Electronic signatures are practical and technologically reliable, and their use has dramatically increased in the past years. The Electronic Signature Law No. 5070 (“Law”) is the main legislation on electronic signatures in Turkey. Electronic signature is defined as electronic data which is either attached to another electronic data or has a logical connection with another electronic data and which is used for identity verification purposes. Electronic signatures can be simple or secure. A secure electronic signature must have the features specified in the Law. In both the Turkish Code of Obligations (“TCO”) and the Law, a secure electronic signature is considered legally equivalent to a handwritten signature as a rule.
+
+A secure electronic signature is assigned same powers as a hand-written wet signature and constitutes conclusive evidence. On the other hand, a simple electronic signature can only be considered as prima facie evidence.
+
+b) Electronic signature in employment relationships
+
+Although there is no legal regulation regarding the obligation to use electronic signature in workplaces, electronic signature can be used by employers for practical reasons. In accordance with the TCO, the right to manage the employee is regulated in order for the employer to ensure the execution of the work. Therefore, if an electronic signature is adopted by the employer, the employer may require the use of an electronic signature by the employees in this regard.
+
+There are provisions In the Labour Law and the Tax Law stating that employees' signatures must be present on payrolls, but there is no clear indication of the signature’s nature. We evaluate that payrolls can be signed by employees with electronic signature. Another point that can be mentioned in this regard is that the proof of annual paid leaves is made by the employers by submitting the forms bearing the wet signature of the employees. In fact, although it is stated in a decision by the Court of Appeals that the annual leave registration document issued in accordance with Article 20 of the Annual Paid Leave Regulation should be used to prove annual paid leaves, we examine that the records kept in electronic systems are respected in some Court of Appeal decisions. In a decision it is stated “The employer must prove that annual leaves are used with a signed leave book or an equivalent document. In the concrete dispute, from the content of the annual leave document, which is understood to be kept in the electronic environment in the file, and the leave follow-up form signed by the plaintiff on the date of termination (…)”. In the decision, it is mentioned that the use of annual leaves can also be proven with an equivalent document, and the data kept in the electronic system by the court is accepted as evidence in this regard.
+
+However, it is important to note that some documents can only be signed by wet signature. Written approvals that must be obtained from the employees within the scope of "material changes in working conditions, overtime approvals and the Law on the Protection of Personal Data”. Wet signature is a condition of validity for these documents. These documents constitute exceptions where electronic signature cannot be used. 
+
+
+Please visit bi.legal or our LinkedIn page to get in touch or follow our updates.
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Turkey Employment & Labor Internet & Social Media IT & Data Protection Balcıoğlu Selçuk Ardıyok Keki Attorney Partnership
+Topics
+Electronic signature Personal data
+Laws
+Labour Law (2003/4857) (Turkey) Code of Obligations (2012/6098) (Turkey)
+Popular articles from this firm
+Obligation to Use Turkish Language in Contracts Signed by Turkish and/or Foreign Persons*
+At a glance: termination of employment in Türkiye*
+At a glance: termination of employment in Turkey*
+Data Protection in Pharmacovigilance Activities under Turkish law*
+Capital increases through capital subscription in joint stock companies*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Drafting internal privacy policies and procedures (USA)
+Recently updated
+View all
+Related research hubs
+Turkey
+IT & Data Protection
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 29 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

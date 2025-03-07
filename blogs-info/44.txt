@@ -1,0 +1,124 @@
+https://www.dwt.com/blogs/employment-labor-and-benefits/2021/06/e-signing-arbitration-agreements#page=1
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+E-Signing Arbitration Agreements in a Remote World
+Blog Employment Advisor
+Davis Wright Tremaine LLP
+Davis Wright Tremaine LLP logo
+USA June 17 2021
+A recent California Court of Appeal decision (Bannister v. Marinidence OPCO, LLC) provides employers with important guidance about using electronic signatures to confirm acceptance of arbitration agreements with employees. This guidance is particularly critical as employers increasingly onboard new employees remotely and rely on digital signatures for an array of forms and agreements.
+
+In Bannister, Maureen Bannister filed a wrongful termination case against her former employer, Marinidence. The employer moved to compel arbitration, attaching Ms. Bannister's (electronically) signed arbitration agreement to the petition to prove the existence and validity of the agreement. Ms. Bannister, in turn, challenged the validity of the arbitration agreement, presenting evidence that she had not signed or reviewed the document herself, and testifying that the employer's human resources team had instead signed the agreement electronically for her during their onboarding process.
+
+Although Marinidence presented evidence to the contrary, the Superior Court determined that the employer had not proved, by a preponderance of the evidence, that the signature was valid. The court thus determined that the arbitration agreement was not enforceable. The appellate court affirmed.
+
+California Civil Code section 1633.9(a) governs the authentication of electronic signatures and provides that "an electronic signature may be attributed to a person if 'it was the act of the person.'" The "act of the person" may be shown in any manner, "including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable."
+
+For example, many courts have held that an electronic signature is valid, and therefore an arbitration agreement signed electronically enforceable, when the employer presents evidence that the electronic signature required a unique login and password—known only to the employee bound by and who signed the agreement. In Bannister, although Marinidence presented evidence that knowledge of Ms. Bannister's social security number, employee identification information, and pin code were required to sign the agreement, Ms. Bannister persuaded the court that the employer also had that information and thus could have signed the document for her.
+
+The Bannister decision emphasizes the importance for employers of focusing on how arbitration agreements and other documents are reviewed and signed by employees during the onboarding process and is consistent with other appellate decisions that have also considered whether an employee's electronic signature on an arbitration agreement is sufficient to compel enforcement.1 This guidance is especially important as the frequency of employees working remotely in a post-COVID world increases.
+
+Employer Takeaway
+
+The important takeaway from the California appellate decision is that electronic signatures (versus "wet" or written signatures) are more easily subject to challenge on a motion to compel arbitration. Although the onboarding process can be expedited through the use of technological advances, such as electronic signatures, it is important to ensure that employees are provided with the opportunity to review the documents without interference, and that they sign the documents themselves.
+
+To create an enforceable agreement when using e-signatures, the employee's signature should also be verifiable, such that only the employee for whom the document applies could have signed the agreement. Alternatively, relying on a separate, stand-alone agreement acknowledging the employee's consent to the use of e-signatures during the onboarding process is helpful for minimizing the issues inherent to electronic transactions in the workplace.
+
+Finally, perhaps the better (and more conservative) approach is to simply collect "wet" signatures from employees on their onboarding documents, when possible. To review additional helpful tips regarding employment arbitration agreements, please see these articles from our DWT firm archives:
+
+Mandatory Arbitration Agreements Must Exclude Unfair Labor Practice Charges Under the National Labor Relations Act
+Assessing the Pros and Cons of Class Action Waivers in Employment Arbitration Agreements
+When Should Employers Use Arbitration Agreements?
+Davis Wright Tremaine LLP - Crystal Miller-O'Brien and Beatrice Nuñez-Bellamy
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA California Arbitration & ADR Employment & Labor Litigation Davis Wright Tremaine LLP
+Topics
+Electronic signature
+Popular articles from this firm
+Armed Services Board of Contract Appeals Restrictively Interprets Standard Government Release Language*
+H-1B Cap Lottery Season Commences on March 7, 2025*
+Food Venture Financing News - Weekly Issue No. 224*
+What Could a "Strategic Bitcoin Reserve" Mean in Practice?*
+New Administration Outlook: Trump's Executive Order on Independent Agencies—and Asserting the Unitary Executive (Part 1)*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+More from Employment Advisor
+H-1B Cap Lottery Season Commences on March 7, 2025
+New Administration Outlook: Guidance for Employers Amid the Attack on LGBTQ Workers
+Critical Compliance Note for Employers in States With Paid Family or Medical Leave
+New York City Requires Employers To Post Lactation Accommodation Policy
+California Employers: Time-Sensitive Compliance Note for Hiring During Southern California Wildfires
+Related practical resourcesPRO
+How-to guide
+How-to guide: How to comply with legal developments relating to Diversity, Equity and Inclusion (USA)
+Recently updated
+Checklist
+Checklist: Managing employees’ return to office working (UK)
+Recently updated
+How-to guide
+How-to guide: How to avoid age discrimination in the workplace (UK)
+Recently updated
+View all
+Related research hubs
+USA
+Employment & Labor
+Litigation
+×
+My Lexology
+Access my saved content
+ Full article, 41 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

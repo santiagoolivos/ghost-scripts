@@ -1,0 +1,104 @@
+https://www.tilleke.com/insights/thailand-releases-draft-of-amended-electronic-transactions-act/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Thailand Releases Draft of Amended Electronic Transactions Act
+Tilleke & GibbinsMEMBER FIRM OF Lex Mundi
+Tilleke & Gibbins logo
+Thailand December 11 2024
+Thailand has released a draft amended Electronic Transactions Act (ETA), which aims to overhaul the current version of the law from 2001 to correct its enforcement limitations and update the ETA to be consistent with current electronic transactions practice. The draft ETA is open for public comment until December 20, 2024.
+
+The draft ETA introduces a new supervisory scheme that (1) recognizes electronic transactions executed by both current and future technologies without having to enact regulations recognizing the technology, (2) replaces the licensing, registration, and notification scheme for electronic transaction service providers with a trust-mark scheme, and (3) introduces a new mechanism to regulate electronic transaction service providers.
+
+The major amendments under the draft ETA address:
+
+Relationship with other relevant laws. The draft ETA is designated as the primary law governing electronic transactions, whether between private parties or between private parties and the state. However, if specific laws—including those on electronic administrative procedures—prescribe methods for conducting particular electronic transactions, those laws will prevail.
+Definitions. The draft ETA revises some existing terms, such as “transaction,” which is now more clearly defined as “any act relating to civil or commercial activities, including administrative procedures, administrative contracts, and any other actions by government agencies or officials.” It also introduces new definitions, such as “biometric data,” “automated system,” and “electronic seal.”
+Electronic transaction reliability. The draft ETA now clearly provides that electronic transactions executed using a method or an electronic method stipulated by the Electronic Transactions Development Agency (ETDA) as reliable are themselves presumed to be “reliable.” In case of a challenge over the implementation of a certified method or certified service, the challenging party bears the burden of proof and related expenses.
+Electronic transferable instruments. The draft ETA adopts the UNCITRAL Model Law on Electronic Transferable Records (ETRs) in recognizing ETRs (e.g., electronic bills of lading). The recognized electronic transferable instruments (the term generally used in Thai law) will need to meet requirements such as inclusion of required information for the transferable instrument, utilization of a reliable method for electronic transferable instrument execution, and adherence to electronic transferable instrument-related rights controls (e.g., endorsement, transfer, and amendment of the electronic transferable instruments).
+Supervision of service providers. The draft ETA eliminates the licensing, registration, and notification scheme for various services (e.g., e-signature, identification proofing and authentication, and registration and certification of websites and domain names). Instead, service providers will be deemed qualified if they comply with the prescribed criteria. Service providers may ask the ETDA to additionally certify their services as reliable, but this is not required. The ETDA can also unilaterally certify reliable electronic transaction service providers. Once the ETDA certifies a service provider, any electronic transaction conducted through that provider (in the certified areas) is deemed reliable, and the certified service providers benefit from liability exemptions under the law. Providers who have already obtained licenses or registered their services under the existing ETA are also recognized as reliable service providers under the draft ETA. The ETDA may periodically announce the names of service providers with reliability issues, resulting in those service providers and their users losing the benefits previously conferred by certification.
+Supervision of digital platforms. Digital platform services are not supervised under the draft ETA. However, even though the Royal Decree on Digital Platform Services was issued under a provision of the ETA that is not included in the draft ETA, the royal decree will remain in effect and continue to regulate digital platform services until the expected new law on digital platform services (currently under development) is enacted.
+Tilleke & Gibbins - Athistha (Nop) Chitranukroh, Pornpan Wichawut, Rada Lamsam and Rujaporn Paritsantik
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Thailand IT & Data Protection Tilleke & Gibbins
+Popular articles from this firm
+Q&A: key IP issues affecting licensing agreements in Thailand*
+Enforcement of Arbitral Awards under Thailand’s Arbitration Act: Legal Procedures, Challenges, and Strategic Considerations*
+Bank of Thailand Implements New Responsible Lending Regulations*
+Thailand’s Updated Guidelines on Kratom in Food and Herbal Products*
+Thailand Eases Requirements for Long-Term Resident Visas*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+Thailand
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 47 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

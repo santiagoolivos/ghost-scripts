@@ -1,0 +1,149 @@
+https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc3MTYsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiMzM2MTM3NTEtYTA4MS00OTJhLWIzNDAtZWQyYjg3MjZlNzIxIiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.2Fi7WKD8WVXoTiozMnR9c364etngBKXW5olefE30obKJjCkoa7UETxjunJa9jTeOQKYBPEiWX3KKmhd4LvFiDg
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Legality of Electronic Signatures in Hong Kong
+Haldanes Solicitors and Notaries
+Haldanes Solicitors and Notaries logo
+Hong Kong May 28 2021
+Working from home has become the new normal for many businesses since the onset of the COVID-19 pandemic. It is not always easy to sign a document with a traditional “wet-ink” signature with limited printing and scanning facilities at home. As such, many businesses across the world have explored the increased use of electronic signatures. This article considers the position of electronic signatures under Hong Kong law.
+
+What is an “electronic signature”?
+
+The legislation which regulates electronic signatures (“e-signatures”) in Hong Kong is the Electronic Transactions Ordinance (Cap. 553)(“ETO”). The legal definition of “e-signature” under the ETO is quite wide, it includes any letters, characters, numbers or other symbols in digital form attached to or logically associated with an electronic record, and executed or adopted for the purpose of authenticating or approving the electronic record.
+
+For contracts not involving a government entity, e-signatures are valid and enforceable provided they comply with the requirements under the ETO including:-
+
+– an electronic record is accompanied with the associating signature to indicate authenticity and approval by the signatory;
+
+– the e-signature process must be reliable as is appropriate given the purpose for which the signature is required; and
+
+– the recipient must consent to the signatory using an e-signature.
+
+There are no express requirements for an e-signature to be in a certain form or format. Traditionally, e-signature has meant a physical wet-ink signature on a document which is scanned into PDF, and then sent by email. In recent years, e-signature platforms such as DocuSign, Adobe Sign and PandaDoc have also offered an alternative solution to wet-ink signatures. These applications enable documents to be sent to a signatory and signed by that signatory by adding on pre-drawn signatures or choose to draw his/her own on a device; printers and scanners are not required.
+
+If the contract involves any government entity, digital signatures supported by a recognised digital certificate issued by a Certification Authority recognized under the ETO will be required.
+
+Scope and applicability of E-signatures
+
+E-signatures will be valid and binding on most contracts and documents provided that they satisfy the requirements set out in the ETO, however the following documents must be signed with a traditional wet-ink signature in order to be valid:-
+
+1. Testamentary documents
+
+2. Trusts (other than resulting, implied or constructive trusts)
+
+– Powers of Attorney
+
+1. Documents that are required to be stamped/endorsed under Stamp Duty Ordinance (e.g. a lease, sale of property, sale of stock)
+
+2. Government conditions for the grant of land or government leases
+
+3. Documents concerning land and property transactions
+
+– Negotiable instruments
+
+– Court orders/ judgments
+
+1. Warrants issued by a court or a magistrate
+
+2. Oaths and affidavits
+
+3. Statutory declarations
+
+Practical Considerations
+
+Parties who wish to execute contracts by e-signatures should first check that such contract is permitted under the ETO to be signed electronically and consider whether there are any circumstances that may impact the use of e-signatures (e.g. registration or filing requirements). The parties should ensure that any use of e-signature systems are sufficiently secure and reliable; they should take steps to satisfy themselves that the signature adequately identifies the signatory and that the signatory has associated his/her signature with an electronic message indicating his/her approval of the contents of the contract.
+
+
+Haldanes, real solutions to real problems. No matter how you feel now. No matter what your legal problem is. Our multi-award-winning team of lawyers can help you, enquiries@haldanes.com or find out more https://www.haldanes.com/
+
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Hong Kong Company & Commercial Internet & Social Media IT & Data Protection Haldanes Solicitors and Notaries
+Topics
+Electronic signature Coronavirus
+Popular articles from this firm
+Asia Sports Weekly News Bulletin - ISSUE Week of 17 February 2025*
+Asia Fashion Weekly News Bulletin - ISSUE 2 Week of 17 February 2025*
+Asia Gaming Weekly News Bulletin - ISSUE 2 Week of 17 February 2025*
+China Media and Entertainment Weekly News Bulletin - ISSUE 38 Week of 17 February 2025*
+China Media and Entertainment Weekly News Bulletin - ISSUE 13 Week of 26 August 2024*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+Tax Advantaged Employee Share Plans - Handling Maturities & Other Post-Implementation Events - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+16 June 2025
+View all
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+How-to guide
+How-to guide: How to establish a social media governance framework (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+Coronavirus
+Hong Kong
+IT & Data Protection
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 42 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

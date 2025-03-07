@@ -1,0 +1,150 @@
+https://www.amsshardul.com/insight/modernizing-e-signature-laws-in-india/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Modernizing e-signature laws in India
+Shardul Amarchand Mangaldas & CoMEMBER FIRM OF First Law International
+Shardul Amarchand Mangaldas & Co logo
+India April 24 2024
+Background
+
+Indian law recognizes electronic signatures (‘e-signatures’) under the Information Technology Act, 2000 (‘IT Act’). With the advent of Aadhaar, one-time passwords, and the rise in digital literacy, India has seen a spurt in the adoption of e-signatures. Globally as well, the e-signature market is projected to grow over USD 14 billion by 2026.
+
+As the Ministry of Electronics and Information Technology (‘MEITY’) is in the process of revamping the IT Act in form of the proposed Digital India Act (‘DIA’), it is an opportune time to re-consider the adequacy of the legal framework on e-signatures. Further, this will align with the Indian government’s aim to create a USD 1 trillion-dollar digital economy – which may very well involve a large number of contracts executed electronically. In such a scenario, having a legal framework aligned with technical advancements in the last two decades will ensure that relevant participants in such electronic transactions are protected. Therefore, modernised e-signature laws will guarantee greater volume of business transactions being conducted electronically – thereby fostering the advancement of the digital economy and overall economic expansion in India.
+
+Given the commercial relevance of e-signatures, as well as their crucial role in India’s digital economy, this article notes the current legal framework on e-signatures and recommends a modernization of the existing legal framework governing e-signature in India based on international precedents.
+
+Legal Framework of the Indian IT Act
+
+With the aim of suggesting policy recommendations to revamp the current legal framework on e-signatures under the IT Act, it is pertinent to understand relevant provisions dealing with e-signatures under the same:
+
+The Preamble to the IT Act, inter alia, provides legal recognition to e-commerce transactions and facilitates electronic filing of documents with Government agencies. Further, it was amended in 2008 in consideration of the Model Law on Electronic Commerce (‘MLEC’) adopted by the United Nations Commission on International Trade Law (‘UNICITRAL’) to ensure uniformity in law applicable to ‘alternative to paper based’ methods of communication and storage of information. While the IT Act does not expressly mention the UNICITRAL Model Law on Electronic Signatures, 2001 (‘MLES’) based on Article 7 of the UNICITRAL MLEC, it has largely adopted the provisions therein for e-signature related provisions. In effect, as per Section 5 of the IT Act, it considers e-signatures meeting the prescribed standards such as Public Key Cryptography, Digital Signature Standards, Directory Services, etc., (‘Prescribed Standards’) as comparable to physical signatures. However, the IT Act does not apply to certain documents and transactions listed in the First Schedule, which, inter alia, include certain negotiable instruments, wills, trusts and powers of attorney.
+
+As per Section 3A of the IT Act, a subscriber (i.e., the person holding the e-signature certificate) can authenticate any electronic record by such electronic signature or electronic authentication technique which: (a) is considered reliable; and (b) may be specified in the Second Schedule. The specific requirements for determining the reliability of an electronic signature or authentication technique are outlined in Section 3A(2) (‘Reliability Criteria’). Inter alia, these relate to ensuring that: (i) the signature authentication data (information used to verify the authenticity of an e-signature)is linked to the signatory and no other person, (ii) the signature creation data (information used to create an e-signature) is under the control of the signatory at the time of the signing and no other person, (iii) any alteration to the electronic signature after affixing it or to the information made after its authentication, is detectable, (iv) they fulfill any other conditions as prescribed.
+
+The IT Act, as per Section 2(1)(ta) defines an e-signature as authentication of any electronic record by a subscriber by an electronic technique specified in the Second Schedule including digital signatures. The following methods are specified in the Second Schedule of the IT Act: (i) e-authentication technique using Aadhaar or other e-KYC services and (ii) e-authentication technique and procedure for creating and accessing subscriber’s signature key facilitated by trusted third parties.
+
+The IT Act, as per Section 2(1)(p) defines a digital signature as the authentication of any electronic record by a subscriber by electronic method as per Section 3. Section 3 states that any subscriber can authenticate an electronic record by using their digital signature. This authentication process involves the use of encryption methods (to secure digital communication), such as ‘asymmetric crypto system’ and ‘hash function’ which envelop and transform the initial electronic record into another electronic record. Section 3 goes on to state that a ‘private key’ and a ‘public key’ exist which are unique to the subscriber and constitute a ‘functioning key’, of which the public key can be used to verify an electronic record.
+
+In effect, it is widely understood that e-signatures recognized under Section 5 of the IT Act refer to a broad category of methods for signing a document under the Second Schedule, while a digital signature is a kind of e-signature which uses a particular technique for implementation under Section 3.[1] Separately, it must be noted that MEITY has also issued several rules and regulations governing e-signatures.[2]
+
+In terms of the legitimacy of e-signatures, Section 5 of the IT Act, in brief, states that – when required by law, e-signatures can be used in place of physical signature so long as the e-signature meets the Prescribed Standards. Further, Section 10A of the IT Act, in brief, states that the use of electronic means for communication or negotiations in the process of contract formation does not invalidate the contract solely because electronic methods were utilized. Thereby, it establishes the legal framework for electronic contracts and e-signatures, contributing significantly to the enforceability of e-signatures in contracts by granting them legal recognition and validity, while preserving the integrity of such contracts.
+
+Taking from the existing framework dealing with e-signatures under the IT Act discussed in Section I, this piece proposes certain policy recommendations aimed at modernising this framework.
+
+Recommendations
+
+There are 85 crore internet users in India, making it one of the largest connected democracies on the global internet. The country is in an era of digitization where e-signatures have become an important tool in verifying paperless processes. Accordingly, there has never been greater emphasis on digitizing critical business processes across industries. As a result, there has been a rapid proliferation of the use of e-signatures in India. The e-signature technology itself is bound to mature and evolve as part of rapid advancement in technology – an aspect which needs to be addressed in the revamp of the IT Act. While electronic authentication techniques and procedure have been added to the Second Schedule of the IT Act – including through Aadhaar-based KYC in 2015 or other e-KYC services in 2019 – there have been limited developments in terms of scope, classification, safety and framework related to e-signatures.
+
+While the consultations on the proposed DIA have largely focused on issues such as intermediary liability, online safety, and emerging technologies – discussions on e-signatures, which form a major part of the current IT Act are limited. Accordingly, we suggest certain aspects which can modernise the Indian framework on e-signatures to facilitate digital transactions and electronic execution of agreements which can be considered before the DIA is finalised, in consultation with relevant stakeholders.
+
+Firstly, the proposed DIA should expand the scope of documents which can be executed by e-signatures. Currently the First Schedule of the IT Act lists the documents and transactions to which the IT Act does not apply. Broadly, these include negotiable instruments such as a promissory note or a bill of exchange other than a cheque, powers of attorney; trusts; and wills and any other testamentary disposition. In effect, it means that such documents and transactions cannot be authenticated or executed by means of e-signatures. However, the ability to execute a majority of these items electronically will boost the ease of doing business in India for example focusing on high-volume business documents like contracts or invoices might be more impactful. This is because the manpower, resources and time that are being spent on physical authentication and execution of such documents and transactions will be significantly reduced once they are capable of being executed electronically.
+
+MEITY may consult industry groups in this regard and undertake changes to the First Schedule. It may be noted that the United Kingdom Law Commission, in 2019, also recommended the creation of government convened industry groups to look into using e-signatures for a wider range of transactions – including execution of deeds, assess feasibility of video witnessing, and review existing laws to accommodate execution of documents with e-signatures to expand the transactions which could be electronically executed.
+
+In September 2022, a progressive amendment to the IT Act excluded the following from the First Schedule (i) any contract for the sale or conveyance of immovable property or any interest in such property, (ii) demand promissory notes and bills of exchange issued in favour of or endorsed by the Reserve Bank of India, National Housing Bank, Securities and Exchange Board of India, Insurance Regulatory and Development Authority of India and Pension Fund Regulatory and Development Authority (‘Listed Government Authorities’) and (iii) powers-of-attorney which empower an entity regulated by Listed Government Authorities. Given that these documents have been made electronically executable for governmental authorities, the same could be helpful for the private sector as well. For instance, the execution of a power of attorney or a negotiable instrument requires the physical signatures of persons – and are largely used by small and large-scale businesses. In the event these are made electronically executable for the private sector as well – it will boost the ease of doing business and boost commercial transactions in the country, which will have an overall positive impact on the Indian economy.
+
+Secondly, the DIA should introduce clear distinctions between different categories of e-signatures and the basis of their classification. Such classification may be based on the means of authentication, or the technical characteristics of the e-signature, or compliance with any other prescribed standards. For instance, Section 3A(2) of the current IT Act embodies the reliability criteria mentioned in Article 6 of the MLES. These criteria mentioned in Article 6 of the MLES are broadly used globally to distinguish between a ‘secure’ or a higher standard of electronic signature as compared to a simple electronic signing by typing one’s name digitally. This bifurcation between a higher and a lower standard of security in terms of electronic signature enables wider use of e-signatures, across a range of services, products and transactions. While an individual may simply rely on an e-signature for collecting a parcel, they may need to rely on higher standards of secured signatures for banking transactions or granting a power of attorney. Introducing different categories will not only enable greater acceptability of e-signatures and wider range of transactions to be executed electronically but will also bring India in line with global practices.
+
+For instance, the United Kingdom version of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 as amended in 2016 and 2019 (‘UK eIDAS’), recognizes three levels of electronic signatures into (i) electronic signatures, (for instance writing the name of the signer at the bottom of the email); (ii) advanced electronic signatures (uniquely associated with the signer, capable of identifying them, created using signature data under the signer’s sole control, and linked to the signed data in a way that detects any subsequent alterations); and (iii) qualified electronic signatures (provided by ‘qualified’ providers, and carrying the same weight as a handwritten signature) in Articles 3(10), Article 26 and Article 25(2) respectively. Similarly, the law in United Arab Emirates (a global commercial hub) governing e-signatures also broadly categorises them on similar grounds into electronic signatures, advanced electronic signatures and qualified electronic signatures in the Federal Decree Law No. (46) OF 2021 On Electronic Transactions and Trust Services in Article 1,19, and 20 respectively.
+
+Thirdly, the government should require service providers in the e-signature ecosystem to improve their security practices by issuing dedicated rules and regulations under the DIA. While there exist certain standards under the Reliability Criteria in Section 3A(2) of the IT Act, the IT (Security Procedure) Rules, 2004 and the IT (Certifying Authorities) Rules, 2000, additional security measures by service providers will mitigate fraudulent activities and risks associated with unauthorized usage of e-signatures. These may include the incorporation of one-time-password-based authentication methods to the registered mobile numbers for e-signatures, or any other manner subject to the technical infrastructure suited to the e-signature ecosystem. In addition, the government can also consider the establishment of a centralized repository or database wherein service providers are mandated to record instances of electronic signature usage, facilitating transparency, accountability, and verification of electronic transactions. Lastly, the government should ensure strict enforcement of provisions such as Section 73 of the IT Act which impose penalties on individuals who knowingly distribute unauthorized electronic signature certificates or misuse electronic signature credentials.
+
+Fourthly, there should be a consolidated framework on e-signatures under the DIA. Currently, these are spread around nine subordinate legislations including the IT (Certifying Authorities) Rules, 2000; IT (Use of Electronic Records and Digital Signatures) Rules, 2004, etc.[3] There should be consolidation of fragmented rules and regulations related to e-signatures. The DIA should have a dedicated subordinate legislation or chapter on e-signatures which will enable clarity and coherence in the legal framework and ensure ease of understanding for all relevant stakeholders.
+
+Conclusion
+
+The authors have made recommendations to bring the proposed DIA in line with global best practices around e-signatures. These include, (i) expanding the scope of documents eligible for e-signatures, (ii) introduce clear distinctions between different categories of e-signatures, (iii) undertake technical upgrades to enhance the security of the e-signature infrastructure and ensure strict enforcement of penalties under the IT Act, and (iv) consolidate fragmented rules and regulations related to e-signatures.
+
+Such changes will ensure that a larger number of business-related transactions are executed electronically, and contribute to the development of the digital economy and the overall economic growth in India.
+
+This article was originally published in Indian Journal of Law and Technology on 24 April 2024
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Shardul Amarchand Mangaldas & Co - Riddhi Vyas and Anmol Bharuka
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+India IT & Data Protection Shardul Amarchand Mangaldas & Co
+Topics
+Electronic signature
+Organisations
+UNCITRAL
+Popular articles from this firm
+Examining the ‘Court’ Quandary: Section 29A of the Arbitration Act*
+In brief: abuse of dominance in India*
+To transfer or not to transfer an “appeal” under Section 24(5) of the CPC: Navigating the legal conundrum*
+Supreme Court rules on post-dated cheque given as security for repayment of loan instalment*
+TN law on online gambling: Why India needs a centralised regulatory framework - a top law firm’s perspective*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Lawful processing of personal data under the GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the UK GDPR (UK)
+Recently updated
+Checklist
+Checklist: Making an international transfer of personal data under the GDPR (EU)
+Recently updated
+View all
+Related research hubs
+India
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 24 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

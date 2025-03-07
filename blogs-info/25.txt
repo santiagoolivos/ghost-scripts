@@ -1,0 +1,148 @@
+https://gatehouselaw.co.uk/electronic-signatures-and-the-solicitors-act-1974-elias-v-wallace/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Electronic signatures and the Solicitors Act 1974 (Elias v Wallace)
+Gatehouse Chambers
+Gatehouse Chambers logo
+United Kingdom November 9 2022
+Commercial analysis: The Claimant brought Part 8 proceedings under s.68 of the Solicitors Act seeking an order that the Defendant solicitors’ firm deliver a statute bill. In so doing the Claimant contended that the invoices served by the Defendant did not meet the requirements of the Act.
+
+One of those requirements was that the invoices be signed; this can be by way of electronic signature (s.69(2B)). The Defendant had sent invoices by email. The Court therefore had to consider (i) whether the signature in the email footer was a valid electronic signature and (ii) if it was, whether this was sufficient to meet the requirement that a valid statute bill “be enclosed in, or accompanied by, a letter which is signed … and refers to the bill” (s.69(2A)(b)).
+
+The Court held that:
+
+The email signature was a valid electronic signature.
+The court should adopt an updating construction to the word ‘letter’ such that the signature being contained in an email met the requirements of the Act.
+Elias v Wallace LLP [2022] EWHC 2574 (SCCO)
+
+What are the practical implications of this case?
+
+There are two practical implications of the case. Firstly, the Court applied the decision in Neocleous v Rees [2019] EWHC 2462 (Ch.) and determined that the automated footer in an email constitutes an electronic signature. The words ‘electronic signature’ for the purposes of the Solicitors Act are defined by s.7(2) of the Electronic Communications Act 2000, so this decision is of broader application than costs disputes.
+
+Secondly, the decision to permit an electronic signature to be contained in an email relaxes one of the formalities required by the Act for an invoice to amount to a statute bill. This means that it will be easier for solicitors to meet this requirement and to start time running for their clients to commence an assessment under the Act. It removes one of the hurdles that can be deployed by clients to argue that they have not been sent a statute bill (even though they have received an invoice), and that therefore time has not started to run for the purposes of seeking an assessment of their solicitors’ fees.
+
+What was the background?
+
+The background to the claim was very straightforward. The Defendant solicitors had been engaged by the Claimant to work on a dispute in the Business and Property Courts between July and October 2020. The Claimant was sent several invoices by email from August to October 2020. The Claimant contended that the invoices were not interim or final statute bills, that they were not signed and that they had not been delivered in accordance with the Act. If any of these points were correct, then the Claimant had not received a statute bill and was entitled to an Order that one be delivered by the Defendant. This would then start time running for fees to be assessed.
+
+The Defendant’s case was that the invoices formed a Chamberlain bill and that they met the signature and delivery requirements of the Act.
+
+(This note is only concerned with the arguments concerning the signature).
+
+What did the court decide?
+
+Electronic Signature
+
+The Court applied the decision in Neocleous where it was determined that a signed agreement for the purposes of s.2 of the Law of Property (Miscellaneous Provisions) Act 1989 had been entered into by an exchange of emails with an automated signature footer in the respective solicitors’ emails.
+
+Each of the emails sent to Mr Elias concluded as follows:
+
+“Best regards,
+
+Alex
+
+Alexander Weinberg Partner
+
+[telephone numbers, firm name and physical and website addresses]”
+
+The Judge concluded that if “Alex” had been typed then “it is easy to see that it is a signature which falls within the definition [of an electronic signature] in s.7(2)”. However, the Judge went on to conclude that even if “Alex” had been automatically generated as part of the signature this did not take it outside the definition. Applying Neocleous, the signature had authenticating intent regardless of whether it had been typed or if it had been automatically generated in accordance with a rule. It has been a conscious act to set that rule and the author knew that the signature was being applied.
+
+Updating Construction
+
+The Judge concluded that it was appropriate for him to apply an updating construction to the word ‘letter’. This approach was valid unless the legislation was intended to be applied as it was passed (per the commentary in Bennion, Bailey and Norbury on Statutory Interpretation). The Judge held that “There is nothing to suggest that Parliament intended that the 1974 Act should be preserved in aspic.”
+
+This approach was applied in Attorney General v Edison Telephone Co of London Ltd (1880) 6 QBD 244 which concerned whether communication by telephone fell within the definition of a ‘telegram’ in the Telegraph Act 1869 notwithstanding that the telephone had not been invented at the date of that legislation being passed. It was appropriate in that case, and it was also appropriate when considering the word ‘letter’ in the Solicitors Act:
+
+“Accordingly, in my judgment, applying an updating construction, an email is a letter for the purposes of s.69(2A)(b).”
+
+Case details
+
+Court: High Court (Senior Courts Costs Office)
+Judge: Senior Costs Judge Gordon-Saker
+Date of judgment: 12/10/2022
+first published by LexisNexis
+
+Gatehouse Chambers - Martyn Griffiths
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+United Kingdom Internet & Social Media Litigation Gatehouse Chambers
+Topics
+Electronic signature
+Popular articles from this firm
+To post, or not to post? That is the question (sort of…)*
+The Arbitration Act 2025? Arbitration Bill Set to Become Law*
+When “without prejudice” correspondence attacks! (Morris v Williams)*
+Airing the Dirty Laundry? Ramsbury Properties Ltd v Ocean View Construction Ltd*
+Underhill v Thackray Williams Solicitors*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Addressing online defamation and protecting your digital reputation (UK)
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+United Kingdom
+Internet & Social Media
+Litigation
+×
+My Lexology
+Access my saved content
+ Full article, 31 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

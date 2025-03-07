@@ -1,0 +1,113 @@
+https://consortiumlegal.com/2022/11/15/guatemala-la-validez-de-la-firma-electronica-en-un-pagare-y-su-ejecucion-en-juicio-ejecutivo/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Guatemala: La validez de la firma electrónica en un pagaré y su ejecución en juicio ejecutivo
+Consortium Legal
+Consortium Legal logo
+Guatemala November 15 2022
+El pagaré es un título de crédito que conlleva la promesa incondicional de pagar una suma determinada de dinero y que debe cumplir para su validez con ciertos requisitos generales y específicos conforme el Código de Comercio, Decreto 2-70 del Congreso de la República y sus reformas (el “Código de Comercio”), dentro de los cuales se encuentran los relativos al nombre y firma del deudor[1].
+
+Asimismo, debe cumplir el pagaré con los requisitos aplicables a las Letras de Cambio[2], especialmente con lo relativo a incluir el texto “libre de protesto”[3], para garantizar que en caso de ejecución no será necesario formalizar el “protesto” del pagaré.
+
+Conforme el Código de Comercio, el cobro de un título de crédito da lugar al procedimiento ejecutivo, sin necesidad de reconocimiento de firma ni de otro requisito, salvo que el protesto fuere legalmente necesario[4]. Asimismo, establece dicho código que cualquier controversia relativa a títulos ejecutivos se resolverá en concordancia con lo estipulado en el Código Procesal Civil y Mercantil, Decreto Ley No. 107 del Congreso y sus reformas[5] (el “Código Procesal Civil y Mercantil”).
+
+El pagaré al ser un título de crédito se ejecuta mediante un juicio ejecutivo de acción cambiaria regulado conforme el Código Procesal Civil y Mercantil y deberá considerarse en la ejecución del mismo, el criterio judicial existente respecto a que se debe acompañar a la demanda el título de crédito original, que, en este caso, sería el pagaré original.
+
+Ahora bien, ya que hemos determinado los principales requisitos del pagaré como título de crédito y el procedimiento judicial para hacer valer la promesa incondicional de pago en él contenida, debemos responder sí conforme la legislación guatemalteca es viable que un pagaré sea firmado electrónicamente y en caso de incumplimiento, éste sea ejecutado judicialmente.
+
+Para responder a lo anterior, debemos acudir a la Ley para el Reconocimiento de Comunicaciones y Firmas Electrónicas, Decreto 47-2008 del Congreso y sus reformas (la “Ley”), en la que se indica que no se negarán efectos jurídicos, validez o fuerza obligatoria a un contrato por la sola razón de que esa comunicación o ese contrato estén en forma de comunicación electrónica[6].
+
+Asimismo, establece la Ley que cuando cualquier norma jurídica requiera que un contrato sea firmado, por una parte, ese requisito se dará por cumplido respecto de una comunicación electrónica si se utiliza un método para determinar la identidad de esa parte y para indicar la voluntad que tiene tal parte respecto de la información consignada en la comunicación electrónica y si el método empleado es fiable y resulta apropiado para los fines para los que se generó o transmitió la comunicación electrónica, atendidas todas las circunstancias del caso, inclusive todo acuerdo aplicable[7].
+
+Finalmente, indica también la Ley que la firma electrónica o la firma electrónica avanzada, la cual podrá estar certificada por una entidad prestadora de servicios de certificación, que haya sido producida por un dispositivo seguro de creación de firma, tendrá, respecto de los datos consignados en forma electrónica, el mismo valor jurídico que la firma manuscrita en relación con los consignados en papel y será admisible como prueba en juicio, valorándose ésta, según los criterios de apreciación establecidos en las normas procesales[8] (negrillas son propias).
+
+De lo antes citado conforme la Ley, se determina que las comunicaciones y firmas electrónicas tienen validez en Guatemala, por lo que sí puede formalizarse un pagaré con firma electrónica avanzada, en tanto existan mecanismos de respaldo que puedan dar certeza a la identidad de la persona que se compromete al pago del mismo mediante comunicación y firma electrónica, además de las condiciones y estipulaciones que regirán la promesa incondicional de pago contenidas en el pagaré.
+
+No obstante lo anterior, es importante resaltar que aún cuando legalmente es viable la firma electrónica de un pagaré y en consecuencia, su ejecución judicial también es posible, ésta no es una práctica común y esto podría resultar en que al presentar un pagaré con firma electrónica ante un juez, éste requiera discutir la validez del mismo por su especial naturaleza.
+
+Por último, debemos resaltar que también podría ser necesario en el caso de ejecutar judicialmente un pagaré con firma electrónica avanzada, acompañar a la demanda prueba suficiente para demostrar la existencia, vigencia y condiciones del pagaré electrónico, la que puede consistir en un dictamen emitido por un perito en informática que permita demostrar que los requisitos establecidos por la Ley son cumplidos y por ende procede el reconocimiento de la firma electrónica como válida.
+
+To view all formatting for this article (eg, tables, footnotes), please access the original here.
+Consortium Legal - Melissa Morán
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Guatemala Litigation Consortium Legal
+Topics
+Electronic signature
+Popular articles from this firm
+Guatemala: Breve reseña de la Bonificación Incentivo en Guatemala*
+Diferencia entre propiedad, posesión y uso, y el delito de usurpación de bienes regulado en el ordenamiento legal guatemalteco*
+Guatemala: La importancia de otorgar de un testamento y los riesgos de la falta de declaración de última voluntad*
+Guatemala: Medida precautoria*
+Guatemala: Forma correcta de calcular las horas extras*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Addressing online defamation and protecting your digital reputation (UK)
+How-to guide
+How-to guide: The legal framework for resolving disputes in England and Wales (UK)
+Checklist
+Checklist: Considerations prior to issuing court proceedings (UK)
+View all
+Related research hubs
+Guatemala
+Litigation
+×
+My Lexology
+Access my saved content
+ Full article, 31 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

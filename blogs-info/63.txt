@@ -1,0 +1,130 @@
+https://www.dlapiper.com/en/insights/publications/2024/02/ten-best-practices-for-your-digital-transformation-journey
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Ten best practices for your digital transformation journey
+DLA Piper
+DLA Piper logo
+USA February 22 2024
+Digital transformation is critical for businesses to stay competitive and meet the ever-evolving needs of today's digital age. However, digital transformation brings with it a wide range of legal risks.
+
+Here we offer ten high-level best practices to help guide you on your digital transformation journey.
+
+Keep ahead of the online regulatory curve. Avoid legal repercussions by staying abreast of industry-specific laws, regulations, and standards that apply to your digital initiatives, such as the Electronic Signatures and National Commerce Act (ESIGN), Uniform Electronic Transaction Act (UETA), Electronic Funds Transfer Act (EFTA), CAN-SPAM Act, Telephone Consumer Protection Act (TCPA), or Bank Secrecy Act (BSA), among others.
+Comply with data privacy laws. An essential aspect of regulatory awareness is to ensure you are complying with relevant data protection laws, such as financial services laws like the Gramm Leach Bliley Act (GLBA), health data laws like the Health Insurance Portability and Accountability Act (HIPAA), and privacy laws like Children’s Online Privacy Protection Act (COPPA), California Consumer Privacy Act (CCPA), and General Data Protection Regulation (GDPR), among others. Implement robust privacy policies, obtain necessary consents, and establish processes for handling customers’ personal data in a secure and transparent manner.
+Protect your intellectual property. Safeguard your IP rights by implementing appropriate safeguards. This includes securing trademarks, copyrights, and patents for your digital assets and putting in place confidentiality agreements with employees and third-party vendors that will shield your trade secrets.
+Appropriately license digital content. If your digital transformation involves using or distributing digital content, ensure that you have appropriate licenses and permissions. Images, videos, music, and software are typical areas of concern. Avoid overreliance on fair use and seek legal advice if necessary.
+Consider your customers. If your digital transformation involves e-commerce, familiarize yourself with consumer protection laws and regulations effective in and otherwise applicable to the jurisdictions in which you operate. Avoid engaging in unfair and deceptive acts and practices, and address issues like online delivery of product disclosures, product liability, online sales taxes, pricing transparency, and refund policies.
+Labor relations matter, too. Your digital transformation will have an array of impacts on your employment and labor practices. Ensure your company is complying with labor laws regarding remote work, employee data protection, employee classification (eg, independent contractor versus employee), and any local regulations governing the use of digital tools and monitoring.
+And so does accessibility. Digital assets – websites and applications, for instance – also need to be inclusive for those with disabilities and compliant with the Americans with Disabilities Act (ADA). The Web Content Accessibility Guidelines (WCAG) are among resources that can help you mitigate the risks of discrimination in this area.
+Check your contracts. Review and update your contracts with suppliers, partners, and customers to account for digital transformation initiatives – on your side and on theirs – such as for the use of electronic signatures and records online or with a mobile device to ensure enforceability in accordance with global eSignature laws. Also include provisions that address issues like ownership of digital assets, data usage, liability, and dispute resolution in the digital context.
+Make a cybersecurity plan. Develop comprehensive cybersecurity policies and incident response plans to mitigate the risks associated with cyber threats. This includes regularly assessing vulnerabilities, implementing appropriate security measures, and setting out a clear, responsive plan in the event of a data breach.
+Call your lawyer. It may be valuable to consult with legal professionals who concentrate on technology and digital transformation to ensure compliance with the specific legal landscape in your industry and jurisdiction.
+DLA Piper - Margo H. K. Tank, Vinny Sanchez , David Whitaker, Elizabeth S.M. (Liz) Caires and Emily Honsa Hicks
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+USA Healthcare & Life Sciences IT & Data Protection Telecoms DLA Piper
+Topics
+Digital transformation Personal data Cybersecurity Data privacy
+Organisations
+European Free Trade Association
+Laws
+Health Insurance Portability and Accountability Act 1996 (USA) COPPA Americans with Disabilities Act 1990 (USA) Telephone Consumer Protection Act 1991 (USA) GDPR California Consumer Privacy Act 2018 (USA)
+Popular articles from this firm
+White House Executive Orders impacting tax and trade - developments of the week of February 10, 2025*
+Blockchain and Digital Assets News and Trends - February 2025*
+Food and Beverage News and Trends - February 24, 2025*
+Industrials Regulatory News and Trends - February 24, 2025*
+President Trump’s DEI Executive Orders: Recent developments for employers to know*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Professional development 
+An Introduction to Cloud Computing Contracts - Without the Jargon - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+15 April 2025
+The GDPR - A Guide to Compliance for DPOs & COLPs - Learn Live
+
+MBL Seminars | 3 CPD hours
+Online
+29 July 2025
+An Introduction to Cloud Computing Contracts - Without the Jargon - Learn Live
+
+MBL Seminars | 2 CPD hours
+Online
+15 October 2025
+View all
+Related practical resourcesPRO
+How-to guide
+How-to guide: How to manage your organization’s data privacy and security risks (USA)
+Recently updated
+Checklist
+Checklist: What to include in your organisation’s privacy notice (EU)
+Recently updated
+Checklist
+Checklist: Complying with cookie requirements under the PECR and the GDPR (UK)
+View all
+Related research hubs
+Health Insurance Portability and Accountability Act 1996 (USA)
+Americans with Disabilities Act 1990 (USA)
+USA
+Healthcare & Life Sciences
+IT & Data Protection
+×
+My Lexology
+Access my saved content
+ Full article, 48 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

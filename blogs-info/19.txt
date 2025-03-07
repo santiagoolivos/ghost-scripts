@@ -1,0 +1,106 @@
+https://www.morogluarseven.com/news-and-publications/category/publications/ma-gazette/ma-gazette-edition-124-1-march-2023/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+The Validity Period of the Algorithms and Parameters Regarding Electronic Signatures has been extended.
+Moroğlu Arseven
+Moroğlu Arseven logo
+Turkey March 1 2023
+The Communiqué Amending the Communiqué on Processes and Technical Criteria Regarding Electronic Signature (“Communiqué“) has entered into force on 28 December 2022 upon its publication in the Official Gazette numbered 32057, in order to extend the validity period of the first paragraph of Article 6 of the Communiqué on Processes and Technical Criteria Regarding Electronic Signature.
+
+According to Article 6/1 of the Communiqué on Processes and Technical Criteria Regarding Electronic Signatures, the signature creation and verification data and summarization algorithms must comply with the ETSI TS 119 312 standard and the following algorithms and parameters, the signature creation and verification data of signatories must be at least 2048 bits for RSA or at least 3072 bits for DSA or at least 256 bits for DSA Elliptic Curve, the signature creation and verification data of Electronic Certificate Service Providers must be at least 4096 bits for RSA or at least 3072 bits for DSA or at least 256 bits for DSA Elliptic Curve provided that RSA-PSS is used for signatures, and the summarization algorithm must comply with SHA2-256 or SHA2-384 or SHA2-512 or SHA3-256 or SHA3-384 or SHA3-512 algorithms and parameters.
+
+With the published Communiqué, the validity of the algorithms and parameters specified in Article 6/1 of the Communiqué on Processes and Technical Criteria Regarding Electronic Signature that was published in the Official Gazette dated 6 January 2005 and numbered 25692 has been extended from 31 December  2022 to 31 December 2025.
+
+The provisions of this Communiqué shall be executed by the Chairman of the Information and Communication Technologies Board.
+
+You can access the Communiqué in Turkish through this link.
+
+Information first published in the MA | Gazette, a fortnightly legal update newsletter produced by Moroğlu Arseven.
+
+Moroğlu Arseven - Burcu Tuzcu Ersin and Ceylan Necipoğlu
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Turkey Company & Commercial IT & Data Protection Moroğlu Arseven
+Topics
+Electronic signature
+Popular articles from this firm
+Türkiye Barolar Birliği Tapu ve Kadastro Paylaşım Sistemi (TAKPAS) Yeniden Avukatların Kullanımına Açılmıştır*
+Turkey Establishes Centralized Registered Electronic Mail Directory*
+Bilirkişi Raporunun Mahkeme Kararının Kesinleşmesiyle Kesin Delil Niteliği Kazanmasını Değerlendiren Anayasa Mahkemesi Kararı Yayınlandı*
+Anayasa Mahkemesi: Kesinleşmiş Tescil Kararının Farklı Mahkeme Tarafından Verilmiş İhtiyati Tedbir Kararı Sebebiyle Tapuda İcra Edilmemesi Mülkiyet Hakkına Aykırıdır*
+Anayasa Mahkemesi: Usulüne Uygun Olarak Tebliğ Edilmemiş İdari İşlemi Takiben Tekerrür Nedeniyle Daha Ağır Bir İdari Yaptırım Uygulanması Mülkiyet Hakkını İhlal Eder*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Steps to mitigate risks associated with AI use in business (USA)
+Recently updated
+How-to guide
+How-to guide: Understanding AI-driven risks (USA)
+Recently updated
+Checklist
+Checklist: De-identification of data used by AI systems (USA)
+Recently updated
+View all
+Related research hubs
+Turkey
+IT & Data Protection
+Company & Commercial
+×
+My Lexology
+Access my saved content
+ Full article, 30 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research

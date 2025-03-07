@@ -1,0 +1,153 @@
+https://www.mwe.com/de/insights/real-estate-update-die-elektronische-signatur-in-der-mietrechtlichen-vertragspraxis/
+Search
+Search Lexology
+Lexology
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Die elektronische Signatur in der mietrechtlichen Vertragspraxis
+McDermott Will & Emery
+McDermott Will & Emery logo
+Germany February 5 2024
+Mietverträge einfach, schnell und rechtssicher elektronisch abschließen? Bislang eine eher seltene Ausnahme. Wir stellen die gesetzlich vorgesehenen Möglichkeiten vor – sowohl für den Abschluss von Mietverträgen als auch für rechtsgeschäftliche Erklärungen wie z.B. die Kündigung eines Mietvertrages.
+
+Vorteile der elektronischen Form
+
+Der Gesetzgeber lässt die wirksame Verwendung der elektronischen Form (§ 126a BGB) mithilfe einer qualifizierten elektronischen Signatur auch für den Abschluss oder z.B. die Beendigung von Mietverträgen zu. Die Nutzung der elektronischen Form bringt sowohl in praktischer als auch in rechtlicher Hinsicht Vorteile. Wird auf analoge Unterschriften verzichtet, verringern sich Zeit-, Arbeits- und Kostenaufwand von Ausstellung, Versand, Lagerung, Archivierung und Wiederverwertung von Papierdokumenten. Durch das bei der qualifizierten elektronischen Signatur zu Grunde liegende asymmetrische Verschlüsselungssystem ist sichergestellt, dass nachträgliche Änderungen ohne weiteres erkennbar sind. Von der digitalen Version eines Vertragsdokuments lassen sich außerdem eine unbegrenzte Anzahl von Originalen erstellen.
+
+In der mietrechtlichen Praxis ist die qualifizierte elektronische Signatur (Hinweis: die einfache oder fortgeschrittene elektronische Signatur genügt nicht) besonders vorteilhaft, da sie wirksam die Schriftform für den Abschluss langjähriger Mietverträge (§§ 550, 578, 126 BGB) oder für die Abgabe entsprechender Kündigungen ersetzen kann. Dies erleichtert das in der Praxis bekannte Problem der (schriftformkonformen) Unterzeichnung von umfangreichen Vertragswerken oder rechtsgeschäftlichen Erklärungen.
+
+Auch in prozessualer Hinsicht haben mit einer qualifizierten elektronischen Signatur versehene Verträge bzw. rechtsgeschäftliche Erklärungen dieselbe Beweiskraft wie private (physische) Urkunden. Ferner begründet eine qualifizierte elektronische Signatur den Anschein dafür, dass die Erklärung von der „unterzeichnenden“ Person abgegeben worden ist (§ 371a Abs. 1 ZPO).
+
+Voraussetzungen
+
+Um im elektronischen Geschäftsverkehr Verträge mit der qualifizierten elektronischen Signatur rechtlich wirksam abschließen zu können, sind die folgenden Voraussetzungen zu beachten:
+
+1. Einigung über die Verwendung der elektronischen Form
+
+Wollen die Vertragsparteien die Schriftform durch die elektronische Form ersetzen, sollte diese Einigung zu Beweiszwecken zunächst zumindest in Textform (z.B. abgespeicherte E-Mail) festgehalten werden.
+
+2. Vollständigkeit und Einheitlichkeit des elektronischen Dokuments
+
+Das gesamte Vertragswerk muss einheitlich als elektronisches Dokument – üblicherweise PDF – vorliegen. Auch alle Anlagen müssen in dem Dokument vollständig in elektronischer Form enthalten sein. Ein nachträgliches Hinzufügen der Anlagen zum elektronisch signierten Vertrag oder zu einer ausgedruckten Version des elektronisch signierten Vertragsdokuments reicht nicht aus.
+
+3. Name des Ausstellers
+
+Dem elektronischen Dokument muss der Name des Ausstellers hinzugefügt werden. Dabei ist es unerheblich, an welcher Stelle. Es genügt die Nennung des Ausstellers in der Überschrift bzw. dem Vertragskopf. Dies geschieht bei den meisten Anbietern per Mausklick/Drag&Drop.
+
+4. Rechtssichere digitale Unterzeichnung
+
+Zur Vermeidung von Rechtsunsicherheit und Anwendungsfehlern sollten beide Vertragspartner den Vertrag mithilfe der qualifizierten elektronischen Signatur und nicht analog unterzeichnen. Das qualifizierte Zertifikat, mit dem die Verwendung der qualifizierten elektronischen Signatur kontrolliert werden kann, kann dem signierten Dokument beigefügt werden.
+
+5. Zugang in elektronischer Form
+
+Das Vertragsdokument mit der qualifizierten elektronischen Signatur muss dem jeweiligen Empfänger auch in elektronischer Form zugehen. Sogenannte „Medienbrüche“ sollten aus Gründen der Rechtssicherheit vermieden werden. Je nach verwendetem Signaturprogramm kann das signierte Dokument auch automatisch an den Vertragspartner gesendet werden.
+
+Qualifizierte elektronische Signatur und qualifizierte Vertrauensdiensteanbieter
+
+Die qualifizierte elektronische Signatur erfüllt die höchsten Sicherheitsanforderungen unter den elektronischen Signaturen und hat gesetzlich die gleiche Rechtswirkung wie eine handschriftliche Unterschrift.
+
+Die qualifizierte elektronische Signatur wird mittels qualifizierter elektronischer Signaturerstellungseinheit generiert und mit einem qualifizierten Zertifikat versehen. Als sog. Signaturerstellungseinheit kann in der Praxis entweder eine Hardwarelösung mittels Signaturkarte und Lesegerät (mit PIN) oder eine entsprechende Softwarelösung zur Erzeugung der qualifizierten elektronischen (Fern-)Signatur verwendet werden. Jedem Unterzeichnenden wird dabei durch die Signaturerstellungseinheit ein geheimer und fälschungssicherer Signaturschlüssel zugewiesen.
+
+Das qualifizierte Zertifikat für elektronische Signaturen dient demgegenüber dem Identitätsnachweis und muss von einem qualifizierten Vertrauensdiensteanbieter (z.B. D-Trust GmbH, die Bundesnotarkammer oder die Deutsche Post AG) erstellt werden. In Deutschland akkreditiert und überprüft in regelmäßigen Abständen die Bundesnetzagentur die qualifizierten Vertrauensdiensteanbieter. Im Rahmen des qualifizierten Zertifikats erhält der Empfänger des signierten Dokuments sodann den öffentlichen Schlüssel, um die Gültigkeit einer qualifizierten elektronischen Signatur bzw. die Unverfälschtheit des signierten Dokuments prüfen zu können.
+
+Step-by-Step zu Ihrer qualifizierten elektronischen Signatur
+
+1. Signierprogramm: Um das Vertragsdokument signieren zu können, ist eine Anmeldung des Unterzeichners in dem Signierprogramm erforderlich, die sogenannte qualifizierte elektronische Signaturerstellungseinheit (z.B. DocuSign, Sign-me, Adobe-Sign).
+
+2. Auswahl der Art der Signatur: Das elektronische Vertragsdokument wird in dieses Programm hochgeladen und die passende Signaturart ausgewählt. Für langfristige gewerbliche Mietverträge muss die qualifizierte elektronische Signatur gewählt werden.
+
+3. Signatur-Symbol: Das Signatur-Symbol kann an einer beliebigen Stelle im Dokument platziert werden, üblicherweise wird es an die Stelle gesetzt, die bei analog zu unterzeichnenden Verträgen die Unterschriftenzeile beinhaltet.
+
+4. Qualifiziertes Zertifikat für elektronische Signaturen: Das benötigte qualifizierte Zertifikat für elektronische Signaturen wird von den qualifizierten Vertrauensdiensteanbietern ausgestellt, welche die Identität des Unterzeichners u.a. mittels Post-/Video-Ident-Verfahren oder Personalausweis mit Online-Ausweisfunktion verifizieren. Die Zertifikate müssen nicht bei jedem Vertragsschluss neu ausgestellt werden, haben jedoch nur eine begrenzte Gültigkeitsdauer und müssen daher in regelmäßigen Abständen (üblicherweise 1x im Jahr) erneuert werden.
+
+Bei einigen Signaturerstellungsprogrammen wie z.B. DocuSign kann das Identifizierungsverfahren während des Signaturprozesses durchgeführt werden und nimmt – zumindest beim Video-Ident-Verfahren – lediglich wenige Minuten in Anspruch.
+
+5. Authentifizierung und Bestätigung: Ist das Zertifikat ausgestellt, kann bei weiteren Signaturen über die Signaturerstellungseinheit zur Freigabe der Signatur eine PIN bzw. SMS-TAN angefordert und eingegeben werden. Alternativ erfolgt der Vorgang per Authentifizierungs-App. Im Anschluss an die Identifizierung bzw. Authentifizierung muss die qualifizierte elektronische Signatur noch durch den Unterzeichnenden final bestätigt werden.
+
+Ausblick
+
+Unternehmen müssen bei der Nutzung elektronischer Signaturen nicht nur darauf achten, dass sie die richtige Signaturform benutzen und dass die rechtsgeschäftlichen Erklärungen mit der qualifizierten elektronischen Signatur dem jeweiligen Empfänger digital zugehen. Bei jeglichen Signaturverfahren sind zudem auch die übrigen (Form-)Vorschriften des jeweiligen Rechtsgeschäftes und auch die datenschutzrechtliche (Mit-)Verantwortung für die personenbezogenen Daten zu beachten.
+
+McDermott Will & Emery - Michelle Leverkus, Sakai Shabo and Dr. Jens Ortmanns
+﻿
+ Save & file  View original  Forward  Print 
+ Share
+ 
+ Follow
+ Like  Instruct
+Filed under
+Germany Internet & Social Media Real Estate McDermott Will & Emery
+Topics
+Electronic signature
+Industries
+Real estate
+Popular articles from this firm
+A general introduction to life sciences law in Germany*
+Snapshot: real estate financing in Germany*
+German Battery Storage on a Rise - Recent developments and current legislative change*
+Judicial “Upward Adjustment” Violates Collective Bargaining Autonomy*
+Gerichtliche „Anpassung nach oben“ verletzt Tarifautonomie*
+If you would like to learn how Lexology can drive your content marketing strategy forward, please email enquiries@lexology.com.
+
+Related practical resourcesPRO
+Checklist
+Checklist: Legal considerations for social media marketing (USA)
+Checklist
+Checklist: Addressing online defamation and protecting your digital reputation (UK)
+Checklist
+Checklist: Policy for employee use of an organization’s social media accounts (USA)
+View all
+Related research hubs
+Germany
+Real Estate
+Internet & Social Media
+×
+My Lexology
+Access my saved content
+ Full article, 26 minutes ago, Arias
+Digitalization in Honduras: regulation on electronic signatures
+Resources
+Daily newsfeed
+Panoramic
+Research hubs
+Learn
+In-Depth
+Lexy: AI search
+Scanner
+Lexology Index
+Find an expert
+Reports
+Research methodology
+Submissions
+Instruct Counsel
+Client Choice 2025
+More
+About us
+Legal Influencers
+Firms
+Blog
+Events
+Popular
+Code of ethics
+Lexology Academic
+Legal
+Terms of use
+Cookies
+Disclaimer
+Privacy policy
+Contact
+Contact
+RSS feeds
+Submissions
+ 
+Search
+Search Lexology
+Follow on X
+Follow on LinkedIn
+© Copyright 2006 - 2025 Law Business Research
+
+Law Business Research
