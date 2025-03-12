@@ -1,9 +1,6 @@
-```markdown
 ---
-Date: March 9 2023
-URL: https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzY5ODUsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiMmJjYmVlOGMtM2ZhNC00OGEyLWJiNTYtZjg5OWQ3MTIzZjA3IiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.vVkUkntTBWHpK6Cu6VplEBNro5lsDk3_bvUi_q2tDlEedjq2waLLIqBjz0h-DdghWOOI1AnTHw1nkg06gGTOUg
-title: electronic signatures in turkish employment law: opportunities and exceptions
-excerpt: electronic signatures hold potential in turkey's employment sector, reports balcıoğlu selçuk ardıyok keki attorney partnership.
+title: Electronic Signatures in Turkish Employment Law: Opportunities and Exceptions
+excerpt: Electronic signatures hold potential in Turkey's employment sector, reports Balcıoğlu Selçuk Ardıyok Keki Attorney Partnership.
 cover: ./images/ricardo-gomez-angel-geBHIpvA6us-unsplash.webp
 ---
 
@@ -14,4 +11,3 @@ In the context of employment relationships, electronic signatures offer practica
 However, there are specific situations where electronic signatures cannot substitute handwritten ones. For certain legal documents, such as significant changes in working conditions and personal data consent forms, a wet signature remains necessary. These documents require a handwritten signature to be valid under Turkish law. Despite these exceptions, the potential for digitalizations in Turkey’s employment sector remains optimistic.
 
 This focus on modernizing employment practices represents a positive step toward integrating more technology-friendly approaches in the workplace. Legal acknowledgment and implementation of electronic signature practices could lead to broader adoption and improvements in efficiency and convenience across different sectors.
-```

@@ -1,11 +1,7 @@
-```markdown
 ---
-Date: August 19, 2024
-URL: https://www.paulhastings.com/en-GB/insights/client-alerts/reform-attempt-to-soften-the-written-form-requirement-for-commercial-lease
-title: germany proposes easier rules for commercial lease agreements
-excerpt: a recent article by paul hastings llp outlines germany's draft law easing commercial lease agreement requirements.
+title: Germany Proposes Easier Rules for Commercial Lease Agreements
+excerpt: A recent article by Paul Hastings LLP outlines Germany's draft law easing commercial lease agreement requirements.
 cover: ./images/zhenyi-yang-wfmsIPlP12U-unsplash.webp
-
 ---
 
 A [recent article by Paul Hastings LLP](https://www.paulhastings.com/en-GB/insights/client-alerts/reform-attempt-to-soften-the-written-form-requirement-for-commercial-lease) discusses Germany's move to make commercial lease agreements simpler. Currently, if you rent a place for over a year in Germany, you must have a written agreement on paper. Both parties need to sign it. But the German government wants to change this with the Fourth Bureaucracy Relief Act (Viertes Bürokratieentlastungsgesetz).
@@ -17,4 +13,3 @@ There could be some challenges. There might be more work to verify details in el
 Some concerns remain, like the possibility of confusion in email negotiations. This might blur the lines between discussing terms and actually agreeing to them. However, it’s expected that parties will use electronic signatures to formalize their agreements.
 
 The new draft is with expert committees and should proceed through the German parliament later this year. Many see this step as progress towards less bureaucracy and more digital solutions in business practices.
-```

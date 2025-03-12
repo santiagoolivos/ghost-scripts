@@ -49,9 +49,7 @@ def transform_markdown_files(csv_path, input_folder, output_folder):
             new_file_path = os.path.join(output_folder, new_file_name)
             
             # Transform metadata
-            transformed_content = content.replace(metadata["title"], metadata["title"].lower(), 1)
-            transformed_content = transformed_content.replace(metadata["excerpt"], metadata["excerpt"].lower(), 1)
-            
+            transformed_content = content
             # Insert cover line after the excerpt
             transformed_content = re.sub(r'(Excerpt: .+)', r'\1\ncover: ' + cover, transformed_content, count=1)
             

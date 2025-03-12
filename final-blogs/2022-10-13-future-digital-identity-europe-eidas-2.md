@@ -1,9 +1,6 @@
-```markdown
 ---
-Date: October 13, 2022
-URL: https://www.arendt.com/industries/real-estate/#page=1
-title: the future of digital identity in europe: eidas 2 proposal
-excerpt: discover digital identity changes proposed by eu with insights from arendt & medernach experts.
+title: The Future of Digital Identity in Europe: eIDAS 2 Proposal
+excerpt: Discover digital identity changes proposed by EU with insights from Arendt & Medernach experts.
 cover: ./images/eryk-piotr-munk-UhC5S276znY-unsplash.webp
 ---
 
@@ -14,4 +11,3 @@ In the article, Ines Nibakuze and Astrid Wagner from Arendt & Medernach explain 
 The article highlights the potential benefits of these changes, such as improved data protection and more reliable electronic transactions. By addressing the previous regulation's limitations, the EU aims to bolster trust in digital services and promote smoother cross-border interactions.
 
 Overall, the proposed European Digital Identity Regulation represents a positive step forward in the EU's digital landscape. The insights provided by Arendt & Medernach shed light on the exciting possibilities this new regulation may bring, aiming for a future of simpler and more secure digital identities across Europe.
-```

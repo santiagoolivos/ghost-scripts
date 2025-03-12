@@ -1,11 +1,7 @@
-```markdown
 ---
-Date: December 11, 2024
-URL: https://cms-lawnow.com/en/ealerts/2024/12/romania-amends-companies-law-to-digitalise-shareholders-meetings?utm_source=lawnow-realtime&utm_medium=email&utm_campaign=Romania%20amends%20Companies%20Law%20to%20digitalise%20shareholders%e2%80%99%20meetings&utm_id=4379&utm_term=read_more&utm_content=702494
-title: romania embraces digital era with new company law amendments
-excerpt: recent article by cms cameron mckenna nabarro olswang llp highlights romania's move to digitalize company processes.
+title: Romania Embraces Digital Era with New Company Law Amendments
+excerpt: Recent article by CMS Cameron McKenna Nabarro Olswang LLP highlights Romania's move to digitalize company processes.
 cover: ./images/pawel-czerwinski-Z9YCoqe8AEQ-unsplash.webp
-
 ---
 
 A [recent article by CMS Cameron McKenna Nabarro Olswang LLP](https://cms-lawnow.com/en/ealerts/2024/12/romania-amends-companies-law-to-digitalise-shareholders-meetings?utm_source=lawnow-realtime&utm_medium=email&utm_campaign=Romania%20amends%20Companies%20Law%20to%20digitalise%20shareholders%e2%80%99%20meetings&utm_id=4379&utm_term=read_more&utm_content=702494) discusses how Romania's new Law 299/2024 is transforming company operations by embracing digital tools. The law aims to modernize the Romanian Companies Law 31/1990, making it easier for businesses to manage shareholder meetings and cut down on paperwork. 
@@ -19,4 +15,3 @@ Additionally, Romanian companies now have the option to delegate authority for o
 Finally, the board of directors can now amend meeting announcements as needed. They must ensure these changes are publicized at least ten days before meetings, allowing for timely adjustments without causing disruption.
 
 These updates represent a significant step in aligning Romanian business practices with modern needs. By accommodating electronic means and reducing bureaucratic requirements, Romania is creating a more appealing environment for investment and business growth.
-```

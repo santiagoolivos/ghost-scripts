@@ -1,11 +1,9 @@
-```markdown
 ---
-Date: February 11, 2025
-URL: https://www.ahp.co.id/news-and-insights/indonesias-new-regulation-expands-bank-services
-title: indonesia's new regulation expands bank services and embraces e-signatures
-excerpt: indonesian banks can now diversify services with e-signatures, explains recent article by assegaf hamzah & partners.
+title: Indonesia's New Regulation Expands Bank Services and Embraces E-Signatures
+excerpt: Indonesian banks can now diversify services with e-signatures, explains recent article by Assegaf Hamzah & Partners.
 cover: ./images/cai-fang-iSmklaGVWqE-unsplash.webp
 ---
+
 The [recent article by Assegaf Hamzah & Partners](https://www.ahp.co.id/news-and-insights/indonesias-new-regulation-expands-bank-services) discusses Indonesia's Financial Services Authority (OJK) new regulation. Issued at the end of 2024, OJK Regulation No. 26 of 2024 gives banks more flexibility in offering services while ensuring they follow sound financial practices. This regulation, effective from December 13, 2024, introduces new opportunities for banks. They can now participate in capital activities, engage in loan sales, offer guarantees, operate foreign exchange services, and use electronic signatures (e-signatures) and agreements.
 
 For capital participation, the regulation allows both conventional and sharia banks to invest beyond the financial sector, expanding their investment opportunities. Sharia banks must still adhere to sharia principles.
@@ -19,4 +17,3 @@ When it comes to foreign exchange, banks can now offer these as new products fol
 Importantly, the regulation recognizes the role of digital innovations. It requires banks to have clear policies for using e-signatures and e-agreements, ensuring they protect consumers and adhere to good financial practices.
 
 Overall, OJK Regulation No. 26 of 2024 marks an important step for Indonesian banks towards innovation and international alignment. It allows for more diverse services, better risk management, and a move towards a digital future. These changes are likely to make banks more competitive and able to support economic growth effectively.
-```

@@ -1,11 +1,9 @@
-```markdown
 ---
-Date: June 21, 2021
-URL: https://taypartners.com.my/digital-transition-is-malaysia-ready-for-it/
-title: malaysia's journey towards embracing digital changes in law
-excerpt: a recent article by tay & partners explores malaysia's readiness for tech-driven future updates in digital law.
+title: Malaysia's Journey Towards Embracing Digital Changes in Law
+excerpt: A recent article by Tay & Partners explores Malaysia's readiness for tech-driven future updates in digital law.
 cover: ./images/mohammadreza-kr-uKUMFQ3G8is-unsplash.webp
 ---
+
 A [recent article by Tay & Partners](https://taypartners.com.my/digital-transition-is-malaysia-ready-for-it/) discusses Malaysia's preparation for a digital future by exploring its current laws. During the COVID-19 pandemic, technologies like TikTok, Dogecoin, and Zoom saw incredible growth, leading to a rapid increase in digital adoption. The country's laws must evolve to support this digital transition effectively.
 
 One of Malaysia's main laws governing internet usage is the Communications and Multimedia Act 1998. It supports unhindered internet access and exempts most internet service providers from needing licenses. Providers should still adhere to the Malaysian Communications and Multimedia Content Code, which advises on best practices and respects individual privacy.
@@ -19,4 +17,3 @@ In the realm of electronic signatures, the Electronic Commerce Act 2006 allows f
 The Capital Markets and Services Act 2007 plays a role in regulating cryptocurrencies. Although digital currencies are not legal tender in Malaysia, they are seen as valid tradeable assets.
 
 Malaysia's digital laws have come a long way, and further updates will likely continue to integrate cutting-edge technology efficiently, ensuring digital readiness across all sectors.
-```

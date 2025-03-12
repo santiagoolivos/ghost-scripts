@@ -1,11 +1,7 @@
-```markdown
 ---
-Date: February 12, 2025
-URL: https://www.schoenherr.eu/content/everyday-use-of-electronic-documents-in-poland
-title: electronic signatures in poland: everyday convenience and legal assurance
-excerpt: a recent article by schoenherr highlights the increasing use and potential of electronic signatures in poland.
+title: Electronic Signatures in Poland: Everyday Convenience and Legal Assurance
+excerpt: A recent article by Schoenherr highlights the increasing use and potential of electronic signatures in Poland.
 cover: ./images/cai-fang-ukuHzcfDcSQ-unsplash.webp
-
 ---
 
 A [recent article by Schoenherr](https://www.schoenherr.eu/content/everyday-use-of-electronic-documents-in-poland) explores the evolving landscape of electronic document use in Poland. With technology rapidly advancing, electronic signatures are becoming more popular. The Polish Civil Code recognizes three types of legal documents: written, electronic, and document. If an electronic document is signed with a Qualified Electronic Signature (QES), it holds the same weight as a written one. 
@@ -18,4 +14,3 @@ Each EU Member State keeps a list of certified trust service providers. In Polan
 
 The positive move toward electronic signatures in Poland shows the benefits of modern technology, making documentation more accessible and legally binding when using QES. This makes business transactions smoother and adds confidence in digital document handling.
 
-```

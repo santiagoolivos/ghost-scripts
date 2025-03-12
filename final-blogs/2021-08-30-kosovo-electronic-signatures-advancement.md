@@ -1,9 +1,6 @@
-```markdown
 ---
-Date: August 30, 2021
-URL: https://www.lexology.com/library/document?tk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDEwMzc1NzMsImRhdGEiOnsiRG9jdW1lbnRHdWlkIjoiYWFiOGIzYmEtNWE2ZC00M2I0LWIwOGUtZjYwNDI1ODNhMWM3IiwiQ29udGFjdEd1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJCeXBhc3NMb2dpbiI6dHJ1ZX19.j5iUfu8b13eemixgDXvmtH6MNBpYZGjHrjYXl8salKwlc8Q1bly-BZ_5lFd0cbo4xuwga9Pq5CNqj21z1Fa-RA
-title: kosovo takes a big step in electronic signatures
-excerpt: kosovo's new draft law aims to enhance electronic transactions, a significant move reported by boga & associates.
+title: Kosovo Takes a Big Step in Electronic Signatures
+excerpt: Kosovo's new draft law aims to enhance electronic transactions, a significant move reported by Boga & Associates.
 cover: ./images/ricardo-gomez-angel-9AdeEdYB2yk-unsplash.webp
 ---
 
@@ -18,4 +15,3 @@ Trust Service Providers, who facilitate these services, must meet specific secur
 The law acknowledges scenarios where electronic signatures can't replace traditional methods. For example, family law cases and property-related legal actions will stick with conventional approaches due to their complexity.
 
 Overall, this initiative marks a positive step towards digital advancement in Kosovo, promising a future where electronic and traditional methods coexist harmoniously. The draft law sits as a robust framework catering to the increasing demand for digital transactions, fostering trust and efficiency in Kosovo's digital landscape.
-```
