@@ -4,7 +4,7 @@ excerpt: Recent article by The Legal Co. highlights new ETDA guidelines, making 
 cover: ./images/samuel-sng-WtrZ6sBT4Eg-unsplash.webp
 ---
 
-A [recent article by The Legal Co.](https://thelegal.co.th/2024/09/06/etda-guidelines-for-e-transactions-and-e-contracts-a-comprehensive-guide/) discusses new guidelines from Thailand’s Electronic Transactions Development Agency (ETDA) about electronic contracts, or e-Contracts. These guidelines make electronic transactions easier and safer by providing a step-by-step framework for creating, maintaining, and converting e-contracts. This can help businesses and individuals by using technology effectively in everyday transactions.
+A [recent article by The Legal Co.](https://thelegal.co.th/2024/09/06/etda-guidelines-for-e-transactions-and-e-contracts-a-comprehensive-guide/) discusses new guidelines from Thailand’s [Electronic Transactions Development Agency (ETDA)](https://www.etda.or.th/getattachment/8faa736b-3235-49c8-8b01-d37ff53a9a45/ENG-Version.aspx) about electronic contracts, or e-Contracts. These guidelines make electronic transactions easier and safer by providing a step-by-step framework for creating, maintaining, and converting e-contracts. This can help businesses and individuals by using technology effectively in everyday transactions.
 
 The guidelines break down e-Contract management into three key phases. First, when creating e-Contracts, users can draft these using simple software like Word or Google Docs. An electronic signature must clearly identify the person signing and show their approval. Unique features like electronic seals add extra security and validate the e-Contract’s origin. Paying stamp duty, if needed, can be done electronically.
 
